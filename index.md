@@ -7,9 +7,10 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: Auditor-General's Office
+      subtitle: Enhancing public accountability in the management and use of public
+        funds and resources.
+      background: /images/officers-reading-ar.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -22,6 +23,10 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      variant: side
+      backgroundColor: white
+      alignment: right
+      size: 33%
   - infobar:
       title: Infobar title
       subtitle: Subtitle
