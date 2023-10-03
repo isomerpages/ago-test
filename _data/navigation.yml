@@ -1,8 +1,27 @@
 logo: /images/logofavicon.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About AGO
+    url: /permalink
+    sublinks:
+      - title: Overview
+        url: /permalink
+      - title: Mission & Vision
+        url: /permalink
+      - title: Management Team
+        url: /permalink
+      - title: Organisational Structure
+        url: /permalink
+  - title: News & events
+    url: /permalink
+    sublinks: []
+  - title: AGO academy
+    url: /permalink
+    sublinks:
+      - title: New submenu
+        url: /permalink
+  - title: Career at AGO
+    url: /permalink
+    sublinks: []
+  - title: Useful links
+    url: /permalink
+    sublinks: []
