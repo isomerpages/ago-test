@@ -11,7 +11,10 @@ links:
         url: /permalink
       - title: Organisational Structure
         url: /permalink
-  - title: News & events
+  - title: TYPES OF AUDITS
+    url: /permalink
+    sublinks: []
+  - title: Career at AGO
     url: /permalink
     sublinks: []
   - title: AGO academy
@@ -19,7 +22,7 @@ links:
     sublinks:
       - title: New submenu
         url: /permalink
-  - title: Career at AGO
+  - title: News & events
     url: /permalink
     sublinks: []
   - title: Useful links
