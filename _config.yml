@@ -3,7 +3,7 @@ url: https://www.ago.gov.sg
 favicon: /images/logofavicon.png
 colors:
   primary-color: "#002855"
-  secondary-color: "#4372d6"
+  secondary-color: "#f8e71c"
   media-colors:
     - title: media-color-one
       color: "#3a5e7b"
