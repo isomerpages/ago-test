@@ -3,6 +3,8 @@ links:
   - title: About AGO
     url: /permalink
     sublinks:
+      - title: The Audit Act
+        url: /permalink
       - title: Overview
         url: /permalink
       - title: Mission & Vision
@@ -10,6 +12,8 @@ links:
       - title: Management Team
         url: /permalink
       - title: Organisational Structure
+        url: /permalink
+      - title: Our History
         url: /permalink
   - title: TYPES OF AUDITS
     url: /permalink
