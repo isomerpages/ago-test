@@ -22,7 +22,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-      variant: side
+      variant: center
       backgroundColor: gray
       alignment: left
       size: md
