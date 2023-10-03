@@ -11,7 +11,6 @@ sections:
       subtitle: Enhancing public accountability in the management and use of public
         funds and resources.
       background: /images/officers-reading-ar.jpg
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Highlight A
