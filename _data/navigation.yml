@@ -3,9 +3,11 @@ links:
   - title: About AGO
     url: /permalink
     sublinks:
-      - title: The Audit Act
-        url: /permalink
       - title: Overview
+        url: /permalink
+      - title: Our History
+        url: /permalink
+      - title: The Audit Act
         url: /permalink
       - title: Mission & Vision
         url: /permalink
@@ -13,11 +15,15 @@ links:
         url: /permalink
       - title: Organisational Structure
         url: /permalink
-      - title: Our History
-        url: /permalink
   - title: TYPES OF AUDITS
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Standards & Methodology
+        url: /permalink
+      - title: Quality & Code of ethics
+        url: /permalink
+      - title: Data & Information secuirty
+        url: /permalink
   - title: Career at AGO
     url: /permalink
     sublinks: []
