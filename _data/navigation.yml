@@ -34,7 +34,9 @@ links:
         url: /permalink
   - title: News & events
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: New submenu
+        url: /permalink
   - title: Useful links
     url: /permalink
     sublinks: []
