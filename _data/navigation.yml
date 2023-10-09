@@ -24,6 +24,9 @@ links:
         url: /permalink
       - title: Data & Information secuirty
         url: /permalink
+  - title: Publications
+    url: /permalink
+    sublinks: []
   - title: Careers
     url: /permalink
     sublinks: []
