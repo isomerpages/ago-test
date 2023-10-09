@@ -4,7 +4,7 @@ links:
     url: /about
     sublinks:
       - title: Overview
-        url: /permalink
+        url: /overview
       - title: Our History
         url: /permalink
       - title: The Audit Act
