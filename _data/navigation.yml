@@ -32,13 +32,11 @@ links:
     sublinks:
       - title: New submenu
         url: /permalink
-  - title: NEWHUBS
+  - title: NewsHub
     url: /permalink
     sublinks:
       - title: New submenu
         url: /permalink
-  - title: Useful links
+  - title: Useful Links
     url: /permalink
     sublinks: []
-  - title: Publications
-    resource_room: true
