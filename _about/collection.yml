@@ -2,6 +2,6 @@ collections:
   about:
     output: true
     order:
-      - Vision, Mission, Core Values.md
-      - History.md
       - Overview.md
+      - History.md
+      - Vision, Mission, Core Values.md
