@@ -39,4 +39,7 @@ sections:
       description: Find out more.
       button: Button Text
       alt: Image alt text
+  - resources:
+      title: LATEST NEWS & EVENTS
+      id: resources
 ---
