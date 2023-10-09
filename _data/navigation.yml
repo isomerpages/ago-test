@@ -40,3 +40,5 @@ links:
   - title: Useful links
     url: /permalink
     sublinks: []
+  - title: New resource room
+    resource_room: true
