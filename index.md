@@ -26,6 +26,7 @@ sections:
       backgroundColor: gray
       alignment: left
       size: md
+      button: learn more about what we do
   - infobar:
       title: Infobar title
       subtitle: Subtitle
