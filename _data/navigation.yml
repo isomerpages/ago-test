@@ -1,6 +1,8 @@
 logo: /images/logofavicon.png
 links:
   - title: About AGO
+    collection: about
+  - title: About AGO
     url: /about
     sublinks:
       - title: Overview
@@ -53,5 +55,3 @@ links:
   - title: Useful Links
     url: /permalink
     sublinks: []
-  - title: About AGO
-    collection: about
