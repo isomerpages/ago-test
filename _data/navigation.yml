@@ -1,7 +1,5 @@
 logo: /images/logofavicon.png
 links:
-  - title: Who we are
-    collection: about
   - title: About AGO
     url: /about
     sublinks:
@@ -11,7 +9,7 @@ links:
         url: /permalink
       - title: The Audit Act
         url: /permalink
-      - title: Mission & Vision
+      - title: Vision, Mission and Values
         url: /permalink
       - title: Management Team
         url: /permalink
@@ -28,19 +26,25 @@ links:
         url: /permalink
   - title: Publications
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Annual Reports
+        url: /permalink
+      - title: References and Guides
+        url: /permalink
   - title: Careers
     url: /permalink
     sublinks:
       - title: Career Opportunities
         url: /permalink
-      - title: Experienced Professionals
+      - title: For Experienced Professionals
         url: /permalink
       - title: Why Join Us?
         url: /permalink
       - title: Who Are We Looking For?
         url: /permalink
       - title: Hear From Our People
+        url: /permalink
+      - title: New submenu
         url: /permalink
   - title: AGO Academy
     url: /permalink
