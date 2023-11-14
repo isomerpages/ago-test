@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Title
+title: Auditor-General's Office
 description: An Isomer site of the Singapore Government
-image: /images/logofavicon.png
+image: /images/isomer-logo.svg
 permalink: /
 notification: Sample notification message
 sections:
