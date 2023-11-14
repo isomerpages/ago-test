@@ -1,0 +1,46 @@
+---
+layout: homepage
+title: Title
+description: An Isomer site of the Singapore Government
+image: /images/logofavicon.png
+permalink: /
+notification: Sample notification message
+sections:
+  - hero:
+      title: Auditor-General's Office
+      subtitle: Enhancing public accountability in the management and use of public
+        funds and resources.
+      background: /images/officers-reading-ar.jpg
+      url: /contact-us/
+      key_highlights:
+        - title: Highlight A
+          description: Important highlight A is important
+          url: https://google.com
+        - title: Highlight B
+          description: Important highlight B is equally important
+          url: https://gmail.com
+        - title: Page A
+          description: Page A is important too
+          url: /privacy/
+      variant: center
+      backgroundColor: gray
+      alignment: left
+      size: md
+      button: learn more about what we do
+  - infobar:
+      title: Infobar title
+      subtitle: Subtitle
+      description: About a sentence worth of description here
+      button: Button text
+      url: /faq/
+  - infopic:
+      title: ITEM 1
+      subtitle: Highlight 1
+      id: infopic
+      description: Find out more.
+      button: Button Text
+      alt: Image alt text
+  - resources:
+      title: LATEST NEWS & EVENTS
+      id: resources
+---

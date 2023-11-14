@@ -1,0 +1,8 @@
+collections:
+  about:
+    output: true
+    order:
+      - Senior Management.md
+      - Overview.md
+      - History.md
+      - Vision, Mission, Core Values.md
