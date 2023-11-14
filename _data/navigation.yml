@@ -1,10 +1,61 @@
-logo: /images/isomer-logo.svg
+logo: /images/logofavicon.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
-  - title: WHO WE ARE
-    collection: example-folder
+  - title: About AGO
+    url: /about
+    sublinks:
+      - title: Overview
+        url: /overview
+      - title: Our History
+        url: /permalink
+      - title: The Audit Act
+        url: /permalink
+      - title: Vision, Mission and Values
+        url: /permalink
+      - title: Management Team
+        url: /permalink
+      - title: Organisational Structure
+        url: /permalink
+  - title: Our Audit
+    url: /permalink
+    sublinks:
+      - title: Standards & Methodology
+        url: /permalink
+      - title: Quality & Code of ethics
+        url: /permalink
+      - title: Data & Information secuirty
+        url: /permalink
+  - title: Publications
+    url: /permalink
+    sublinks:
+      - title: Annual Reports
+        url: /permalink
+      - title: References and Guides
+        url: /permalink
+  - title: Careers
+    url: /permalink
+    sublinks:
+      - title: Career Opportunities
+        url: /permalink
+      - title: For Experienced Professionals
+        url: /permalink
+      - title: Why Join Us?
+        url: /permalink
+      - title: Who Are We Looking For?
+        url: /permalink
+      - title: Hear From Our People
+        url: /permalink
+      - title: New submenu
+        url: /permalink
+  - title: AGO Academy
+    url: /permalink
+    sublinks:
+      - title: New submenu
+        url: /permalink
+  - title: NewsHub
+    url: /permalink
+    sublinks:
+      - title: New submenu
+        url: /permalink
+  - title: Useful Links
+    url: /permalink
+    sublinks: []
