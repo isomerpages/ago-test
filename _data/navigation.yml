@@ -15,15 +15,15 @@ links:
         url: /who-we-are/history
       - title: Audit Authority
         url: /who-we-are/audit-authority
-  - title: Our Audit
+  - title: Our Audits
     url: /permalink
     sublinks:
       - title: Standards & Methodology
-        url: /permalink
-      - title: Quality & Code of ethics
-        url: /permalink
-      - title: Data & Information secuirty
-        url: /permalink
+        url: /our-audits/standards-methodology
+      - title: Quality & Code of Ethics
+        url: /our-audits/quality-code-of-ethnics
+      - title: Data & Information Security
+        url: /our-audits/data-info-security/
   - title: Publications
     url: /permalink
     sublinks:
