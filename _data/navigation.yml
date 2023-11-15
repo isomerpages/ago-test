@@ -18,6 +18,8 @@ links:
   - title: Our Audits
     url: /our-audits
     sublinks:
+      - title: Our Audits
+        url: /our-audits
       - title: Standards & Methodology
         url: /our-audits/standards-methodology
       - title: Audit Quality & Code of Ethics
