@@ -28,7 +28,7 @@ links:
     url: /permalink
     sublinks:
       - title: Annual Reports
-        url: /permalink
+        url: /our-publicat
       - title: References and Guides
         url: /permalink
   - title: Careers
@@ -57,5 +57,8 @@ links:
       - title: New submenu
         url: /permalink
   - title: Useful Links
+    url: /permalink
+    sublinks: []
+  - title: Publications
     url: /permalink
     sublinks: []
