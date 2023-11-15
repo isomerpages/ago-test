@@ -4,7 +4,7 @@ permalink: /careers/who-are-we-looking-for/
 variant: markdown
 description: ""
 ---
-![](/images/Who%20are%20we%20looking%20for.png)
+![](/images/Who_are_we_looking_for.png)
 
 ### Who are we looking for? 
 
