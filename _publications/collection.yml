@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Annual Reports.md
-      - Other Publications.md
       - Annual Report Infographics.md
+      - Other Publications.md
