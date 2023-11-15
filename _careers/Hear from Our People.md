@@ -8,7 +8,7 @@ description: ""
 <br>
 <table>
 	<tbody><tr>
-				<td><img src="/images/temp_photo.png" style="width:1000px;"></td>
+				<td width="40%"><img src="/images/temp_photo.png" style="width:1000px;"></td>
 		<td>“As a final-year accountancy undergraduate in Nanyang Technological University, I was looking out for a career which was different from the conventional route to join one of the Big Four accounting firms. The audit findings flagged by AGO auditors piqued my interest and the role of a government auditor appeared to be a meaningful role in which my skills and training could be put to impactful use for a wider public purpose.” 
 			<br>
 			<br>
@@ -40,4 +40,3 @@ description: ""
 		</td>
 	</tr>
 </tbody></table>
-
