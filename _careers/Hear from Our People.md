@@ -12,7 +12,7 @@ description: ""
 			<br>
 			<br>
 			<b>Sim Sze Xiong, Deputy Director</b> </td>
-		<td><img src="/images/Sze%20Xiong.jpg" style="width:1000px;"></td>
+		<td><img src="/images/temp_photo.jpg" style="width:1000px;"></td>
 	</tr>
 	<tr>
 		<td><img src="/images/Sabrina.jpg" style="width:1000px;"></td>
