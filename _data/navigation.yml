@@ -28,9 +28,11 @@ links:
     url: /permalink
     sublinks:
       - title: Annual Reports
-        url: /our-publicat
-      - title: References and Guides
-        url: /permalink
+        url: /publications/annual-reports/
+      - title: Annual Report Infographics
+        url: /publications/annual-report-infographics/
+      - title: Other Publications
+        url: /publications/other-publications/
   - title: Careers
     url: /permalink
     sublinks:
