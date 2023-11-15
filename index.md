@@ -44,9 +44,6 @@ sections:
       button: Read More
       url: /mou
       image: /images/home_mou.png
-  - resources:
-      title: LATEST NEWS & EVENTS
-      id: resources
   - infopic:
       title: Upskilling with AGO Academy
       id: infopic
@@ -55,4 +52,7 @@ sections:
       button: FIND OUT MORE ABOUT AGO ACADEMY
       url: /ago-academy
       alt: Upskilling with AGO Academy
+  - resources:
+      title: LATEST NEWS & EVENTS
+      id: resources
 ---
