@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Awards.md
       - Internship.md
       - Scholarships.md
       - Life As An AGO Auditor.md
