@@ -59,10 +59,7 @@ links:
     sublinks:
       - title: New submenu
         url: /permalink
-  - title: NewsHub
-    url: /permalink
-    sublinks:
-      - title: New submenu
-        url: /permalink
+  - title: Newshub
+    resource_room: true
   - title: Useful Links
     url: /useful-links
