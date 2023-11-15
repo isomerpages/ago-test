@@ -54,5 +54,5 @@ sections:
         Auditor-General’s Office (AGO)
       button: FIND OUT MORE ABOUT AGO ACADEMY
       url: /ago-academy
-      alt: Image alt text
+      alt: Upskilling with AGO Academy
 ---
