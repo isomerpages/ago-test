@@ -47,4 +47,12 @@ sections:
   - resources:
       title: LATEST NEWS & EVENTS
       id: resources
+  - infopic:
+      title: Upskilling with AGO Academy
+      id: infopic
+      description: AGO Academy is the professional training arm of the
+        Auditor-General’s Office (AGO)
+      button: FIND OUT MORE ABOUT AGO ACADEMY
+      url: /ago-academy
+      alt: Image alt text
 ---
