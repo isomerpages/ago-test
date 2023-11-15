@@ -57,8 +57,16 @@ links:
   - title: AGO Academy
     url: /permalink
     sublinks:
-      - title: New submenu
-        url: /permalink
+      - title: AGO Academy
+        url: /ago-academy/academy/
+      - title: Foundation Course
+        url: /ago-academy/foundation-course/
+      - title: Seminars and Workshops
+        url: /ago-academy/seminars-workshops/
+      - title: Learning Days
+        url: /ago-academy/learning-days/
+      - title: Training Sponsorships
+        url: /ago-academy/training-sponsorships/
   - title: Newshub
     resource_room: true
   - title: Useful Links
