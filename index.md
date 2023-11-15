@@ -32,7 +32,7 @@ sections:
         Assurance Framework (QAF)
       button: READ MORE ON OUR PROCESSES
       alt: Audit Quality & Code of Ethics
-      url: /audit
+      url: /our-audits/audit-quality-code-of-ethnics/
       image: /images/home_audit_quality.png
   - infopic:
       title: Memorandum of Understanding Between AGO and ISCA
