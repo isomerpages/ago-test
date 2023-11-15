@@ -5,9 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Why Join Us?
 ---
-<img src="/images/Ameer%20(final)3.jpg" alt="Ameer" style="width:200px;">
-
-
+![](/images/Ameer.jpg)
 
 ### Grow Your Career With Us
 ------------------------
