@@ -8,17 +8,17 @@ notification: ""
 sections:
   - hero:
       background: /images/bg_hero.png
-      url: /contact-us/
+      url: /overview/
       key_highlights:
         - title: Who We Are
           description: ""
           url: /about
         - title: Annual Report 22/23
           description: ""
-          url: https://gmail.com
+          url: /publications/annual-reports/
         - title: Career Opportunities
           description: ""
-          url: /privacy/
+          url: /careers/career-opportunities/
       variant: image
       backgroundColor: gray
       alignment: left
