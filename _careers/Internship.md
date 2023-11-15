@@ -18,7 +18,7 @@ Interested students may submit your application via [Careers@Gov](https://www.ca
     <tbody style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
         <tr style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
             <td style="padding: 10px; border: none; border-right: 1px solid #eaeaea; border-bottom: none; border-left: 1px solid #eaeaea; background: #f5f5f5; color: inherit; vertical-align: top;">
-                <img src="/images/vanessa-presentation-photo.jpg" data-displaymode="Original" alt="Vanessa Presentation Photo (1)" title="Vanessa Presentation Photo (1)" style="max-width: 100%; height: auto; width: auto;">
+                <img src="/images/vanessa_presentation_photo.jpg" data-displaymode="Original" alt="Vanessa Presentation Photo (1)" title="Vanessa Presentation Photo (1)" style="max-width: 100%; height: auto; width: auto;">
             </td>
             <td style="padding: 10px; border: none; border-right: 1px solid #eaeaea; border-bottom: none; border-left: 1px solid #eaeaea; background: #f5f5f5; color: inherit; vertical-align: top;">
                 <p style="margin: 0 0 25px; padding: 5px 0; font-size: 1rem; background: transparent; color: #444; font-family: Arial; font-weight: 400; line-height: 1.5em;">
@@ -31,7 +31,7 @@ Interested students may submit your application via [Careers@Gov](https://www.ca
         </tr>
         <tr style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
             <td style="padding: 10px; border: 1px solid #eaeaea; outline: 0px; font-size: 16px; vertical-align: top; background: transparent; color: inherit;">
-                <img src="/images/raynold-photo-2.jpg" data-displaymode="Original" alt="Raynold Internship Photo" title="Raynold Internship Photo" style="max-width: 100%; height: auto; width: auto;">
+                <img src="/images/raynold_photo_2.jpg" data-displaymode="Original" alt="Raynold Internship Photo" title="Raynold Internship Photo" style="max-width: 100%; height: auto; width: auto;">
             </td>
             <td style="padding: 10px; border: 1px solid #eaeaea; outline: 0px; font-size: 16px; vertical-align: top; background: transparent; color: inherit;">
                 <p style="margin: 0 0 25px; padding: 5px 0; font-size: 1rem; background: transparent; color: #444; font-family: Arial; font-weight: 400; line-height: 1.5em;">
