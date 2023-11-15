@@ -17,9 +17,29 @@ If you are a driven individual with an analytical and enquiring mind and would l
 **Eligibility Criteria**
 
 *   Singapore Citizen or Permanent Resident intending to take up Singapore citizenship.
-*   Demonstrated strong leadership qualities with active particpation in Co-Curricular Activities (CCA).
+*   Demonstrated strong leadership qualities with active participation in Co-Curricular Activities (CCA).
 
-<table style="margin: 0px 0px 20px; padding: 0px; border-width: 0px 0px 1px; border-top-style: initial; border-right-style: initial; border-bottom-style: solid; border-left-style: initial; border-top-color: initial; border-right-color: initial; border-bottom-color: rgb(234, 234, 234); border-left-color: initial; border-image: initial; outline: 0px; font-size: 16px; vertical-align: baseline; background: rgb(255, 255, 255); color: rgb(68, 68, 68); border-collapse: collapse; border-spacing: 0px; width: 700px; font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><colgroup><col width="50%"><col width="50%"></colgroup><tbody style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-size: 16px; vertical-align: baseline; background: transparent; color: inherit;"><tr style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-size: 16px; vertical-align: baseline; background: transparent; color: inherit;"><th style="margin: 0px; padding: 10px; border: 0px; outline: 0px; font-size: 16px; vertical-align: baseline; background: rgb(0, 69, 124); color: rgb(255, 255, 255); font-weight: bold !important; text-transform: uppercase; text-align: left;">UNDERGRADUATE SCHOLARSHIP</th><th style="margin: 0px; padding: 10px; border: 0px; outline: 0px; font-size: 16px; vertical-align: baseline; background: rgb(0, 69, 124); color: rgb(255, 255, 255); font-weight: bold !important; text-transform: uppercase; text-align: left;">MID-TERM SCHOLARSHIP</th></tr><tr style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-size: 16px; vertical-align: baseline; background: transparent; color: inherit;"><td style="margin: 0px; padding: 10px; border: 1px solid rgb(234, 234, 234); outline: 0px; font-size: 16px; vertical-align: top; background: transparent; color: inherit; white-space: normal;">Good GCE “A” level results (with minimum 10 academic units), International Baccalaureate (IB), Polytechnic Diploma (with Merit) or equivalent.</td><td style="margin: 0px; padding: 10px; border: 1px solid rgb(234, 234, 234); outline: 0px; font-size: 16px; vertical-align: top; background: transparent; color: inherit; white-space: normal;">Open to outstanding undergraduates who are currently pursuing an Accountancy degree at the local universities listed below and have completed at least one semester of undergraduates studies. Applicants should be on track for at least a Second Upper Class Honours.</td></tr></tbody></table>
+<table style="width: 100%; border-collapse: collapse; border-bottom: 1px solid #eaeaea; background: #fff; color: #444; font-family: Arial, Helvetica, sans-serif; font-size: 16px; text-align: start; margin: 0 0 20px; padding: 0;">
+    <colgroup>
+        <col width="50%">
+        <col width="50%">
+    </colgroup>
+    <tbody style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
+        <tr style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
+            <th style="padding: 10px; border: 0; font-size: 16px; vertical-align: baseline; background: #00457c; color: #fff; font-weight: bold !important; text-transform: uppercase; text-align: left;">UNDERGRADUATE SCHOLARSHIP</th>
+            <th style="padding: 10px; border: 0; font-size: 16px; vertical-align: baseline; background: #00457c; color: #fff; font-weight: bold !important; text-transform: uppercase; text-align: left;">MID-TERM SCHOLARSHIP</th>
+        </tr>
+        <tr style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
+            <td style="padding: 10px; border: 1px solid #eaeaea; outline: 0; font-size: 16px; vertical-align: top; background: transparent; color: inherit; white-space: normal;">
+                Good GCE “A” level results (with a minimum of 10 academic units), International Baccalaureate (IB), Polytechnic Diploma (with Merit), or equivalent.
+            </td>
+            <td style="padding: 10px; border: 1px solid #eaeaea; outline: 0; font-size: 16px; vertical-align: top; background: transparent; color: inherit; white-space: normal;">
+                Open to outstanding undergraduates currently pursuing an Accountancy degree at the local universities listed below and have completed at least one semester of undergraduate studies. Applicants should be on track for at least a Second Upper Class Honours.
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
 **Course of Study**
 
