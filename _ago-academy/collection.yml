@@ -1,4 +1,5 @@
 collections:
   ago-academy:
     output: true
-    order: []
+    order:
+      - AGO Academy.md
