@@ -2,6 +2,6 @@ collections:
   our-audits:
     output: true
     order:
-      - Data & Information Security.md
-      - Audit Quality & Code of Ethics.md
       - Standards & Methodology.md
+      - Audit Quality & Code of Ethics.md
+      - Data & Information Security.md
