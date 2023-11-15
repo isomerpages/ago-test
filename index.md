@@ -19,7 +19,7 @@ sections:
         - title: Career Opportunities
           description: ""
           url: /privacy/
-      variant: side
+      variant: image
       backgroundColor: gray
       alignment: left
       size: md
@@ -40,7 +40,7 @@ sections:
       description: >-
         On 12 July 2023, Auditor-General, 
 
-        Ms Goh Soon Poh and Institute of Singapore Chartered Accountants (ISCA) President, Mr Teo Ser Luck signed 
+        Ms Goh Soon Poh and Institute of Singapore Chartered Accountants (ISCA) President, Mr Teo Ser Luck signed
       button: Read More
       url: /mou
       image: /images/home_mou.png
