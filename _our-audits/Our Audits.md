@@ -6,7 +6,7 @@ description: ""
 ---
 ![](/images/our_audit.png)
 
-# The Audits that AGO Carries Out
+### The Audits that AGO Carries Out
 AGO carries out the following types of audits:
 
 
