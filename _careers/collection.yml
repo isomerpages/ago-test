@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Who are we looking for?.md
       - Experienced Professionals.md
       - Career Opportunities.md
       - Why Join Us?/Staff Benefits.md
