@@ -7,7 +7,8 @@ third_nav_title: Awards
 ---
 ### Recipients Of National Day Award
 --------------------------------
-![](/images/stevenchoy.jpg) 
+![](/images/stevenchoy.jpg)
+
 **Mr Choy Hong Yeen Steven, Deputy Director** **(Recipient of the 2021 NDA Commendation Medal)**
 
 Steven has been with AGO for 28 years. In his career in AGO thus far, he had been rotated to various groups such as SB1, Group 4 and 5, and was involved in the audits of Economic Development Board, National Research Foundation, National Council of Social Services and Ministry of Culture, Community and Youth. In addition, he also heads the Internal Audit Unit for AGO and oversees the internal audits on the corporate functions. 
@@ -27,7 +28,7 @@ I am not good at words. Perhaps from my actions of rolling up sleeves (literally
 
 ==============================================================
 
-![](/images/rina%20photo.jpg)
+![](/images/rina_photo.jpg)
 **Mdm Chua Pheck Kiang Rina, Assistant Auditor-General (AAG)**
 **[Recipient of the 2019 NDA Public Administration Medal (Silver)]**
 
