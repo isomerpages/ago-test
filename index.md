@@ -44,6 +44,7 @@ sections:
       button: Read More
       url: /mou
       image: /images/home_mou.png
+      alt: MOU Between AGO and ISCA
   - infopic:
       title: Upskilling with AGO Academy
       id: infopic
