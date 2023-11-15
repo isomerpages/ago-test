@@ -65,5 +65,4 @@ links:
       - title: New submenu
         url: /permalink
   - title: Useful Links
-    url: /permalink
-    sublinks: []
+    url: /useful-links
