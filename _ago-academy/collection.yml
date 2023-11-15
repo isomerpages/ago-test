@@ -2,6 +2,7 @@ collections:
   ago-academy:
     output: true
     order:
+      - Training Sponsorships.md
       - Learning Days.md
       - Seminars and Workshops.md
       - Foundation Course.md
