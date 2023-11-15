@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Awards/.keep
-      - Awards.md
       - Internship.md
       - Scholarships.md
       - Life As An AGO Auditor.md
