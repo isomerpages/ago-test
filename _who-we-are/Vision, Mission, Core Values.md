@@ -13,11 +13,8 @@ variant: markdown
 ## Our Core Values
 
 <table>
-	<tbody><tr><th>
-	</th><td></td>
-	<td></td>
-	
-	</tr><tr>
+	<tbody>
+		<tr>
 		<td><b>Independence</b></td>
 		<td>
 			<ul>
@@ -54,4 +51,5 @@ variant: markdown
 			</ul>
 		</td>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
