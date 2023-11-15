@@ -24,19 +24,32 @@ sections:
       alignment: left
       size: md
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Audit Quality & Code of Ethics
+      description: |-
+        To ensure quality in our audits, 
+        AGO has implemented a Quality 
+        Assurance Framework (QAF)
+      button: READ MORE ON OUR PROCESSES
       url: /faq/
   - infopic:
-      title: ITEM 1
-      subtitle: Highlight 1
+      title: Audit Quality & Code of Ethics
       id: infopic
-      description: Find out more.
-      button: Button Text
-      alt: Image alt text
+      description: |-
+        To ensure quality in our audits, 
+        AGO has implemented a Quality 
+        Assurance Framework (QAF)
+      button: READ MORE ON OUR PROCESSES
+      alt: Audit Quality & Code of Ethics
+      url: /audit
+      image: /images/home_audit_quality.png
   - resources:
       title: LATEST NEWS & EVENTS
       id: resources
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
