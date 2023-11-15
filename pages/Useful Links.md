@@ -7,7 +7,7 @@ description: ""
 ![](/images/UsefullinksBanner.jpg)
 
 ### PUBLIC ACCOUNTS COMMITTEE REPORTS
-* [Public Accounts Committee (PAC) Reports](https://sprs.parl.gov.sg/selectcommittee/#/home)
+* [Public Accounts Committee (PAC) Reports](https://sprs.parl.gov.sg/selectcommittee/#/home){:target="\_blank"}
 
 ### INTERNATIONAL / REGIONAL ORGANISATIONS OF SUPREME AUDIT INSTITUTIONS
 - [ASEANSAI](https://www.aseansai.org/)
