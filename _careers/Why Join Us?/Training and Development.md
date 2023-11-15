@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Why Join Us?
 ---
-
 ![](/images/Academy_Banner.jpg)### Training and Development
 
 AGO Academy is the professional training arm of the AGO, responsible for developing the overall development strategy and training programmes for its officers.
@@ -24,6 +23,6 @@ AGO encourages and provides sponsorship for officers to attain relevant professi
 
 AGO also support our officers in maintaining their professional membership with the professional bodies for the professional accreditation and certifications under the Sponsorship Scheme, where officers can claim up to a certain amount for each accreditation or certification per calendar year.  
 
-For more information, please visit [http://www.ago.gov.sg/ago-academy](https://www.ago.gov.sg/ago-academy)
+For more information, please visit [http://www.ago.gov.sg/ago-academy](https://www.ago.gov.sg/ago-academy){:target="_blank"}
 
-![](/images/training-and-development-002.jpg)
+![](/images/training_and_development_002.jpg)
