@@ -53,7 +53,7 @@ Through the trip, I got to better understand how the Koreans developed their dat
     <tbody style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
         <tr style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
             <td style="padding: 10px; border: none; border-right: 1px solid #eaeaea; border-bottom: none; border-left: 1px solid #eaeaea; background: #f5f5f5; color: inherit; vertical-align: top;">
-                <img src="/images/jia-qi-2.jpg" data-displaymode="Original" style="max-width: 100%; height: auto; width: auto;">
+                <img src="/images/jia_qi_2.jpg" data-displaymode="Original" style="max-width: 100%; height: auto; width: auto;">
             </td>
             <td style="padding: 10px; border: none; border-right: 1px solid #eaeaea; border-bottom: none; border-left: 1px solid #eaeaea; background: #f5f5f5; color: inherit; vertical-align: top;">
                 <p style="margin: 0 0 25px; padding: 5px 0; font-size: 1rem; background: transparent; color: #444; font-family: Arial; font-weight: 400; line-height: 1.5em;">
