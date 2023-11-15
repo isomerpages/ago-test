@@ -4,29 +4,25 @@ title: Auditor-General's Office
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Sample notification message
+notification: ""
 sections:
   - hero:
-      title: Auditor-General's Office
-      subtitle: Enhancing public accountability in the management and use of public
-        funds and resources.
-      background: /images/officers-reading-ar.jpg
+      background: /images/bg_hero.png
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Who We Are
+          description: ""
+          url: /about
+        - title: Annual Report 22/23
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Career Opportunities
+          description: ""
           url: /privacy/
-      variant: center
+      variant: side
       backgroundColor: gray
       alignment: left
       size: md
-      button: learn more about what we do
   - infobar:
       title: Infobar title
       subtitle: Subtitle
