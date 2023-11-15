@@ -1,5 +1,5 @@
 collections:
-  about:
+  who-we-are:
     output: true
     order:
       - Vision, Mission, Core Values.md
