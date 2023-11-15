@@ -5,16 +5,16 @@ links:
     sublinks:
       - title: Overview
         url: /overview
-      - title: Our History
-        url: /history
-      - title: The Audit Act
-        url: /permalink
       - title: Vision, Mission and Values
         url: /permalink
-      - title: Management Team
-        url: /permalink
+      - title: Senior Management
+        url: /who-we-are/management
       - title: Organisational Structure
-        url: /permalink
+        url: /who-we-are/organisation-structure
+      - title: Our History
+        url: /who-we-are/history
+      - title: Audit Authority
+        url: /who-we-are/audit-authority
   - title: Our Audit
     url: /permalink
     sublinks:
