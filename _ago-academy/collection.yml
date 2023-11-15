@@ -2,4 +2,5 @@ collections:
   ago-academy:
     output: true
     order:
+      - Foundation Course.md
       - AGO Academy.md
