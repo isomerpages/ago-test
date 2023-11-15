@@ -4,7 +4,7 @@ permalink: /careers/scholarships/
 variant: markdown
 description: ""
 ---
-![](/images/picture1%20(resized2).jpg)
+![](/images/picture1__resized2_.jpg)
 
 ### AGO Auditing Service Scholarship
 -----------------------------------
