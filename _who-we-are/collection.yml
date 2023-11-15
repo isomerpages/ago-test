@@ -2,8 +2,8 @@ collections:
   who-we-are:
     output: true
     order:
-      - Organisation Structure.md
+      - Overview.md
       - Vision, Mission, Core Values.md
       - Senior Management.md
-      - Overview.md
+      - Organisation Structure.md
       - History.md
