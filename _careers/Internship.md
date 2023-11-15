@@ -10,7 +10,7 @@ The AGO Internship Programme provides undergraduates pursuing a Degree in Accoun
 
 For Summer and Winter Internship Programmes, kindly check this page in February and September respectively to register for the next internship run.
 
-Interested students may submit your application via [Careers@Gov](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html) by selecting 'Auditor-General's Office' under 'Agency'! You may also send your resume to AGO_HROD@ago.gov.sg.
+Interested students may submit your application via [Careers@Gov](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html){:target="_blank"} by selecting 'Auditor-General's Office' under 'Agency'! You may also send your resume to .
 
 ###### Below are quotes from some of the past interns who had successfully completed their internship with AGO.
 
