@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Hear from Our People.md
       - Who are we looking for?.md
       - Experienced Professionals.md
       - Career Opportunities.md
