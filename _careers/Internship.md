@@ -14,7 +14,7 @@ Interested students may submit your application via [Careers@Gov](https://www.ca
 
 ###### Below are quotes from some of the past interns who had successfully completed their internship with AGO.
 
-<table style="width: 700px; border-collapse: collapse; border-bottom: 1px solid #eaeaea; background: #fff; color: #444; font-family: Arial, Helvetica, sans-serif; font-size: 16px; text-align: start; margin: 0 0 20px; padding: 0;">
+<table style="width: 100%; border-collapse: collapse; border-bottom: 1px solid #eaeaea; background: #fff; color: #444; font-family: Arial, Helvetica, sans-serif; font-size: 16px; text-align: start; margin: 0 0 20px; padding: 0;">
     <tbody style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
         <tr style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
             <td style="padding: 10px; border: none; border-right: 1px solid #eaeaea; border-bottom: none; border-left: 1px solid #eaeaea; background: #f5f5f5; color: inherit; vertical-align: top;">
