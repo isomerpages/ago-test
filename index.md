@@ -51,7 +51,7 @@ sections:
       description: AGO Academy is the professional training arm of the
         Auditor-General’s Office (AGO)
       button: FIND OUT MORE ABOUT AGO ACADEMY
-      url: /ago-academy
+      url: /ago-academy/academy/
       alt: Upskilling with AGO Academy
   - resources:
       title: LATEST NEWS & EVENTS
