@@ -23,14 +23,6 @@ sections:
       backgroundColor: gray
       alignment: left
       size: md
-  - infobar:
-      title: Audit Quality & Code of Ethics
-      description: |-
-        To ensure quality in our audits, 
-        AGO has implemented a Quality 
-        Assurance Framework (QAF)
-      button: READ MORE ON OUR PROCESSES
-      url: /faq/
   - infopic:
       title: Audit Quality & Code of Ethics
       id: infopic
@@ -42,14 +34,17 @@ sections:
       alt: Audit Quality & Code of Ethics
       url: /audit
       image: /images/home_audit_quality.png
+  - infopic:
+      title: Memorandum of Understanding Between AGO and ISCA
+      id: infopic
+      description: >-
+        On 12 July 2023, Auditor-General, 
+
+        Ms Goh Soon Poh and Institute of Singapore Chartered Accountants (ISCA) President, Mr Teo Ser Luck signed 
+      button: Read More
+      url: /mou
+      image: /images/home_mou.png
   - resources:
       title: LATEST NEWS & EVENTS
       id: resources
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
