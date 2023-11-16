@@ -48,7 +48,6 @@ description: ""
   }
 </style>
 
-
 <div class="row is-multiline padding--bottom--lg">
       <div class="col is-one-third image-col">
        <span class="test-class">FINANCIAL STATEMENTS AUDIT</span>
