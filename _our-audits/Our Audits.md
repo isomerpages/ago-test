@@ -30,9 +30,28 @@ description: ""
 <br>
 <br>
 
+<style>
+  /* Styles for the .test-class */
+  .test-class {
+    font-size: 1.6rem;
+    font-weight: bold;
+    line-height: 1;
+    margin-top: 20px;
+    color: #003366;
+  }
+
+  /* Media query for screens with a maximum width of 600px */
+  @media only screen and (max-width: 600px) {
+    .test-class {
+      font-size: 1rem;
+    }
+  }
+</style>
+
+
 <div class="row is-multiline padding--bottom--lg">
       <div class="col is-one-third image-col">
-       <span style="font-size:1.6rem; font-weight:bold; line-height: 1; margin-top: 20px; color: #003366;">FINANCIAL STATEMENTS AUDIT</span>
+       <span class="test-class">FINANCIAL STATEMENTS AUDIT</span>
       </div>
       <div class="col padding--top padding--bottom">
           Which involves the checking of accounts with the objective of giving an audit opinion on the annual financial statements prepared by the entity;
@@ -56,4 +75,3 @@ Which involves the checking of selected activities and operations, carried out i
           Which is an in-depth examination of a selected area and may involve more than one public sector entity. The in-depth examination enables AGO to report on good practices in financial governance and controls that it may come across in the course of the audit, in addition to lapses.
     </div>
   </div>
-
