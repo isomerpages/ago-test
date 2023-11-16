@@ -27,36 +27,31 @@ description: ""
 </tbody>
 </table>
 
-<div id="test" class="row is-multiline padding--bottom--lg">
-  <!-- First Column -->
-  <div class="col is-half padding--right">
-    <div class="row margin--bottom--xs margin--right">
+<div class="row is-multiline padding--bottom--lg">
       <div class="col is-one-third image-col">
-        <img src="/images/temp_photo.png" class="margin--right--none">
+       <span style="font-size:1.6rem; font-weight:bold; line-height: 1; margin-top: 20px; color: #003366;">FINANCIAL STATEMENTS AUDIT</span>
       </div>
-      <div class="col padding--top padding--bottom bg-table-grey">
-        <p class="is-marginless padding--top--sm">
-          <b>Test</b><br>
-          <small style="font-size: 0.75rem" class="is-uppercase">Test</small><br>
-        </p>
-        <h6 class="is-marginless margin--top--xs">Test</h6>
-      </div>
+      <div class="col padding--top padding--bottom">
+          Which involves the checking of accounts with the objective of giving an audit opinion on the annual financial statements prepared by the entity;
     </div>
   </div>
-  
-  <!-- Second Column -->
-  <div class="col is-half padding--right">
-    <div class="row margin--bottom--xs margin--right">
+	
+	
+<div class="row is-multiline padding--bottom--lg">
       <div class="col is-one-third image-col">
-        <img src="/images/temp_photo.png" class="margin--right--none">
+      <span style="font-size:2rem; font-weight:bold; line-height: 1; margin-top: 20px;">SELECTIVE AUDIT</span>
       </div>
-      <div class="col padding--top padding--bottom bg-table-grey">
-        <p class="is-marginless padding--top--sm">
-          <b>Test</b><br>
-          <small style="font-size: 0.75rem" class="is-uppercase">Test</small><br>
-        </p>
-        <h6 class="is-marginless margin--top--xs">Test</h6>
-      </div>
+      <div class="col padding--top padding--bottom">
+Which involves the checking of selected activities and operations, carried out in relation to the accounts, for financial irregularity, and to ascertain whether there has been excess, extravagance or gross inefficiency leading to waste, and whether measures to prevent them are in place. Such an audit is not intended to render an opinion on the financial statements or draw any conclusion on the overall performance of the audited entity; and
     </div>
   </div>
-</div>
+	
+<div class="row is-multiline padding--bottom--lg">
+      <div class="col is-one-third image-col">
+      <span style="font-size:2rem; font-weight:bold; line-height: 1; margin-top: 20px;">THEMATIC AUDIT</span>
+      </div>
+      <div class="col padding--top padding--bottomy">
+          Which is an in-depth examination of a selected area and may involve more than one public sector entity. The in-depth examination enables AGO to report on good practices in financial governance and controls that it may come across in the course of the audit, in addition to lapses.
+    </div>
+  </div>
+
