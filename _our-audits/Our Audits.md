@@ -26,6 +26,9 @@ description: ""
 </tr>
 </tbody>
 </table>
+<br>
+<br>
+<br>
 
 <div class="row is-multiline padding--bottom--lg">
       <div class="col is-one-third image-col">
