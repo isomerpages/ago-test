@@ -26,3 +26,37 @@ description: ""
 </tr>
 </tbody>
 </table>
+
+<div id="test" class="row is-multiline padding--bottom--lg">
+  <!-- First Column -->
+  <div class="col is-half padding--right">
+    <div class="row margin--bottom--xs margin--right">
+      <div class="col is-one-third image-col">
+        <img src="/images/temp_photo.png" class="margin--right--none">
+      </div>
+      <div class="col padding--top padding--bottom bg-table-grey">
+        <p class="is-marginless padding--top--sm">
+          <b>Test</b><br>
+          <small style="font-size: 0.75rem" class="is-uppercase">Test</small><br>
+        </p>
+        <h6 class="is-marginless margin--top--xs">Test</h6>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Second Column -->
+  <div class="col is-half padding--right">
+    <div class="row margin--bottom--xs margin--right">
+      <div class="col is-one-third image-col">
+        <img src="/images/temp_photo.png" class="margin--right--none">
+      </div>
+      <div class="col padding--top padding--bottom bg-table-grey">
+        <p class="is-marginless padding--top--sm">
+          <b>Test</b><br>
+          <small style="font-size: 0.75rem" class="is-uppercase">Test</small><br>
+        </p>
+        <h6 class="is-marginless margin--top--xs">Test</h6>
+      </div>
+    </div>
+  </div>
+</div>
