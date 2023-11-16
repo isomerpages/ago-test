@@ -15,7 +15,7 @@ variant: markdown
 <table>
 	<tbody>
 		<tr>
-		<td><b>Independence</b></td>
+		<td><span style="font-size: 1rem; font-weight: bold;">Independence</span></td>
 		<td>
 			<ul>
 				<li>We carry out our audits without fear or favour</li>
