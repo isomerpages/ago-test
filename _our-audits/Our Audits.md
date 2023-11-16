@@ -13,7 +13,7 @@ description: ""
 <table cellspacing="0" cellpadding="0" border="0" style="width: 100%;">
 <tbody>
 <tr style="border: none;">
-	<td><span style="font-size:1.6rem; font-weight:bold; line-height: 1; margin-top: 20px; color: #003366;">FINANCIAL STATEMENTS AUDIT</span></td>
+	<td width="30%"><span style="font-size:1.6rem; font-weight:bold; line-height: 1; margin-top: 20px; color: #003366;">FINANCIAL STATEMENTS AUDIT</span></td>
 <td>Which involves the checking of accounts with the objective of giving an audit opinion on the annual financial statements prepared by the entity;</td>
 </tr>
 	<tr>
