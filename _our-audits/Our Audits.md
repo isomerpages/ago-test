@@ -26,3 +26,33 @@ description: ""
 </tr>
 </tbody>
 </table>
+
+<br>
+<br>
+
+<style>
+  .test-class {
+    font-size: 1.6rem;
+    font-weight: bold;
+    line-height: 1;
+    margin-top: 20px;
+    color: #003366;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .test-class {
+      font-size: 1rem;
+    }
+  }
+</style>
+
+<div class="row is-multiline padding--bottom--lg">
+	<div class="row">
+	<div class="col is-half test-class">FINANCIAL STATEMENTS AUDIT</div>
+		<div class="col is-half">Which involves the checking of accounts with the objective of giving an audit opinion on the annual financial statements prepared by the entity;</div>
+</div>
+<div class="row">
+	<div class="col is-half test-class">FINANCIAL STATEMENTS AUDIT</div>
+		<div class="col is-half">Which involves the checking of accounts with the objective of giving an audit opinion on the annual financial statements prepared by the entity;</div>
+</div>
+	</div>
