@@ -46,7 +46,7 @@ description: ""
 
 <div class="testimonial">
     <div class="testimonial-image">
-        <img style="width: 100%;" alt="Photo" src="/images/temp_photo.png">
+        <img alt="Photo" src="/images/temp_photo.png">
     </div>
     <div class="testimonial-content">
         <p>
@@ -60,7 +60,7 @@ description: ""
 
 <div class="testimonial">
     <div class="testimonial-image">
-        <img style="width: 100%;" alt="Photo" src="/images/temp_photo.png">
+        <img alt="Photo" src="/images/temp_photo.png">
     </div>
     <div class="testimonial-content">
         <p>
@@ -74,7 +74,7 @@ description: ""
 
 <div class="testimonial">
     <div class="testimonial-image">
-        <img style="width: 100%;" alt="Photo" src="/images/temp_photo.png">
+        <img alt="Photo" src="/images/temp_photo.png">
     </div>
     <div class="testimonial-content">
         <p>
@@ -88,7 +88,7 @@ description: ""
 
 <div class="testimonial">
     <div class="testimonial-image">
-        <img style="width: 100%;" alt="Photo" src="/images/temp_photo.png">
+        <img alt="Photo" src="/images/temp_photo.png">
     </div>
     <div class="testimonial-content">
         <p>
