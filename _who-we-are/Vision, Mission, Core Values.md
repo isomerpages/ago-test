@@ -12,6 +12,15 @@ variant: markdown
 
 ## Our Core Values
 
+<style>
+  .title {
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1;
+    color: #003366;
+  }
+
+</style>
 <div class="row is-multiline padding--bottom--lg padding--top--lg">
 	<div class="row">
 		<div class="col is-one-third title">Independence</div>
