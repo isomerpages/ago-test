@@ -32,18 +32,12 @@ description: ""
 
 <style>
   .test-class {
-    font-size: 1.6rem;
+    font-size: 2rem;
     font-weight: bold;
     line-height: 1;
-    margin-top: 20px;
     color: #003366;
   }
 
-  @media only screen and (max-width: 600px) {
-    .test-class {
-      font-size: 1rem;
-    }
-  }
 </style>
 
 <div class="row is-multiline padding--bottom--lg">
