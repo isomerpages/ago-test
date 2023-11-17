@@ -24,7 +24,7 @@ description: ""
         font-style: italic;
     }
 
-    @media (min-width: 600px) {
+    @media (max-width: 600px) {
         .testimonial {
             flex-direction: row;
         }
