@@ -34,6 +34,10 @@ description: ""
             margin-bottom: 0;
             margin-right: 20px;
         }
+	
+				.testimonial-image img {
+		width: 50%;
+	}
     }
 </style>
 
