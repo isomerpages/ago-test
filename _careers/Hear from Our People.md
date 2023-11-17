@@ -7,12 +7,13 @@ description: ""
 <style>
     .testimonial {
         display: flex;
+        flex-direction: column; /* Change to column layout at 600px */
         margin-bottom: 20px;
     }
 
     .testimonial-image {
-        width: 40%;
-        margin-right: 20px;
+        width: 100%; /* Full width for the image */
+        margin-bottom: 10px; /* Add spacing between image and text */
     }
 
     .testimonial-content {
@@ -23,7 +24,21 @@ description: ""
     .testimonial-content i {
         font-style: italic;
     }
+
+    /* Responsive styles for smaller screens */
+    @media (min-width: 600px) {
+        .testimonial {
+            flex-direction: row; /* Revert to row layout at 600px */
+        }
+
+        .testimonial-image {
+            width: 40%;
+            margin-bottom: 0; /* Remove spacing between image and text */
+            margin-right: 20px;
+        }
+    }
 </style>
+
 
 <div class="testimonial">
     <div class="testimonial-image">
