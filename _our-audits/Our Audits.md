@@ -4,11 +4,6 @@ permalink: /our-audits/
 variant: markdown
 description: ""
 ---
-![](/images/our_audit.png)
-
-### The Audits that AGO Carries Out
-**AGO carries out the following types of audits:
-
 <style>
   .title {
     font-size: 2rem;
@@ -19,7 +14,12 @@ description: ""
 
 </style>
 
-<div class="row is-multiline padding--bottom--lg">
+![](/images/our_audit.png)
+
+### The Audits that AGO Carries Out
+**AGO carries out the following types of audits:
+
+<div class="row is-multiline padding--bottom--lg  padding--top--lg">
 	<div class="row">
 	<div class="col is-one-third title">FINANCIAL STATEMENTS AUDIT</div>
 		<div class="col is-two-third">Which involves the checking of accounts with the objective of giving an audit opinion on the annual financial statements prepared by the entity;</div>
