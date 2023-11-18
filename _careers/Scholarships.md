@@ -7,17 +7,21 @@ description: ""
 ![](/images/picture1__resized2_.jpg)
 
 <style>
-        table {
+        .scholarship-table {
             width: 100%;
             border-collapse: collapse;
             border-bottom: 1px solid #eaeaea;
             background: #fff;
             color: #444;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 16px;
+            text-align: start;
             margin: 0 0 20px;
             padding: 0;
         }
 
-        th, td {
+        .scholarship-table th,
+        .scholarship-table td {
             padding: 10px;
             border: 1px solid #eaeaea;
             font-size: 16px;
@@ -27,12 +31,51 @@ description: ""
             white-space: normal;
         }
 
-        th {
+        .scholarship-table th {
+            width: 50%;
             font-weight: bold;
             background: #00457c;
-            color: #fffff;
+            color: #fff;
             text-transform: uppercase;
             text-align: left;
+        }
+
+        .scholarship-table ul {
+            margin: 0 0 25px 15px;
+            padding: 0;
+            border: 0;
+            outline: 0;
+            font-size: 16px;
+            vertical-align: baseline;
+            background: transparent;
+            color: inherit;
+            list-style: inside square;
+        }
+
+        .scholarship-table li {
+            margin: 0 0 0 15px;
+            padding: 0;
+            border: 0;
+            outline: 0;
+            font-size: 16px;
+            vertical-align: baseline;
+            background: transparent;
+            color: inherit;
+            list-style-position: outside;
+        }
+
+        .scholarship-table p {
+            margin: 0 0 25px;
+            padding: 5px 0;
+            border: 0;
+            outline: 0;
+            font-size: 1rem;
+            vertical-align: baseline;
+            background: transparent;
+            color: #444;
+            font-family: Arial;
+            font-weight: 400;
+            line-height: 1.5em;
         }
     </style>
 
@@ -48,7 +91,7 @@ If you are a driven individual with an analytical and enquiring mind and would l
 *   Singapore Citizen or Permanent Resident intending to take up Singapore citizenship.
 *   Demonstrated strong leadership qualities with active participation in Co-Curricular Activities (CCA).
 
-<table>
+<table class="scholarship-table">
         <tbody>
             <tr>
                 <th>UNDERGRADUATE SCHOLARSHIP</th>
@@ -100,7 +143,7 @@ The PSC Scholarship (Public Finance) aims to develop individuals trained in Acco
 
 Applicants for the undergraduate scholarships are welcome to apply prior to pursuing their undergraduate degree or up until the penultimate year of their undergraduate degree (referred to as ‘mid-term applicants’).
 
-<table>
+<table class="scholarship-table">
         <tbody>
             <tr>
                 <th>PSC UNDERGRADUATE SCHOLARSHIPS</th>
