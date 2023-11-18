@@ -5,8 +5,6 @@ variant: markdown
 description: ""
 ---
 ![](/images/banner_career_opportunities.png)
- 
-### Career Opportunities 
 
 AGO invites dynamic, driven individuals with an analytical, enquiring mind and good interpersonal skills to join us.
 
