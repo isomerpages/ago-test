@@ -6,6 +6,36 @@ description: ""
 ---
 ![](/images/picture1__resized2_.jpg)
 
+<style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            border-bottom: 1px solid #eaeaea;
+            background: #fff;
+            color: #444;
+            margin: 0 0 20px;
+            padding: 0;
+        }
+
+        th, td {
+            padding: 10px;
+            border: 1px solid #eaeaea;
+            font-size: 16px;
+            vertical-align: top;
+            background: transparent;
+            color: inherit;
+            white-space: normal;
+        }
+
+        th {
+            font-weight: bold;
+            background: #00457c;
+            color: #fffff;
+            text-transform: uppercase;
+            text-align: left;
+        }
+    </style>
+
 ## AGO Auditing Service Scholarship
 AGO plays an important role in enhancing public accountability and governance in the public sector. AGO checks on the proper accounting of public monies and use of public resources through various types of audits. Our observations include system weaknesses, non-compliance with control procedures or legislation, and instances of excess, extravagance, or gross inefficiency leading to waste in the use of public funds and resources.
 
@@ -18,23 +48,22 @@ If you are a driven individual with an analytical and enquiring mind and would l
 *   Singapore Citizen or Permanent Resident intending to take up Singapore citizenship.
 *   Demonstrated strong leadership qualities with active participation in Co-Curricular Activities (CCA).
 
-<table style="width: 100%; border-collapse: collapse; border-bottom: 1px solid #eaeaea; background: #fff; color: #444; margin: 0 0 20px; padding: 0;">
-    <tbody>
-        <tr>
-            <th style="width: 50%; padding: 10px; border: 0; font-size: 16px; background: #00457c; color: #fff; font-weight: bold !important; text-transform: uppercase; text-align: left;">UNDERGRADUATE SCHOLARSHIP</th>
-            <th style="width: 50%; padding: 10px; border: 0; font-size: 16px; background: #00457c; color: #fff; font-weight: bold !important; text-transform: uppercase; text-align: left;">MID-TERM SCHOLARSHIP</th>
-        </tr>
-        <tr style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
-            <td style="padding: 10px; border: 1px solid #eaeaea; outline: 0; font-size: 16px; vertical-align: top; background: transparent; color: inherit; white-space: normal;">
-                Good GCE “A” level results (with a minimum of 10 academic units), International Baccalaureate (IB), Polytechnic Diploma (with Merit), or equivalent.
-            </td>
-            <td style="padding: 10px; border: 1px solid #eaeaea; outline: 0; font-size: 16px; vertical-align: top; background: transparent; color: inherit; white-space: normal;">
-                Open to outstanding undergraduates currently pursuing an Accountancy degree at the local universities listed below and have completed at least one semester of undergraduate studies. Applicants should be on track for at least a Second Upper Class Honours.
-            </td>
-        </tr>
-    </tbody>
-</table>
-
+<table>
+        <tbody>
+            <tr>
+                <th>UNDERGRADUATE SCHOLARSHIP</th>
+                <th>MID-TERM SCHOLARSHIP</th>
+            </tr>
+            <tr>
+                <td>
+                    Good GCE “A” level results (with a minimum of 10 academic units), International Baccalaureate (IB), Polytechnic Diploma (with Merit), or equivalent.
+                </td>
+                <td>
+                    Open to outstanding undergraduates currently pursuing an Accountancy degree at the local universities listed below and have completed at least one semester of undergraduate studies. Applicants should be on track for at least a Second Upper Class Honours.
+                </td>
+            </tr>
+        </tbody>
+    </table>
 
 **Course of Study**
 
