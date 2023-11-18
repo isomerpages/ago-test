@@ -19,15 +19,11 @@ If you are a driven individual with an analytical and enquiring mind and would l
 *   Singapore Citizen or Permanent Resident intending to take up Singapore citizenship.
 *   Demonstrated strong leadership qualities with active participation in Co-Curricular Activities (CCA).
 
-<table style="width: 100%; border-collapse: collapse; border-bottom: 1px solid #eaeaea; background: #fff; color: #444; font-family: Arial, Helvetica, sans-serif; font-size: 16px; text-align: start; margin: 0 0 20px; padding: 0;">
-    <colgroup>
-        <col width="50%">
-        <col width="50%">
-    </colgroup>
-    <tbody style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
-        <tr style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
-            <th style="padding: 10px; border: 0; font-size: 16px; vertical-align: baseline; background: #00457c; color: #fff; font-weight: bold !important; text-transform: uppercase; text-align: left;">UNDERGRADUATE SCHOLARSHIP</th>
-            <th style="padding: 10px; border: 0; font-size: 16px; vertical-align: baseline; background: #00457c; color: #fff; font-weight: bold !important; text-transform: uppercase; text-align: left;">MID-TERM SCHOLARSHIP</th>
+<table style="width: 100%; border-collapse: collapse; border-bottom: 1px solid #eaeaea; background: #fff; color: #444; margin: 0 0 20px; padding: 0;">
+    <tbody>
+        <tr>
+            <th style="padding: 10px; border: 0; font-size: 16px; background: #00457c; color: #fff; font-weight: bold !important; text-transform: uppercase; text-align: left;">UNDERGRADUATE SCHOLARSHIP</th>
+            <th style="padding: 10px; border: 0; font-size: 16px; background: #00457c; color: #fff; font-weight: bold !important; text-transform: uppercase; text-align: left;">MID-TERM SCHOLARSHIP</th>
         </tr>
         <tr style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
             <td style="padding: 10px; border: 1px solid #eaeaea; outline: 0; font-size: 16px; vertical-align: top; background: transparent; color: inherit; white-space: normal;">
@@ -78,17 +74,11 @@ The PSC Scholarship (Public Finance) aims to develop individuals trained in Acco
 Applicants for the undergraduate scholarships are welcome to apply prior to pursuing their undergraduate degree or up until the penultimate year of their undergraduate degree (referred to as ‘mid-term applicants’).
 
 <table style="width: 100%; border-collapse: collapse; border-bottom: 1px solid #eaeaea; background: #fff; color: #444; font-family: Arial, Helvetica, sans-serif; font-size: 16px; text-align: start; margin: 0 0 20px; padding: 0;">
-    <colgroup>
-        <col width="50%">
-        <col width="50%">
-    </colgroup>
     <tbody style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
         <tr style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
-            <th style="padding: 10px; border: 0; font-size: 16px; vertical-align: baseline; background: #00457c; color: #fff; font-weight: bold !important; text-transform: uppercase; text-align: left;">
-                <strong style="font-weight: bold !important;">PSC UNDERGRADUATE SCHOLARSHIPS</strong>
+            <th style="padding: 10px; border: 0; font-size: 16px; background: #00457c; color: #fff; font-weight: bold !important; text-transform: uppercase; text-align: left;">PSC UNDERGRADUATE SCHOLARSHIPS
             </th>
-            <th style="padding: 10px; border: 0; font-size: 16px; vertical-align: baseline; background: #00457c; color: #fff; font-weight: bold !important; text-transform: uppercase; text-align: left;">
-                <strong style="font-weight: bold !important;">PSC UNDERGRADUATE SCHOLARSHIPS (MID-TERM)</strong>
+            <th style="padding: 10px; border: 0; font-size: 16px; background: #00457c; color: #fff; font-weight: bold !important; text-transform: uppercase; text-align: left;">PSC UNDERGRADUATE SCHOLARSHIPS (MID-TERM)
             </th>
         </tr>
         <tr style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
