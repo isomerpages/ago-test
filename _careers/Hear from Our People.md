@@ -7,7 +7,6 @@ description: ""
 <style>
     .testimonial {
         display: flex;
-        flex-direction: column;
         margin-bottom: 20px;
     }
 
@@ -26,7 +25,7 @@ description: ""
 
     @media (max-width: 600px) {
         .testimonial {
-            flex-direction: row;
+            flex-direction: column;
         }
 
         .testimonial-image {
