@@ -13,6 +13,6 @@ The Academy's responsibilities include:
 * Developing a training roadmap for AGO officers; and
 * Designing and implementing training curriculum for AGO officers.
 
-##### Our Mission and Vision
+### Our Mission and Vision
 
 To be a centre of excellence for training in public sector auditing.
