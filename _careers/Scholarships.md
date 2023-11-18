@@ -4,7 +4,7 @@ permalink: /careers/scholarships/
 variant: markdown
 description: ""
 ---
-![](/images/picture1__resized2_.jpg)
+![](/images/banner_scholarship.png)
 
 <style>
         .scholarship-table {
