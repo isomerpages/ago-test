@@ -9,17 +9,14 @@ description: ""
         display: flex;
 				margin-bottom: 30px;
 				padding: 10px 0 30px 0;
-				border-bottom: 1px solid #dddddd
+				border-bottom: 1px solid #dddddd;
+				column-gap: 30px
     }
 
     .testimonial-image {
-        width: 40%;
+        width: 30%;
         margin-bottom: 10px;
     }
-		
-				.testimonial-image img {
-					width: 50%;
-				}
 	
     .testimonial-content {
         flex: 1;
