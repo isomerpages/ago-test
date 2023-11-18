@@ -4,8 +4,7 @@ permalink: /ago-academy/academy/
 variant: markdown
 description: ""
 ---
-![](/images/Academy_Banner.jpg)
-### AGO Academy
+![](/images/banner_academy.png)
 
 AGO Academy is the professional training arm of the Auditor-General's Office (AGO). The setting up of the Academy underscores AGO's commitment towards the professional development and upskilling of our staff. In addition, the Academy also aims to improve public sector governance in Singapore by educating our public sector officers on governance and accountability issues.
 
