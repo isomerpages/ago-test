@@ -27,9 +27,6 @@ description: ""
    flex: 1;
   }
 
-  .testimonial-content i {
-   font-style: italic;
-  }
  </style>
  
  <div class="testimonial">
