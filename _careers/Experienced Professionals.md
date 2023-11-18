@@ -4,7 +4,7 @@ permalink: /careers/experienced-professionals/
 variant: markdown
 description: ""
 ---
-![](/images/PageBanner1.jpg)
+![](/images/banner_experienced_professionals.png)
 
 ### Experienced Professionals
 
