@@ -56,10 +56,6 @@ description: ""
   }
  </style>
 
-
-
-
- <div style="width: 650px;">
   <div class="accordion">
    <input id="section1" class="accordion-item" type="checkbox">
    <label for="section1" class="accordion-label">
@@ -180,4 +176,4 @@ description: ""
      programme a few years back, whereby officers are encouraged to pursue courses outside of work, which is a good
      initiative for all AGO officers to broaden their perspectives and learn new skills. </p>
    </div>
-  </div></div>
+  </div>
