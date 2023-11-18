@@ -21,7 +21,7 @@ variant: markdown
   }
 
 </style>
-<div class="row is-multiline padding--bottom--lg padding--top--lg">
+<div class="is-multiline padding--bottom--lg padding--top--lg">
 	<div class="row">
 		<div class="col is-one-third title">Independence</div>
 		<div class="col is-two-third">
