@@ -80,37 +80,3 @@ width: 30%;
         </div>
       </div>
     </div>
-    <div class="testimonial-container">
-      <div class="testimonial">
-        <div class="testimonial-image">
-          <img alt="Photo" src="/images/temp_photo.png">
-        </div>
-        <div class="testimonial-content">
-          <p>
-            “The opportunity to audit government ministries and agencies which
-            are key establishments in Singapore allows me, being a Singaporean,
-            to do something for my nation using what I have been trained in.
-            Today, auditing takes on a new meaning and purpose for me. It is no
-            longer business as usual but unusual business – auditing with a
-            mission: to see that public funds are well spent and accounted for.”
-          </p>
-          <strong>Chen Sze Leng, Audit Director</strong>
-        </div>
-      </div>
-      <div class="testimonial">
-        <div class="testimonial-image">
-          <img alt="Photo" src="/images/temp_photo.png">
-        </div>
-        <div class="testimonial-content">
-          <p>“Although bonded, I was given a choice of government agency to serve in. I was impressed by the friendliness and professionalism of AGO officers in their work during my internship. The AGO is supportive of staff upgrading. It sponsors officers to take examinations leading to professional certifications such as chartered financial analyst (CFA), certified internal auditor and certified information
-            system auditor.”
-          </p>
-          <strong>Mabel Watt, Assistant Auditor-General</strong>
-          <br>
-          <br>
-          <i>Mabel Watt shared her view of her career with AGO in Balancing Act,
-            an editorial write-up in Straits Times Careers in the Public
-            Sector.</i>
-        </div>
-      </div>
-    </div>
