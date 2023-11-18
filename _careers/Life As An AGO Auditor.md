@@ -42,11 +42,9 @@ description: ""
         the audit industry to capitalise and augment our audit processes."</strong></em></span>
     </p>
     <p>
-     <span><em>&nbsp;</em></span>
-    </p>
-    <p>
-     <span><em><strong>Mr Khoo Wen Yong,</strong></em><em><strong> Senior Assistant Director
-       </strong></em></span><em><strong>(Digital Innovation Office)</strong></em>
+			<em><strong>Mr Khoo Wen Yong,</strong></em><em><strong> Senior Assistant Director
+       </strong></em>
+			<em><strong>(Digital Innovation Office)</strong></em>
     </p>
    </div>
   </div>
