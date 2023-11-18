@@ -100,41 +100,39 @@ The PSC Scholarship (Public Finance) aims to develop individuals trained in Acco
 
 Applicants for the undergraduate scholarships are welcome to apply prior to pursuing their undergraduate degree or up until the penultimate year of their undergraduate degree (referred to as ‘mid-term applicants’).
 
-<table style="width: 100%; border-collapse: collapse; border-bottom: 1px solid #eaeaea; background: #fff; color: #444; font-family: Arial, Helvetica, sans-serif; font-size: 16px; text-align: start; margin: 0 0 20px; padding: 0;">
-    <tbody style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
-        <tr style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
-            <th style="width: 50%; padding: 10px; border: 0; font-size: 16px; background: #00457c; color: #fff; font-weight: bold !important; text-transform: uppercase; text-align: left;">PSC UNDERGRADUATE SCHOLARSHIPS
-            </th>
-            <th style="width: 50%; padding: 10px; border: 0; font-size: 16px; background: #00457c; color: #fff; font-weight: bold !important; text-transform: uppercase; text-align: left;">PSC UNDERGRADUATE SCHOLARSHIPS (MID-TERM)
-            </th>
-        </tr>
-        <tr style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
-            <td style="padding: 10px; border: 1px solid #eaeaea; outline: 0; font-size: 16px; vertical-align: top; background: transparent; color: inherit; white-space: normal;">
-                <ul style="margin: 0 0 25px 15px; padding: 0; border: 0; outline: 0; font-size: 16px; vertical-align: baseline; background: transparent; color: inherit; list-style: inside square;">
-                    <li style="margin: 0 0 0 15px; padding: 0; border: 0; outline: 0; font-size: 16px; vertical-align: baseline; background: transparent; color: inherit; list-style-position: outside;">GCE A-levels; or</li>
-                    <li style="margin: 0 0 0 15px; padding: 0; border: 0; outline: 0; font-size: 16px; vertical-align: baseline; background: transparent; color: inherit; list-style-position: outside;">International Baccalaureate; or</li>
-                    <!-- Add other list items as needed -->
-                </ul>
-                <p style="margin: 0 0 25px; padding: 5px 0; border: 0; outline: 0; font-size: 1rem; vertical-align: baseline; background: transparent; color: #444; font-family: Arial; font-weight: 400; line-height: 1.5em;">
-                    You may apply prior to receiving your final examination results. A provisional scholarship offer may be made if you are found suitable, subject to confirmation upon release of final results.
-                </p>
-            </td>
-            <td style="padding: 10px; border: 1px solid #eaeaea; outline: 0; font-size: 16px; vertical-align: top; background: transparent; color: inherit; white-space: normal;">
-                <ul style="margin: 0 0 25px 15px; padding: 0; border: 0; outline: 0; font-size: 16px; vertical-align: baseline; background: transparent; color: inherit; list-style: inside square;">
-                    <li style="margin: 0 0 0 15px; padding: 0; border: 0; outline: 0; font-size: 16px; vertical-align: baseline; background: transparent; color: inherit; list-style-position: outside;">GCE A-levels; or</li>
-                    <li style="margin: 0 0 0 15px; padding: 0; border: 0; outline: 0; font-size: 16px; vertical-align: baseline; background: transparent; color: inherit; list-style-position: outside;">International Baccalaureate; or</li>
-                    <!-- Add other list items as needed -->
-                </ul>
-                <p style="margin: 0 0 25px; padding: 5px 0; border: 0; outline: 0; font-size: 1rem; vertical-align: baseline; background: transparent; color: #444; font-family: Arial; font-weight: 400; line-height: 1.5em;">
-                    Application should be made before the final year of your undergraduate studies.
-                </p>
-                <p style="margin: 0 0 25px; padding: 5px 0; border: 0; outline: 0; font-size: 1rem; vertical-align: baseline; background: transparent; color: #444; font-family: Arial; font-weight: 400; line-height: 1.5em;">
-                    For PSC Scholarship (PF), you must be pursuing a Degree in Accountancy.
-                </p>
-            </td>
-        </tr>
-    </tbody>
-</table>
+<table>
+        <tbody>
+            <tr>
+                <th>PSC UNDERGRADUATE SCHOLARSHIPS</th>
+                <th>PSC UNDERGRADUATE SCHOLARSHIPS (MID-TERM)</th>
+            </tr>
+            <tr>
+                <td>
+                    <ul>
+                        <li>GCE A-levels; or</li>
+                        <li>International Baccalaureate; or</li>
+                        <!-- Add other list items as needed -->
+                    </ul>
+                    <p>
+                        You may apply prior to receiving your final examination results. A provisional scholarship offer may be made if you are found suitable, subject to confirmation upon release of final results.
+                    </p>
+                </td>
+                <td>
+                    <ul>
+                        <li>GCE A-levels; or</li>
+                        <li>International Baccalaureate; or</li>
+                        <!-- Add other list items as needed -->
+                    </ul>
+                    <p>
+                        Application should be made before the final year of your undergraduate studies.
+                    </p>
+                    <p>
+                        For PSC Scholarship (PF), you must be pursuing a Degree in Accountancy.
+                    </p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 
 Click [here](https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships){:target="_blank"} to find out more information on PSC Scholarship (Public Finance).
 
