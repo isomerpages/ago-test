@@ -14,7 +14,11 @@ description: ""
         width: 40%;
         margin-bottom: 10px;
     }
-
+		
+				.testimonial-image img {
+					width: 50%;
+				}
+	
     .testimonial-content {
         flex: 1;
     }
@@ -33,10 +37,7 @@ description: ""
             margin-bottom: 0;
             margin-right: 20px;
         }
-	
-				.testimonial-image img {
-					width: 50%;
-				}
+
     }
 </style>
 
