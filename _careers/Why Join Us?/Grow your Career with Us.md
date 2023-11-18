@@ -7,8 +7,6 @@ third_nav_title: Why Join Us?
 ---
 ![](/images/banner_why_join_us.png)
 
-### Grow Your Career With Us
-
 Every officer is important to AGO. We grow and develop our officers to their fullest potential.
 
 In AGO, we provide the opportunities for our officers to advance professionally and personally through continuous training and development.
