@@ -32,6 +32,15 @@ description: ""
       .testimonial-content i {
         font-style: italic;
       }
+	
+	@media only screen and (max-width: 600px) {
+			.testimonial-container {
+			flex-direction: column;
+			}
+	
+.testimonial-image img {
+width: 30%;
+}
 </style>
 
 <div class="testimonial-container">
