@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Why Join Us?
 ---
-![](/images/FB_IMG_1675151572724.jpg)
+![](/images/banner_why_join_us.png)
 
 ### Staff Benefits
 
