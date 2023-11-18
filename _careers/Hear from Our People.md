@@ -103,12 +103,7 @@ width: 30%;
         </div>
         <div class="testimonial-content">
           <p>
-            “Although bonded, I was given a choice of government agency to serve
-            in. I was impressed by the friendliness and professionalism of AGO
-            officers in their work during my internship. The AGO is supportive
-            of staff upgrading. It sponsors officers to take examinations
-            leading to professional certifications such as chartered financial
-            analyst (CFA), certified internal auditor and certified information
+            “Although bonded, I was given a choice of government agency to serve in. I was impressed by the friendliness and professionalism of AGO officers in their work during my internship. The AGO is supportive of staff upgrading. It sponsors officers to take examinations leading to professional certifications such as chartered financial analyst (CFA), certified internal auditor and certified information
             system auditor.”
           </p>
           <strong>Mabel Watt, Assistant Auditor-General</strong>
