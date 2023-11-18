@@ -4,7 +4,7 @@ permalink: /careers/career-opportunities/
 variant: markdown
 description: ""
 ---
-![](/images/PageBanner1.jpg)
+![](/images/banner_career_opportunities.png)
  
 ### Career Opportunities 
 
