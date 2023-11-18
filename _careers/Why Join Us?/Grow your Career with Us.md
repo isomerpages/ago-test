@@ -7,10 +7,6 @@ third_nav_title: Why Join Us?
 ---
 ![](/images/banner_why_join_us.png)
 
-
-<img src="/images/Ameer.jpg" alt="Ameer" style="width:200px;">
-
-
 ### Grow Your Career With Us
 
 Every officer is important to AGO. We grow and develop our officers to their fullest potential.
