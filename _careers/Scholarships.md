@@ -78,7 +78,7 @@ description: ""
         }
     </style>
 
-## AGO Auditing Service Scholarship
+### AGO Auditing Service Scholarship
 AGO plays an important role in enhancing public accountability and governance in the public sector. AGO checks on the proper accounting of public monies and use of public resources through various types of audits. Our observations include system weaknesses, non-compliance with control procedures or legislation, and instances of excess, extravagance, or gross inefficiency leading to waste in the use of public funds and resources.
 
 As the nation’s auditor, AGO believes in nurturing outstanding and talented individuals who desire to serve Singapore and are interested in pursuing a fulfilling career in public sector auditing.
@@ -135,7 +135,7 @@ AGO scholars are required to serve a four-year bond.
 
 [**[Click here](https://www.scholarschoice.com.sg/experience/ago-auditing-service-scholarship-strengthen-financial-governance/){:target="_blank"}** to find out what it is like to be an AGO Scholar!]
 
-## Public Service Commission Scholarship (Public Finance)
+### Public Service Commission Scholarship (Public Finance)
 The PSC Scholarship (Public Finance) aims to develop individuals trained in Accountancy for finance leadership positions in the Public Service. Scholarship holders will be assigned to a parent agency, either the Auditor-General's Office (AGO) or Accountant-General's Department (AGD). Scholars will also be emplaced onto the Public Service Leadership Programme (PSLP) upon graduation, subject to meeting the emplacement criteria. 
 
 **Eligibility Criteria**
