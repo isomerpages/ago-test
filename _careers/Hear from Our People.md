@@ -7,11 +7,10 @@ description: ""
 <style>
     .testimonial {
         display: flex;
-				margin-bottom: 70px;
-				background: #C74A20;
-				color: #ffffff;
+				margin-bottom: 30px;
 				border-radius: 10px;
-				padding: 10px;
+				padding: 10px 0 30px 0;
+				border-bottom: 1px solid #dddddd
     }
 
     .testimonial-image {
