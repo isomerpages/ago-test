@@ -4,7 +4,7 @@ permalink: /who-we-are/vision-mission-core-values/
 description: ""
 variant: markdown
 ---
-![](/images/istockphoto_1413873774_1024x1024.jpg)
+![](/images/vision.jpg)
 
 **Our Vision** is to be a respected national audit institution – Professional, Independent, Effective.
 
