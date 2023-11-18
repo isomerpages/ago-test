@@ -8,7 +8,6 @@ description: ""
     .testimonial {
         display: flex;
 				margin-bottom: 30px;
-				border-radius: 10px;
 				padding: 10px 0 30px 0;
 				border-bottom: 1px solid #dddddd
     }
