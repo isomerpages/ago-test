@@ -34,7 +34,7 @@ description: ""
             width: 50%;
             font-weight: bold;
             background: #00457c;
-            color: #fffff !important;
+            color: #ffffff !important;
             text-transform: uppercase;
             text-align: left;
         }
