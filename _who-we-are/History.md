@@ -4,7 +4,7 @@ permalink: /who-we-are/history/
 description: ""
 variant: markdown
 ---
-![](/images/PageBanner1.jpg)
+![](/images/banner_history.jpg)
 
 | Year & Event | Historical Description | 
 | -------- | -------- | 
