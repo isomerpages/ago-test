@@ -4,27 +4,56 @@ permalink: /careers/life-as-an-ago-auditor/
 variant: markdown
 description: ""
 ---
-<table style="width: 700px; border-collapse: collapse; margin: 0; padding: 0; border: 1px solid #eaeaea; background: #f5f5f5; color: #444; font-family: Arial, Helvetica, sans-serif; font-size: 16px;">
-    <tbody style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
-        <tr style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
-            <td style="padding: 10px; border: none; border-right: 1px solid #eaeaea; border-bottom: none; border-left: 1px solid #eaeaea; background: #f5f5f5; color: inherit; vertical-align: top;">
-                <img src="/images/wen_yong_original.jpg" data-displaymode="Original" alt="Wen Yong 1" title="Wen Yong 1" style="max-width: 100%; height: auto; width: auto;">
-            </td>
-            <td style="padding: 10px; border: none; border-right: 1px solid #eaeaea; border-bottom: none; border-left: 1px solid #eaeaea; background: #f5f5f5; color: inherit; vertical-align: top;">
-                <p style="margin: 0 0 25px; padding: 5px 0; font-size: 1rem; background: transparent; color: #444; font-family: Arial; font-weight: 400; line-height: 1.5em;">
-                    <span style="font-size: 14px; color: #002060;"><em><strong>"With a global shift towards digitalisation, coupled with the availability of greater computing power and data science advancements, this presents new opportunities for AGO and the audit industry to capitalise and augment our audit processes."</strong></em></span>
-                </p>
-                <p style="margin: 0 0 25px; padding: 5px 0; font-size: 1rem; background: transparent; color: #444; font-family: Arial; font-weight: 400; line-height: 1.5em;">
-                    <span style="font-size: 14px; color: #002060;"><em>&nbsp;</em></span>
-                </p>
-                <p style="margin: 0 0 25px; padding: 5px 0; font-size: 1rem; background: transparent; color: #444; font-family: Arial; font-weight: 400; line-height: 1.5em;">
-                    <span style="font-size: 14px; color: #002060;"><em><strong>Mr Khoo Wen Yong,</strong></em><em><strong> Senior Assistant Director </strong></em></span><em style="font-size: 16px;"><strong><span style="font-size: 14px; color: #002060;">(Digital Innovation Office)</span></strong></em>
-                </p>
-            </td>
-        </tr>
-    </tbody>
-</table>
+<style>
+  .testimonial {
+   display: flex;
+   column-gap: 30px;
+   margin-bottom: 30px;
+   padding: 10px 0 30px 0;
 
+   background-color: #f5f5f5;
+  }
+
+  .testimonial-image {
+   width: 30%;
+  }
+
+  .testimonial-image img {
+   width: 100%;
+   border-radius: 10px;
+  }
+
+  .testimonial-content {
+   flex: 1;
+  }
+
+  .testimonial-content i {
+   font-style: italic;
+  }
+ </style>
+ 
+ <div class="testimonial">
+   <div class="testimonial-image">
+    <img src="/images/wen_yong_original.jpg" alt="Wen Yong 1" title="Wen Yong 1">
+   </div>
+   <div class="testimonial-content">
+    <p>
+     <span><em><strong>"With a global shift towards digitalisation, coupled with the availability of
+        greater
+        computing power and data science advancements, this presents new opportunities for AGO
+        and
+        the audit industry to capitalise and augment our audit processes."</strong></em></span>
+    </p>
+    <p>
+     <span><em>&nbsp;</em></span>
+    </p>
+    <p>
+     <span><em><strong>Mr Khoo Wen Yong,</strong></em><em><strong> Senior Assistant Director
+       </strong></em></span><em><strong>(Digital Innovation Office)</strong></em>
+    </p>
+   </div>
+  </div>
+ 
 
 #### Interesting Aspects as an Auditor
 The role of an auditor is dynamic. It requires a range of skillsets from technical audit knowledge, strong writing and presentation skills, to data analytics capabilities. You will experience a change in environment and team composition approximately every 3 to 9 months depending on the types of audit engagements, and get to interact with officers at the Whole-of-Government level.
