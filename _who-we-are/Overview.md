@@ -4,9 +4,8 @@ permalink: /overview/
 description: ""
 variant: markdown
 ---
-![](/images/istockphoto_1497307389_1024x1024.jpg)
 
-AGO is an independent organ of state and the national auditor. We play an important role in enhancing public accountability in the management and use of public funds and resources through our audits. Our independence allows us to carry out our audits without fear or favour.
+![](/images/istockphoto_1497307389_1024x1024_1.png)AGO is an independent organ of state and the national auditor. We play an important role in enhancing public accountability in the management and use of public funds and resources through our audits. Our independence allows us to carry out our audits without fear or favour.
 
 We audit:
 
