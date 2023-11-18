@@ -42,6 +42,7 @@ sections:
       button: FIND OUT MORE ABOUT AGO ACADEMY
       url: /ago-academy/academy/
       alt: Upskilling with AGO Academy
+      image: /images/home_upskilling.png
   - infopic:
       title: Memorandum of Understanding Between AGO and ISCA
       id: infopic
