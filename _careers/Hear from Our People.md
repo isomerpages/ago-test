@@ -12,7 +12,7 @@ description: ""
     }
 
     .testimonial-image {
-        width: 100%;
+        width: 40%;
         margin-bottom: 10px;
     }
 
