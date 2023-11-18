@@ -21,8 +21,8 @@ If you are a driven individual with an analytical and enquiring mind and would l
 <table style="width: 100%; border-collapse: collapse; border-bottom: 1px solid #eaeaea; background: #fff; color: #444; margin: 0 0 20px; padding: 0;">
     <tbody>
         <tr>
-            <th style="padding: 10px; border: 0; font-size: 16px; background: #00457c; color: #fff; font-weight: bold !important; text-transform: uppercase; text-align: left;">UNDERGRADUATE SCHOLARSHIP</th>
-            <th style="padding: 10px; border: 0; font-size: 16px; background: #00457c; color: #fff; font-weight: bold !important; text-transform: uppercase; text-align: left;">MID-TERM SCHOLARSHIP</th>
+            <th style="width: 50%; padding: 10px; border: 0; font-size: 16px; background: #00457c; color: #fff; font-weight: bold !important; text-transform: uppercase; text-align: left;">UNDERGRADUATE SCHOLARSHIP</th>
+            <th style="width: 50%; padding: 10px; border: 0; font-size: 16px; background: #00457c; color: #fff; font-weight: bold !important; text-transform: uppercase; text-align: left;">MID-TERM SCHOLARSHIP</th>
         </tr>
         <tr style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
             <td style="padding: 10px; border: 1px solid #eaeaea; outline: 0; font-size: 16px; vertical-align: top; background: transparent; color: inherit; white-space: normal;">
