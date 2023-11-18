@@ -27,7 +27,6 @@ description: ""
             font-size: 16px;
             vertical-align: top;
             background: transparent;
-            color: inherit;
             white-space: normal;
         }
 
@@ -35,7 +34,7 @@ description: ""
             width: 50%;
             font-weight: bold;
             background: #00457c;
-            color: #fff;
+            color: #fffff !important;
             text-transform: uppercase;
             text-align: left;
         }
