@@ -35,6 +35,14 @@ sections:
       url: /our-audits/audit-quality-code-of-ethnics/
       image: /images/home_audit_quality.png
   - infopic:
+      title: Upskilling with AGO Academy
+      id: infopic
+      description: AGO Academy is the professional training arm of the
+        Auditor-General’s Office (AGO)
+      button: FIND OUT MORE ABOUT AGO ACADEMY
+      url: /ago-academy/academy/
+      alt: Upskilling with AGO Academy
+  - infopic:
       title: Memorandum of Understanding Between AGO and ISCA
       id: infopic
       description: >-
@@ -45,14 +53,6 @@ sections:
       url: /mou
       image: /images/home_mou.png
       alt: MOU Between AGO and ISCA
-  - infopic:
-      title: Upskilling with AGO Academy
-      id: infopic
-      description: AGO Academy is the professional training arm of the
-        Auditor-General’s Office (AGO)
-      button: FIND OUT MORE ABOUT AGO ACADEMY
-      url: /ago-academy/academy/
-      alt: Upskilling with AGO Academy
   - resources:
       title: LATEST NEWS & EVENTS
       id: resources
