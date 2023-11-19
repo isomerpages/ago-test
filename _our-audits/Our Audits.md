@@ -12,7 +12,7 @@ description: ""
 
 	.audit-row {
 		display: flex;
-	  column-gap: 5%
+	  column-gap: 10%
 		margin-bottom: 20px;
 	}
 
