@@ -12,20 +12,20 @@ description: ""
 
 	.audit-row {
 		display: flex;
-		flex-wrap: wrap;
+	  column-gap: 5%
 		margin-bottom: 20px;
 	}
 
 	.title {
-		font-size: 2rem;
+		font-size: 1.8rem;
     font-weight: bold;
     line-height: 1;
     color: #003366;
-		width: 35%;
+		width: 30%;
 	}
 
 	.text {
-		width: 65%;
+		flex: 1;
 	}
 	
 	@media only screen and (max-width: 600px) {
