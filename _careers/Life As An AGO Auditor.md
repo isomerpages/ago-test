@@ -73,7 +73,7 @@ description: ""
     </div>
    </label>
    <div class="accordion-content">
-    <h2>Interesting Aspects as an Auditor</h2>
+    <h4>Interesting Aspects as an Auditor</h4>
     <p>
      The role of an auditor is dynamic. It requires a range of skillsets from technical audit knowledge, strong writing
      and presentation skills, to data analytics capabilities. You will experience a change in environment and team
@@ -99,7 +99,7 @@ description: ""
      man-hour savings, and to provide a new dimension to our audits that was not possible through traditional audit
      steps.
     </p>
-    <h3>Continuous learning and upskilling opportunity</h3>
+    <h4>Continuous learning and upskilling opportunity</h4>
     <p>
      AGO places high emphasis on continuous learning and professional development of our officers. I was given the
      opportunity to pursue a full-time Master of IT in Business (Analytics) from SMU in 2020, which allowed me to
@@ -107,7 +107,7 @@ description: ""
      such as text analytics, graph analytics and machine learning model development. I was able to work with audit
      teams to apply these concepts when I came back to AGO.
     </p>
-    <h3>Overseas Exposure</h3>
+    <h4>Overseas Exposure</h4>
     <p>
      AGO has periodic engagements with audit institutions from other countries. In September 2022, I was part of the
      delegation sent on a learning trip to the Board of Audit and Inspection of the Republic of Korea (BAI), to learn
@@ -145,7 +145,7 @@ description: ""
      AGO prides itself on. My personal values resonated with that of AGO’s. Also, I have always wanted to join the
      public service when I was young, and wanted to be part of this greater mission in contributing back to the society.
     </p>
-    <h3>Interesting Aspects as an Auditor</h3>
+    <h4>Interesting Aspects as an Auditor</h4>
     <p>I have had the opportunity to audit different agencies and conduct different types of audits at AGO. Auditing
      different agencies allows me to understand things from a strategic perspective and gain an exposure to what
      different agencies does. Furthermore, there is no audit that is ever the same, which is something that challenges
@@ -158,7 +158,7 @@ description: ""
      which in this case refers to AGO’s context. It is heartening to see how such a framework can potentially benefit us
      in the future, especially when we are operating in an increasingly challenging operating environment.</p>
 
-    <h3>Attachment Opportunity</h3>
+    <h4>Attachment Opportunity</h4>
     <p>I had the opportunity to be attached to one of the private audit firms for 6 months, in their Technology, Media
      and Telecommunications sector. The experience thus far has been an eye-opening one, as I got to experience working
      in the private sector and understand their work culture and audit practices. I also had hands-on experience on
@@ -166,7 +166,7 @@ description: ""
      move towards more digitalization. In addition, skills such as project management and client management were some
      valuable lessons that I took away as well.</p>
 
-    <h3>Professional Development and Upskilling</h3>
+    <h4>Professional Development and Upskilling</h4>
     <p>AGO prioritises on professional development for all officers. Asides from the foundation course that all new
      officers would go through, AGO sponsors professional certifications to allow officers to upskill themselves.</p>
 
