@@ -17,7 +17,7 @@ description: ""
 ![](/images/banner_our_audit.png)
 
 ### The Audits that AGO Carries Out
-**AGO carries out the following types of audits:
+AGO carries out the following types of audits:
 
 <div class="row is-multiline padding--bottom--lg  padding--top--lg">
 	<div class="row">
