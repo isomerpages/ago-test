@@ -17,7 +17,7 @@ description: ""
 		.scholarship-table td {
 				padding: 10px;
 				border: 1px solid #eaeaea;
-				border-width: 1;
+				border-width: 1px !important;
 				vertical-align: top;
 		}
 
