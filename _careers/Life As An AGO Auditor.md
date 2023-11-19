@@ -20,6 +20,10 @@ description: ""
    display: block;
    margin-bottom: 4px;
   }
+	
+	.accordion-content {
+		margin-top: 20px;
+	}
 
   .accordion-item:not(:checked)+.accordion-label+.accordion-content {
    display: none;
