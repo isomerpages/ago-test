@@ -12,7 +12,7 @@ For Summer and Winter Internship Programmes, kindly check this page in February 
 
 Interested students may submit your application via [Careers@Gov](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html){:target="_blank"} by selecting 'Auditor-General's Office' under 'Agency'! You may also send your resume to .
 
-###### Below are quotes from some of the past interns who had successfully completed their internship with AGO.
+Below are quotes from some of the past interns who had successfully completed their internship with AGO.
 
 <table style="width: 100%; border-collapse: collapse; border-bottom: 1px solid #eaeaea; background: #fff; color: #444; font-family: Arial, Helvetica, sans-serif; font-size: 16px; text-align: start; margin: 0 0 20px; padding: 0;">
     <tbody style="margin: 0; padding: 0; border: 0; background: transparent; color: inherit;">
