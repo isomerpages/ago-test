@@ -19,7 +19,7 @@ description: ""
 ### The Audits that AGO Carries Out
 AGO carries out the following types of audits:
 
-<div class="row is-multiline padding--bottom--lg  padding--top--lg">
+<div class="is-multiline padding--bottom--lg  padding--top--lg">
 	<div class="row">
 	<div class="col is-one-third title">FINANCIAL STATEMENTS AUDIT</div>
 		<div class="col is-two-third">Which involves the checking of accounts with the objective of giving an audit opinion on the annual financial statements prepared by the entity;</div>
