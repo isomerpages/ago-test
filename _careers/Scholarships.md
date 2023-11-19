@@ -7,76 +7,28 @@ description: ""
 ![](/images/banner_scholarship.png)
 
 <style>
-        .scholarship-table {
-            width: 100%;
-            border-collapse: collapse;
-            border-bottom: 1px solid #eaeaea;
-            background: #fff;
-            color: #444;
-            font-family: Arial, Helvetica, sans-serif;
-            font-size: 16px;
-            text-align: start;
-            margin: 0 0 20px;
-            padding: 0;
-        }
+		.scholarship-table {
+				width: 100%;
+				border-collapse: collapse;
+				background: #fff;
+		}
 
-        .scholarship-table th,
-        .scholarship-table td {
-            padding: 10px;
-            border: 1px solid #eaeaea;
-            font-size: 16px;
-            vertical-align: top;
-            background: transparent;
-            white-space: normal;
-        }
+		.scholarship-table th,
+		.scholarship-table td {
+				padding: 10px;
+				border: 1px solid #eaeaea;
+				vertical-align: top;
+		}
 
-        .scholarship-table th {
-            width: 50%;
-            font-weight: bold;
-            background: #00457c;
-            color: #ffffff !important;
-            text-transform: uppercase;
-            text-align: left;
-        }
-
-        .scholarship-table ul {
-            margin: 0 0 25px 15px;
-            padding: 0;
-            border: 0;
-            outline: 0;
-            font-size: 16px;
-            vertical-align: baseline;
-            background: transparent;
-            color: inherit;
-            list-style: inside square;
-        }
-
-        .scholarship-table li {
-            margin: 0 0 0 15px;
-            padding: 0;
-            border: 0;
-            outline: 0;
-            font-size: 16px;
-            vertical-align: baseline;
-            background: transparent;
-            color: inherit;
-            list-style-position: outside;
-        }
-
-        .scholarship-table p {
-            margin: 0 0 25px;
-            padding: 5px 0;
-            border: 0;
-            outline: 0;
-            font-size: 1rem;
-            vertical-align: baseline;
-            background: transparent;
-            color: #444;
-            font-family: Arial;
-            font-weight: 400;
-            line-height: 1.5em;
-        }
-    </style>
+		.scholarship-table th {
+				width: 50%;
+				font-weight: bold;
+				background: #00457c;
+				color: #ffffff !important;
+				text-transform: uppercase;
+				text-align: left;
+		}
+</style>
 
 ### AGO Auditing Service Scholarship
 AGO plays an important role in enhancing public accountability and governance in the public sector. AGO checks on the proper accounting of public monies and use of public resources through various types of audits. Our observations include system weaknesses, non-compliance with control procedures or legislation, and instances of excess, extravagance, or gross inefficiency leading to waste in the use of public funds and resources.
