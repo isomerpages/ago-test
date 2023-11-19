@@ -32,7 +32,6 @@ description: ""
   .testimonial {
    display: flex;
    column-gap: 30px;
-   margin-bottom: 30px;
    padding: 10px 0;
 
    background-color: #f5f5f5;
