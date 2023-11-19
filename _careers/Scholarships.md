@@ -50,11 +50,11 @@ If you are a driven individual with an analytical and enquiring mind and would l
                 <th>MID-TERM SCHOLARSHIP</th>
             </tr>
             <tr>
-                <td>
-                    Good GCE “A” level results (with a minimum of 10 academic units), International Baccalaureate (IB), Polytechnic Diploma (with Merit), or equivalent.
+                <td><p>
+                    Good GCE “A” level results (with a minimum of 10 academic units), International Baccalaureate (IB), Polytechnic Diploma (with Merit), or equivalent.</p>
                 </td>
-                <td>
-                    Open to outstanding undergraduates currently pursuing an Accountancy degree at the local universities listed below and have completed at least one semester of undergraduate studies. Applicants should be on track for at least a Second Upper Class Honours.
+                <td><p>
+                    Open to outstanding undergraduates currently pursuing an Accountancy degree at the local universities listed below and have completed at least one semester of undergraduate studies. Applicants should be on track for at least a Second Upper Class Honours.</p>
                 </td>
             </tr>
         </tbody>
@@ -72,9 +72,9 @@ If you are a driven individual with an analytical and enquiring mind and would l
 
 **Career, Training Opportunities &amp; Job Rotation**
 
-Upon graduation, the scholars will embark on a rewarding career in public sector&nbsp;auditing. Comprehensive training designed to develop individuals in maximising their potential will be provided. In addition, job rotation will be provided to allow exposure to different aspects of audit.
+Upon graduation, the scholars will embark on a rewarding career in public sector auditing. Comprehensive training designed to develop individuals in maximising their potential will be provided. In addition, job rotation will be provided to allow exposure to different aspects of audit.
 
-**Student Exchange&nbsp;Programme**
+**Student Exchange Programme**
 
 We encourage our scholars to develop a broad perspective by participating in their respective universities' overseas Student Exchange Programme. Additional allowances will be covered in accordance with our scholarship policy.
 
