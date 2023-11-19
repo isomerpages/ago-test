@@ -18,7 +18,7 @@ description: ""
    padding: 10px;
    cursor: pointer;
    display: block;
-   margin-bottom: 4px;
+   margin-bottom: 20px;
   }
 	
 	.accordion-content {
