@@ -17,9 +17,9 @@ description: ""
 	}
 
 	.title {
-		font-size: 1.5rem;
+		font-size: 1.2rem;
     font-weight: bold;
-    line-height: 1.5;
+    line-height: 1.2;
     color: #003366;
 		width: 30%;
 	}
@@ -50,7 +50,7 @@ description: ""
 ![](/images/banner_our_audit.png)
 *AGO auditors verifying recently purchased horticultural samples.*
 
-### AGO carries out the following audits:
+&gt; ### **AGO carries out the following audits:**
 
 
 <div class="audit">
