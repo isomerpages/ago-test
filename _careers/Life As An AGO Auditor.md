@@ -33,6 +33,10 @@ description: ""
    display: block;
   }
 	
+	.accordion-item:checked+.accordion-label i {
+		transform: rotate(135deg);
+	}
+	
 	i {
 		display: inline-block;
 		font-style: normal;
@@ -92,9 +96,7 @@ right: 20px;
        our audit processes."
       </p>
       <p>Mr Khoo Wen Yong, Senior Assistant Director (Digital Innovation Office)
-<br>
-<br>
-<i>Click photo to read more ...</i></p>
+</p>
      </div>
     </div>
 		<i class="arrow"></i>
