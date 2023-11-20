@@ -17,7 +17,7 @@ description: ""
 	}
 
 	.title {
-		font-size: 1.8rem;
+		font-size: 1.5rem;
     font-weight: bold;
     line-height: 1;
     color: #003366;
