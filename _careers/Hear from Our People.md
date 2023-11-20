@@ -80,9 +80,10 @@ width: 30%;
     </div>
   </div>
   <div class="testimonial-container">
+	<!-- start of testimonial --//>
     <div class="testimonial">
       <div class="testimonial-image">
-        <img alt="Photo" src="/images/temp_photo.png">
+        <img src="/images/temp_photo.png" alt="Photo">
       </div>
       <div class="testimonial-content">
         <p>
@@ -96,9 +97,10 @@ width: 30%;
         <strong>Chen Sze Leng, Audit Director</strong>
       </div>
     </div>
+<!--end of testimonial --//>
     <div class="testimonial">
       <div class="testimonial-image">
-        <img alt="Photo" src="/images/temp_photo.png">
+        <img src="/images/temp_photo.png" alt="Photo">
       </div>
       <div class="testimonial-content">
         <p>
@@ -118,4 +120,4 @@ width: 30%;
           Sector.</i>
       </div>
     </div>
-  </div>
+  </div>--></div>
