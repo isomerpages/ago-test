@@ -142,7 +142,8 @@ description: ""
        development journey and I have benefited a lot from it!</p>
       <p>Miss Ong Jia Qi, Assistant Director (AGO Scholar)
 <br>
-*Click photo to read more...*</p>
+<br>
+*Click photo to read more*...</p>
      </div>
     </div>
    </label>
