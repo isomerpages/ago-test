@@ -74,6 +74,7 @@ description: ""
       </p>
       <p>Mr Khoo Wen Yong, Senior Assistant Director (Digital Innovation Office)
 <br>
+<br>
 *Click photo to read more...*</p>
      </div>
     </div>
