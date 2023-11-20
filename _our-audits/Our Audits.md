@@ -43,7 +43,8 @@ description: ""
 *AGO auditors verifying recently purchased horticultural samples.*
 
 #### We carry out the following types of audits:
-
+<br>
+<br>
 
 <div class="audit">
 	<div class="audit-row">
