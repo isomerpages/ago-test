@@ -167,6 +167,7 @@ right: 20px;
 				<i>Click photo to read more ...</i></p>
      </div>
     </div>
+		 		<i class="arrow"></i>
    </label>
 
    <div class="accordion-content">
