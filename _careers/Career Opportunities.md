@@ -6,7 +6,7 @@ description: ""
 ---
 ![](/images/banner_why_join_us.png)
 
-> ### AGO invites dynamic, driven individuals with an analytical, enquiring mind and good interpersonal skills to join us.
+> #### AGO invites dynamic, driven individuals with an analytical, enquiring mind and good interpersonal skills to join us.
 
 If you are looking for a career that is rewarding and fulfilling and would like to contribute towards enhancing public accountability, join our team of audit professionals now.
 
