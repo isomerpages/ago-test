@@ -7,7 +7,7 @@ third_nav_title: Why Join Us?
 ---
 ![Staff_recreation](/images/FB_IMG_1675151572724_800x400.jpg)
 
-> ### We work hard and play hard. 
+> #### **We work hard and play hard.** 
 
 Our Social and Healthy Lifestyle Committees are dedicated to providing and arranging an array benefits for AGoians!!
 
