@@ -7,7 +7,7 @@ variant: markdown
 ![](/images/banner_vision.png)
 
 ### **Our Vision**
-&gt; To be a respected national audit institution – Professional, Independent, Effective.
+To be a respected national audit institution – Professional, Independent, Effective.
 
 ### **Our Mission** 
 To audit and report to the President and Parliament on the proper accounting and use of public resources so as to enhance public accountability and help strengthen the financial governance of the public service.
