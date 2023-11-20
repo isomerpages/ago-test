@@ -170,7 +170,7 @@ right: 20px;
    </label>
 
    <div class="accordion-content">
-    <h3>About AGO Auditing Service Scholarship</h3>
+    <h4>About AGO Auditing Service Scholarship</h4>
     <p>I chose to apply for the AGO Auditing Service Scholarship, as I was very drawn to the work and the mission that
      AGO prides itself on. My personal values resonated with that of AGO’s. Also, I have always wanted to join the
      public service when I was young, and wanted to be part of this greater mission in contributing back to the society.
