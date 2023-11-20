@@ -7,6 +7,10 @@ third_nav_title: Why Join Us?
 ---
 ![Staff_recreation](/images/FB_IMG_1675151572724_800x400.jpg)
 
+### In AGO, we work hard and play hard. 
+
+Our Social and Healthy Lifestyle Committees are dedicated to providing and arranging an array benefits for AGoians!!
+
 *   Attractive Remuneration Package which includes Performance Bonus, Market Adjustment Component and Retention Bonus for eligible officers
 *   Medical/Dental Coverage
 *   Long Service Recognition
@@ -20,4 +24,3 @@ third_nav_title: Why Join Us?
     *   Compassionate Leave
     *   Childcare / Infant Care Leave
 
-In AGO, we work hard and play hard. Our Social and Healthy Lifestyle Committees are dedicated to arranging an array of welfare activities for bonding of all AGOians!
