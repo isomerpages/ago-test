@@ -17,7 +17,7 @@ description: ""
         margin-bottom: 30px;
         padding: 10px 0 30px 0;
         border-bottom: 1px solid #dddddd;
-        column-gap: 30px;
+        column-gap: 50px;
         flex: 1;
       }
 
@@ -27,6 +27,9 @@ description: ""
 
       .testimonial-content {
         flex: 1;
+      }
+	
+	      .testimonial-content p {
 	font-size: 16px;
 	line-height: 1.5;
       }
