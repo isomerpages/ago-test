@@ -15,7 +15,6 @@ description: ""
 
   .accordion-label {
    background-color: #f4f4f4;
-   padding: 10px;
    cursor: pointer;
    display: block;
    margin-bottom: 20px;
