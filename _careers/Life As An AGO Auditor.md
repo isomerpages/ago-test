@@ -72,7 +72,7 @@ description: ""
        science advancements, this presents new opportunities for AGO and the audit industry to capitalise and augment
        our audit processes."
       </p>
-      <p>Mr Khoo Wen Yong, Senior Assistant Director<br>(Digital Innovation Office)
+      <p>Mr Khoo Wen Yong, Senior Assistant Director (Digital Innovation Office)
 
 *Click photo to read more...*</p>
      </div>
