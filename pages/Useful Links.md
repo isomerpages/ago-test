@@ -19,9 +19,9 @@ description: ""
 		}
 
 		.title {
-			font-size: 1.5rem;
+			font-size: 1.2rem;
 			font-weight: bold;
-			line-height: 1.5;
+			line-height: 1.2;
 			color: #003366;
 			width: 35%;
 		}
