@@ -42,7 +42,7 @@ description: ""
 ![](/images/banner_our_audit.png)
 *AGO auditors verifying recently purchased horticultural samples.*
 
-#### AGO carries out the following audits:
+### AGO carries out the following audits:
 <br>
 <br>
 
