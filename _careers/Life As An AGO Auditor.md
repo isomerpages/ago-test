@@ -57,7 +57,7 @@ right: 20px;
   .testimonial {
    display: flex;
    column-gap: 30px;
-   padding: 10px 0;
+   padding: 10px;
 
    background-color: #f5f5f5;
   }
