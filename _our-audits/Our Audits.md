@@ -19,7 +19,7 @@ description: ""
 	.title {
 		font-size: 1.5rem;
     font-weight: bold;
-    line-height: 1.2;
+    line-height: 1.5;
     color: #003366;
 		width: 30%;
 	}
