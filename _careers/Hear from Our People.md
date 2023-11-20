@@ -23,6 +23,7 @@ description: ""
 
       .testimonial-image img {
         width: 50%;
+				border-radius: 50%
       }
 
       .testimonial-content {
@@ -50,7 +51,7 @@ width: 30%;
 <div class="testimonial-container">
     <div class="testimonial">
       <div class="testimonial-image">
-        <img alt="Photo" src="/images/temp_photo.png">
+        <img alt="Photo" src="/images/sim_sze_xiong.png">
       </div>
       <div class="testimonial-content">
         <p>
@@ -67,7 +68,7 @@ width: 30%;
     </div>
     <div class="testimonial">
       <div class="testimonial-image">
-        <img alt="Photo" src="/images/temp_photo.png">
+        <img alt="Photo" src="/images/sabrina_fok.png">
       </div>
       <div class="testimonial-content">
         <p>
@@ -87,7 +88,7 @@ width: 30%;
   <div class="testimonial-container">
     <div class="testimonial">
       <div class="testimonial-image">
-        <img alt="Photo" src="/images/temp_photo.png">
+        <img alt="Photo" src="/images/chen_sze_leng.png">
       </div>
       <div class="testimonial-content">
         <p>
@@ -103,7 +104,7 @@ width: 30%;
     </div>
     <div class="testimonial">
       <div class="testimonial-image">
-        <img alt="Photo" src="/images/temp_photo.png">
+        <img alt="Photo" src="/images/mabel_watt.png">
       </div>
       <div class="testimonial-content">
         <p>
