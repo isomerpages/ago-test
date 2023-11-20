@@ -20,6 +20,10 @@ description: ""
         column-gap: 50px;
         flex: 1;
       }
+	
+	.testimonial-image {
+		margin-bottom: 20px;
+	}
 
       .testimonial-image img {
         width: 50%;
