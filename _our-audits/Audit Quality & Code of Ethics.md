@@ -4,7 +4,7 @@ permalink: /our-audits/audit-quality-code-of-ethnics/
 variant: markdown
 description: ""
 ---
-![](/images/banner_audit_quality.png)
+![](/images/banner_standards_methodology.png)
 
 To ensure quality in our audits, AGO has implemented a Quality Assurance Framework (QAF). The QAF comprises systems, structures, policies and procedures that are designed to provide reasonable assurance that the audits done by AGO meet recognised professional standards. The QAF also includes the AGO Code of Conduct and Ethics, which all AGO auditors must abide by. 
 
