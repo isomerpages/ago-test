@@ -29,6 +29,14 @@ description: ""
 	}
 	
 	@media only screen and (max-width: 600px) {
+	
+		.audit-row {
+		display: flex;
+		flex-direction: column;
+	  column-gap: 10%;
+		margin-bottom: 20px;
+	}
+	
 		.title {
 			width: 100%;
 		}
@@ -42,8 +50,7 @@ description: ""
 ![](/images/banner_our_audit.png)
 *AGO auditors verifying recently purchased horticultural samples.*
 
-&gt; ### AGO carries out the following audits:
-&gt;
+### AGO carries out the following audits:
 
 
 <div class="audit">
