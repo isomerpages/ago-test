@@ -4,7 +4,7 @@ permalink: /our-audits/standards-methodology/
 variant: markdown
 description: ""
 ---
-![Standards_Methodology_2](/images/istockphoto_1677286035_1024x1024_600H_.jpg)
+![Standards_Methodology_2](/images/istockphoto_1677286035_1024x1024_400H_.jpg)
 
 AGO’s audits are conducted in accordance with the framework and guidelines stipulated within the respective AGO audit manuals. The audit manuals are developed and maintained by AGO professional committees, which takes into account relevant guidance from professional and/or international standards. For example, the AGO Financial Statements Audit Manual has been developed based on relevant guidance from the Singapore Standards on Auditing (SSAs) issued by the Institute of Singapore Chartered Accountants. The audit procedures are designed to meet SSA requirements to the best extent possible. As a member of the International Organisation of Supreme Audit Institutions (INTOSAI), the relevant audit manuals (eg the Selective Audit Manual) also takes into consideration the standards and guidelines set by INTOSAI.
 
