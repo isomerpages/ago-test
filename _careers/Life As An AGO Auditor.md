@@ -19,6 +19,7 @@ description: ""
    cursor: pointer;
    display: block;
    margin-bottom: 20px;
+	position: relative;
   }
 	
 	.accordion-content {
@@ -32,6 +33,23 @@ description: ""
   .accordion-item:checked+.accordion-label+.accordion-content {
    display: block;
   }
+	
+	i {
+		display: inline-block;
+		font-style: normal;
+		position: relative;
+	}
+
+i.arrow {
+width: 1em;
+height: 1em;
+border-right: 0.2em solid black;
+border-top: 0.2em solid black;
+transform: rotate(135deg);
+position: absolute;
+bottom: 20px;
+right: 20px;
+}
 
   .testimonial {
    display: flex;
@@ -80,6 +98,7 @@ description: ""
 <i>Click photo to read more ...</i></p>
      </div>
     </div>
+		<i class="arrow"></i>
    </label>
    <div class="accordion-content">
     <h4>Interesting Aspects as an Auditor</h4>
