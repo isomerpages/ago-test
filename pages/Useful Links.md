@@ -6,21 +6,82 @@ description: ""
 ---
 ![Useful Links](/images/istockphoto_1589888073_1024x1024_800x400.jpg)
 
-**PUBLIC ACCOUNTS COMMITTEE REPORTS**
-* [Public Accounts Committee (PAC) Reports](https://sprs.parl.gov.sg/selectcommittee/#/home){:target="_blank"}
+<style>
+	.usefullinks {
+		display: flex;
+		flex-direction: column;
+	}
+	
+		.usefullinks-row {
+			display: flex;
+			column-gap: 10%;
+			margin-bottom: 20px;
+		}
 
-**INTERNATIONAL / REGIONAL ORGANISATIONS OF SUPREME AUDIT INSTITUTIONS**
-- [ASEANSAI](https://www.aseansai.org/){:target="_blank"}
-- [ASOSAI](https://asosai.org/asosai/){:target="_blank"}
-- [INTOSAI](https://www.intosai.org/){:target="_blank"}
+		.title {
+			font-size: 1.5rem;
+			font-weight: bold;
+			line-height: 1.5;
+			color: #003366;
+			width: 40%;
+		}
 
-**OTHER WEBSITES**
-- [Accounting Standards Council](https://www.asc.gov.sg/){:target="_blank"}
-- [Accounting Standards for Statutory Boards](https://www.assb.gov.sg/){:target="_blank"}
-- [International Auditing and Assurance Standards Board (IAASB)](https://www.iaasb.org/about-iaasb){:target="_blank"}
-- [International Federation of Accountants (IFAC)](https://www.ifac.org/){:target="_blank"}
-- [Institute of Singapore Chartered Accountants (ISCA)](https://www.isca.org.sg/){:target="_blank"}
-- [Singapore Budget](https://www.mof.gov.sg/singaporebudget){:target="_blank"}
-- [Singapore Government Directory Interactive (SGDi)](https://www.sgdi.gov.sg/ministries){:target="_blank"}
-- [Singapore Government](https://www.gov.sg){:target="_blank"}
-- [Singapore Statutes Online](https://sso.agc.gov.sg/){:target="_blank"}
+		.text {
+			flex: 1;
+		}
+
+		@media only screen and (max-width: 600px) {
+
+			.usefullinks-row {
+				display: flex;
+				flex-direction: column;
+				column-gap: 10%;
+				margin-bottom: 20px;
+			}
+
+			.title {
+				width: 100%;
+			}
+
+			.title {
+				width: 100%;
+			}
+		}
+	</style>
+
+<div class="usefullinks">
+	<div class="usefullinks-row">
+			<div class="title">PUBLIC ACCOUNTS COMMITTEE REPORTS</div>
+			<div class="text">
+				<ul>
+					<li><a target="_blank" href="https://sprs.parl.gov.sg/selectcommittee/#/home">Public Accounts Committee (PAC) Reports</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="usefullinks-row">
+			<div class="title">INTERNATIONAL / REGIONAL ORGANISATIONS OF SUPREME AUDIT INSTITUTIONS</div>
+			<div class="text">
+				<ul>
+					<li><a target="_blank" href="https://www.aseansai.org/">ASEANSAI</a></li>
+					<li><a target="_blank" href="https://asosai.org/asosai/">ASOSAI</a></li>
+					<li><a target="_blank" href="https://www.intosai.org/">INTOSAI</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="usefullinks-row">
+			<div class="title">OTHER WEBSITES</div>
+			<div class="text">
+				<ul>
+					<li><a target="_blank" href="https://www.asc.gov.sg/">Accounting Standards Council</a></li>
+					<li><a target="_blank" href="https://www.assb.gov.sg/">Accounting Standards for Statutory Boards</a></li>
+					<li><a target="_blank" href="https://www.iaasb.org/about-iaasb">International Auditing and Assurance Standards Board (IAASB)</a></li>
+					<li><a target="_blank" href="https://www.ifac.org/">International Federation of Accountants (IFAC)</a></li>
+					<li><a target="_blank" href="https://www.isca.org.sg/">Institute of Singapore Chartered Accountants (ISCA)</a></li>
+					<li><a target="_blank" href="https://www.mof.gov.sg/singaporebudget">Singapore Budget</a></li>
+					<li><a target="_blank" href="https://www.sgdi.gov.sg/ministries">Singapore Government Directory Interactive (SGDi)</a></li>
+					<li><a target="_blank" href="https://www.gov.sg">Singapore Government</a></li>
+					<li><a target="_blank" href="https://sso.agc.gov.sg/">Singapore Statutes Online</a></li>
+			</ul>
+			</div>
+		</div>
+	</div>
