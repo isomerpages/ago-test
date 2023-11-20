@@ -53,10 +53,12 @@ description: ""
   .testimonial-content {
    flex: 1;
   }
+	
+	.testimonial-content p {
+		font-size: 16px;
+		line-height: 1.5;
+	}
 
-  .testimonial-content i {
-   font-style: italic;
-  }
  </style>
 
   <div class="accordion">
