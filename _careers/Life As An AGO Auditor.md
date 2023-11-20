@@ -22,7 +22,7 @@ description: ""
   }
 	
 	.accordion-content {
-		margin-top: 20px;
+		margin: 20px 0 40px 0
 	}
 
   .accordion-item:not(:checked)+.accordion-label+.accordion-content {
