@@ -95,8 +95,7 @@ right: 20px;
        science advancements, this presents new opportunities for AGO and the audit industry to capitalise and augment
        our audit processes."
       </p>
-      <p>Mr Khoo Wen Yong, Senior Assistant Director (Digital Innovation Office)
-</p>
+			 <p><strong>Mr Khoo Wen Yong, Senior Assistant Director (Digital Innovation Office)</strong></p>
      </div>
     </div>
 		<i class="arrow"></i>
@@ -163,7 +162,7 @@ right: 20px;
      <div class="testimonial-content">
       <p>"Overall, AGO provides an environment of continuous learning and support for officers in their professional
        development journey and I have benefited a lot from it!"</p>
-      <p>Miss Ong Jia Qi, Assistant Director (AGO Scholar)</p>
+			 <p><strong>Miss Ong Jia Qi, Assistant Director (AGO Scholar)</strong></p>
      </div>
     </div>
 		 		<i class="arrow"></i>
