@@ -7,7 +7,7 @@ third_nav_title: Why Join Us?
 ---
 ![](/images/Academy_Banner.jpg)
 
-AGO Academy is the professional training arm of the AGO, responsible for developing the overall development strategy and training programmes for its officers.
+### AGO Academy is our professional training arm  responsible for the strategy and development for our officers.
 
 Our officers are given opportunities to upgrade their skills and knowledge through formal and informal learning activities such as:
 
