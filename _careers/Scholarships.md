@@ -31,10 +31,10 @@ description: ""
 		}
 </style>
 
-### AGO Auditing Service Scholarship
-AGO plays an important role in enhancing public accountability and governance in the public sector. AGO checks on the proper accounting of public monies and use of public resources through various types of audits. Our observations include system weaknesses, non-compliance with control procedures or legislation, and instances of excess, extravagance, or gross inefficiency leading to waste in the use of public funds and resources.
-
+&gt; #### **AGO Auditing Service Scholarship**
 As the nation’s auditor, AGO believes in nurturing outstanding and talented individuals who desire to serve Singapore and are interested in pursuing a fulfilling career in public sector auditing.
+
+AGO plays an important role in enhancing public accountability and governance in the public sector. AGO checks on the proper accounting of public monies and use of public resources through various types of audits. Our observations include system weaknesses, non-compliance with control procedures or legislation, and instances of excess, extravagance, or gross inefficiency leading to waste in the use of public funds and resources.
 
 If you are a driven individual with an analytical and enquiring mind and would like to make a difference in the public sector, we encourage you to apply for the Auditing Service Scholarship. The scholarship promises a satisfying career where endless opportunities abound. AGO scholars will undergo internship with AGO during the period of study.
 
