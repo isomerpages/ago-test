@@ -74,7 +74,7 @@ description: ""
       </p>
       <p>Mr Khoo Wen Yong, Senior Assistant Director (Digital Innovation Office)
 <br>
-**Click photo to read more...**</p>
+*Click photo to read more...*</p>
      </div>
     </div>
    </label>
@@ -142,7 +142,7 @@ description: ""
        development journey and I have benefited a lot from it!</p>
       <p>Miss Ong Jia Qi, Assistant Director (AGO Scholar)
 <br>
-**Click photo to read more...**</p>
+*Click photo to read more...*</p>
      </div>
     </div>
    </label>
