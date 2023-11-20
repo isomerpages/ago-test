@@ -9,8 +9,9 @@ variant: markdown
 ### **Our Vision**
 &gt; To be a respected national audit institution – Professional, Independent, Effective.
 
- &gt; #### **AGO is an independent organ of state and the national auditor. We play an important role in enhancing public accountability, in the management and use, of public funds and resources, through our audits.** 
- &gt; 
+&gt; #### **AGO is an independent organ of state and the national auditor. We play an important role in enhancing public accountability, in the management and use, of public funds and resources, through our audits.** 
+&gt;
+
 ### **Our Mission** 
 
 To audit and report to the President and Parliament on the proper accounting and use of public resources so as to enhance public accountability and help strengthen the financial governance of the public service.
