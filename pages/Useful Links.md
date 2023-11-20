@@ -23,7 +23,7 @@ description: ""
 			font-weight: bold;
 			line-height: 1.5;
 			color: #003366;
-			width: 40%;
+			width: 35%;
 		}
 
 		.text {
