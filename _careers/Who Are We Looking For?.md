@@ -4,7 +4,7 @@ permalink: /careers/who-are-we-looking-for/
 variant: markdown
 description: ""
 ---
-![](/images/PageBanner1.jpg)
+![](/images/Group_shot.jpg)
 
 > #### **AGO is looking for dynamic, driven individuals with good interpersonal skills and a passion to contribute to enhancing public accountability.**
 
