@@ -75,7 +75,7 @@ description: ""
       <p>Mr Khoo Wen Yong, Senior Assistant Director (Digital Innovation Office)
 <br>
 <br>
-*Click photo to read more...*</p>
+<i>Click photo to read more ...</i></p>
      </div>
     </div>
    </label>
@@ -139,12 +139,12 @@ description: ""
       <img src="/images/jia_qi_2.jpg" alt="Ong Jia Qi" title="Ong Jia Qi">
      </div>
      <div class="testimonial-content">
-      <p>Overall, AGO provides an environment of continuous learning and support for officers in their professional
-       development journey and I have benefited a lot from it!</p>
+      <p>"Overall, AGO provides an environment of continuous learning and support for officers in their professional
+       development journey and I have benefited a lot from it!"</p>
       <p>Miss Ong Jia Qi, Assistant Director (AGO Scholar)
 <br>
 <br>
-*Click photo to read more*...</p>
+				<i>Click photo to read more ...</i></p>
      </div>
     </div>
    </label>
