@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 ![Sentosa_Solar_Panel_Inspection](/images/Sentosa_solar_Panels_800x400.jpg)
-*Site inspection of a solar panel installation at Sentosa*
+*AGO site inspection of a solar panel installation at Sentosa.*
 
 > #### **AGO’s audit mandate is provided for in legislation. The key legislation that govern AGO’s work are the Constitution of the Republic of Singapore and the Audit Act.**
 
