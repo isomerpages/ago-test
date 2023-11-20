@@ -7,7 +7,7 @@ description: ""
 <style>
       .testimonial-container {
         display: flex;
-        column-gap: 30px;
+        column-gap: 50px;
         margin-bottom: 30px;
         padding: 10px 0 30px 0;
       }
