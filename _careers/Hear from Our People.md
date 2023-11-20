@@ -27,6 +27,8 @@ description: ""
 
       .testimonial-content {
         flex: 1;
+	font-size: 16px;
+	line-height: 1.5;
       }
 
       .testimonial-content i {
