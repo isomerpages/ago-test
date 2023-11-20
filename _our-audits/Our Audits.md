@@ -42,8 +42,8 @@ description: ""
 ![](/images/banner_our_audit.png)
 *AGO auditors verifying recently purchased horticultural samples.*
 
-### The Audits that AGO Carries Out
-AGO carries out the following types of audits:
+#### AGO carries out the following types of audits:
+
 
 <div class="audit">
 	<div class="audit-row">
