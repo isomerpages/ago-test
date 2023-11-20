@@ -86,7 +86,7 @@ The scholarship will cover tuition and other compulsory fees, maintenance allowa
 
 AGO scholars are required to serve a four-year bond.
 
-##### **[Click here](https://www.scholarschoice.com.sg/experience/ago-auditing-service-scholarship-strengthen-financial-governance/){:target="_blank"}** to find out what it is like to be an AGO Scholar!
+##### [Click here](https://www.scholarschoice.com.sg/experience/ago-auditing-service-scholarship-strengthen-financial-governance/){:target="_blank"}** to find out what it is like to be an AGO Scholar!
 
 ### **Public Service Commission Scholarship (Public Finance)**
 The PSC Scholarship (Public Finance) aims to develop individuals trained in Accountancy for finance leadership positions in the Public Service. Scholarship holders will be assigned to a parent agency, either the Auditor-General's Office (AGO) or Accountant-General's Department (AGD). Scholars will also be emplaced onto the Public Service Leadership Programme (PSLP) upon graduation, subject to meeting the emplacement criteria. 
@@ -131,4 +131,4 @@ Applicants for the undergraduate scholarships are welcome to apply prior to purs
 
 ##### Click [here](https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships){:target="_blank"} to find out more information on PSC Scholarship (Public Finance).
 
-#### **Apply for these scholarships** [here](https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships?q=apply){:target="_blank"}!
+##### **Apply for these scholarships** [here](https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships?q=apply){:target="_blank"}!
