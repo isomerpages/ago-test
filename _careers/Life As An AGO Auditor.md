@@ -34,7 +34,7 @@ description: ""
   }
 	
 	.accordion-item:checked+.accordion-label i {
-		transform: rotate(135deg);
+		transform: rotate(-45deg);
 	}
 	
 	i {
@@ -163,10 +163,7 @@ right: 20px;
      <div class="testimonial-content">
       <p>"Overall, AGO provides an environment of continuous learning and support for officers in their professional
        development journey and I have benefited a lot from it!"</p>
-      <p>Miss Ong Jia Qi, Assistant Director (AGO Scholar)
-<br>
-<br>
-				<i>Click photo to read more ...</i></p>
+      <p>Miss Ong Jia Qi, Assistant Director (AGO Scholar)</p>
      </div>
     </div>
 		 		<i class="arrow"></i>
