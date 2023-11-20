@@ -6,7 +6,7 @@ description: ""
 ---
 ![](/images/PageBanner1.jpg)
 
-AGO is looking for dynamic, driven individuals with good interpersonal skills and a passion to contribute to the work of AGO in enhancing public accountability.
+> #### **AGO is looking for dynamic, driven individuals with good interpersonal skills and a passion to contribute to enhancing public accountability.**
 
 For experienced professionals from the public or private sector, we believe your experience will contribute towards enhancing AGO's capabilities and effectiveness.
 
