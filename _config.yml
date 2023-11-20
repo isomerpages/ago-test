@@ -15,7 +15,8 @@ colors:
       color: "#c74a20"
     - title: media-color-five
       color: "#00726b"
-description: An Isomer site of the Singapore Government
+description: Auditor-General's Office of Singapore - An Isomer site of the
+  Singapore Government
 permalink: none
 baseurl: ""
 exclude:
@@ -52,7 +53,7 @@ plugins:
 staging: https://staging.d2klzchk43fxny.amplifyapp.com
 prod: https://master.d2klzchk43fxny.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/logofavicon.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
