@@ -6,7 +6,7 @@ variant: markdown
 ---
 ![](/images/banner_vision.png)
 
-### **Our Vision**
+&gt; ### **Our Vision**
 &gt; To be a respected national audit institution – Professional, Independent, Effective.
 
 
