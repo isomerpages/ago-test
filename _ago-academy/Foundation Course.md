@@ -6,8 +6,8 @@ description: ""
 ---
 ![Foundation Course](/images/istockphoto_825550044_1024x1024_800x400.jpg)
 
-> AGO Academy conducts Foundation Course for new AGO officers on an annual basis to equip them with the competencies to perform public sector audits. 
-
+> #### **AGO Academy conducts Foundation Course for new AGO officers on an annual basis to equip them with the competencies to perform public sector audits.**
+ 
 The courses include: 
 * Public Service Code of Conduct 
 * Public Accountability
