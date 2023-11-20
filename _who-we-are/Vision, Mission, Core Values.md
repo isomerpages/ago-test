@@ -16,7 +16,7 @@ To audit and report to the President and Parliament on the proper accounting and
 
 <style>
   .title {
-    font-size: 1.2rem;
+font-size: 1.2rem;
     font-weight: bold;
     line-height: 1;
     color: #003366;
