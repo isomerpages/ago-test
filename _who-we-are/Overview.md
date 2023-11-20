@@ -6,7 +6,7 @@ variant: markdown
 ---
 ![](/images/banner_overview.png)
 
-> #### AGO is an independent organ of state and the national auditor. We play an important role in enhancing public accountability in the management and use of public funds and resources through our audits. 
+> **AGO is an independent organ of state and the national auditor. We play an important role in enhancing public accountability in the management and use of public funds and resources through our audits**. 
 
 Our independence allows us to carry out our audits without fear or favour.
 
