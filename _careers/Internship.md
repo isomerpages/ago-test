@@ -63,7 +63,7 @@ description: ""
 		</div>
 	</div>
 
-&gt; The AGO Internship Programme provides undergraduates pursuing a Degree in Accountancy to acquire auditing knowledge and skills, and experience the AGO culture and work environment. 
+##### The AGO Internship Programme provides undergraduates pursuing a Degree in Accountancy to acquire auditing knowledge and skills, and experience the AGO culture and work environment. 
 
 Under this 8-10 week programme, interns will be attached to an audit team and will get to work in a variety of challenging and interesting projects and present their learning experience to the AGO Senior Management.
 
