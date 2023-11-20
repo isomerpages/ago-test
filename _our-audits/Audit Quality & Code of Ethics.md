@@ -6,7 +6,9 @@ description: ""
 ---
 ![](/images/banner_standards_methodology.png)
 
-To ensure quality in our audits, AGO has implemented a Quality Assurance Framework (QAF). The QAF comprises systems, structures, policies and procedures that are designed to provide reasonable assurance that the audits done by AGO meet recognised professional standards. The QAF also includes the AGO Code of Conduct and Ethics, which all AGO auditors must abide by. 
+### AGO implements a Quality Assurance Framework (QAF) to ensure quality in our audits. 
+
+The QAF comprises systems, structures, policies and procedures that are designed to provide reasonable assurance that the audits done by AGO meet recognised professional standards. The QAF also includes the AGO Code of Conduct and Ethics, which all AGO auditors must abide by. 
 
 AGO is also subject to audits, for example, IT security audits by the Government Technology Agency, fixed asset audits by the Accountant-General's Department, and audits on our records management by the National Archives. AGO also engages a commercial auditor annually to audit its financial statements.
 
