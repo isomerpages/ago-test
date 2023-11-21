@@ -4,13 +4,26 @@ permalink: /who-we-are/vision-mission-core-values/
 description: ""
 variant: markdown
 ---
+
+<style>
+.page_highlight {
+		font-size: 1.375rem;
+		color:#036;
+		margin-top:0;
+		background: none;
+		border-left: 2px solid #6b4370;
+		padding: 0 0 0 2rem;
+	}
+</style>
+
 ![](/images/banner_vision.png)
 
+	
 ### **Our Vision**
-To be a respected national audit institution – Professional, Independent, Effective.
+<p class="page_highlights">To be a respected national audit institution – Professional, Independent, Effective.</p>
 
 ### **Our Mission** 
-To audit and report to the President and Parliament on the proper accounting and use of public resources so as to enhance public accountability and help strengthen the financial governance of the public service.
+<p class="page_highlights">To audit and report to the President and Parliament on the proper accounting and use of public resources so as to enhance public accountability and help strengthen the financial governance of the public service.</p>
 
 ### **Our Core Values**
 
