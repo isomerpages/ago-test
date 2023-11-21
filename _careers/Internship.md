@@ -6,10 +6,12 @@ description: ""
 ---
 <style>
 	.highlight {
-	font-size: 1.375rem;
-	color:#036;
-	margin-top:0;
-	background: none;
+		font-size: 1.375rem;
+		color:#036;
+		margin-top:0;
+		background: none;
+		border-left: 2px solid #6b4370;
+		padding: 0 0 0 2rem ;
 	}
 	
 	.testimonial {
