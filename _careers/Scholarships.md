@@ -7,7 +7,17 @@ description: ""
 ![](/images/banner_scholarship.png)
 
 <style>
-		.scholarship-table {
+	.page_highlight {
+		font-size: 1.375rem;
+		color:#036;
+		margin-top:0;
+		background: none;
+		border-left: 2px solid #6b4370;
+		padding: 0 0 0 2rem;
+	}	
+	
+	
+	.scholarship-table {
 				width: 100%;
 				border-collapse: collapse;
 				background: #fff;
