@@ -6,7 +6,7 @@ description: ""
 ---
 ![](/images/officers-reading-ar.jpg)
 
-The Report of the Auditor-General for the Financial Year 2022/23 was presented to President on 4 July 2023 and tabled in Parliament on 18 July 2023.
+> The Report of the Auditor-General for the Financial Year 2022/23 was presented to President on 4 July 2023 and tabled in Parliament on 18 July 2023.
 
 Click to download the latest [Report](/files/ARs/ar_fy2022-23.pdf).
 
