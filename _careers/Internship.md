@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <style>
-	.highlight {
+	.page_highlight {
 		font-size: 1.375rem;
 		color:#036;
 		margin-top:0;
@@ -41,7 +41,7 @@ description: ""
 	}
 </style>
 
-<p class="highlight">The AGO Internship Programme provides undergraduates pursuing a Degree in Accountancy to acquire the knowledge and skills, and experience the AGO culture and work environment.</p>
+<p class="page_highlight">The AGO Internship Programme provides undergraduates pursuing a Degree in Accountancy to acquire the knowledge and skills, and experience the AGO culture and work environment.</p>
  <div class="testimonial">
 		<div class="testimonial-image">
 			<img src="/images/vanessa_presentation_photo.jpg" alt="Vanessa Lee" title="Vanessa Lee">
