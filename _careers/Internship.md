@@ -4,7 +4,7 @@ permalink: /careers/internship/
 variant: markdown
 description: ""
 ---
-&gt; ##### **The AGO Internship Programme provides undergraduates pursuing a Degree in Accountancy to acquire the knowledge and skills, and experience the AGO culture and work environment.**
+##### **The AGO Internship Programme provides undergraduates pursuing a Degree in Accountancy to acquire the knowledge and skills, and experience the AGO culture and work environment.**
 <style>
 	.testimonial {
 		display: flex;
