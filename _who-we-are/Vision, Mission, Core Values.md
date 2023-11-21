@@ -20,10 +20,10 @@ variant: markdown
 
 	
 ### **Our Vision**
-<p class="page_highlights">To be a respected national audit institution – Professional, Independent, Effective.</p>
+<p class="page_highlight">To be a respected national audit institution – Professional, Independent, Effective.</p>
 
 ### **Our Mission** 
-<p class="page_highlights">To audit and report to the President and Parliament on the proper accounting and use of public resources so as to enhance public accountability and help strengthen the financial governance of the public service.</p>
+<p class="page_highlight">To audit and report to the President and Parliament on the proper accounting and use of public resources so as to enhance public accountability and help strengthen the financial governance of the public service.</p>
 
 ### **Our Core Values**
 
