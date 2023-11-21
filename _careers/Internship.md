@@ -4,12 +4,12 @@ permalink: /careers/internship/
 variant: markdown
 description: ""
 ---
-
 <style>
 	.highlight {
 	font-size: 1.375rem;
 	color:#036;
 	margin-top:0;
+	background: none;
 	}
 	
 	.testimonial {
@@ -39,7 +39,7 @@ description: ""
 	}
 </style>
 
-<span class="highlight">The AGO Internship Programme provides undergraduates pursuing a Degree in Accountancy to acquire the knowledge and skills, and experience the AGO culture and work environment.</span>
+<p class="highlight">The AGO Internship Programme provides undergraduates pursuing a Degree in Accountancy to acquire the knowledge and skills, and experience the AGO culture and work environment.</p>
  <div class="testimonial">
 		<div class="testimonial-image">
 			<img src="/images/vanessa_presentation_photo.jpg" alt="Vanessa Lee" title="Vanessa Lee">
