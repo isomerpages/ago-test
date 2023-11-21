@@ -9,7 +9,7 @@ third_nav_title: Awards
 ![](/images/steven_choy.png)
 *Mr Choy Hong Yeen Steven, Deputy Director (Recipient of the 2021 NDA Commendation Medal)*
 
-Steven has been with AGO for 28 years. In his career in AGO thus far, he had been rotated to various groups such as SB1, Group 4 and 5, and was involved in the audits of Economic Development Board, National Research Foundation, National Council of Social Services and Ministry of Culture, Community and Youth. In addition, he also heads the Internal Audit Unit for AGO and oversees the internal audits on the corporate functions. 
+> Steven has been with AGO for 28 years. In his career in AGO thus far, he had been rotated to various groups such as SB1, Group 4 and 5, and was involved in the audits of Economic Development Board, National Research Foundation, National Council of Social Services and Ministry of Culture, Community and Youth. In addition, he also heads the Internal Audit Unit for AGO and oversees the internal audits on the corporate functions. 
 
 The Commendation Medal was awarded to Steven in recognition of his commendable performance and devotion to his duties.
 
@@ -28,9 +28,9 @@ I am not good at words. Perhaps from my actions of rolling up sleeves (literally
 *Mdm Chua Pheck Kiang Rina, Assistant Auditor-General (AAG)*
 *[Recipient of the 2019 NDA Public Administration Medal (Silver)]*
 
-Being an auditor and serving the nation for 29 years, Rina started out as an Audit Officer with SND group. She was subsequently rotated to other groups such as SB5 and SB1, and was involved in the audits of GIC, Ministry of National Development and Ministry of Finance. 
-
-The Public Administration Medal (Silver) was awarded to Rina in recognition of her contributions to the audit work of AGO.
+> Being an auditor and serving the nation for 29 years, Rina started out as an Audit Officer with SND group. She was subsequently rotated to other groups such as SB5 and SB1, and was involved in the audits of GIC, Ministry of National Development and Ministry of Finance. 
+> 
+> The Public Administration Medal (Silver) was awarded to Rina in recognition of her contributions to the audit work of AGO.
 
 Let’s hear from her on her thoughts on receiving the NDA below. 
 
