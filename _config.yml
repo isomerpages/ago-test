@@ -8,13 +8,13 @@ colors:
     - title: media-color-one
       color: "#8d99ae"
     - title: media-color-two
-      color: "#4a90e2"
+      color: "#dec65c"
     - title: media-color-three
       color: "#00726b"
     - title: media-color-four
       color: "#9b8579"
     - title: media-color-five
-      color: "#d4aa5c"
+      color: "#4a90e2"
 description: Auditor-General's Office of Singapore - An Isomer site of the
   Singapore Government
 permalink: none
