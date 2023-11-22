@@ -24,8 +24,8 @@ The Auditor-General shall in his audit, ascertain whether reasonable steps have 
 ![Sentosa_Solar_Panel_Inspection](/images/Sentosa_solar_Panels_800x400.jpg)
 *AGO site inspection of a solar panel installation at Sentosa.*
 
-At the end of the audit, the Auditor-General will report on the Government financial statements and his observations on internal controls and areas where due regard is not given by the entities audited.  This report is submitted to the President, who shall then present it to Parliament.
-
 > #### **The Audit Act also provides for the Auditor-General to bring to the notice of the Ministry of Finance any serious irregularities that have occurred in the accounting or custody of public moneys or public stores.** 
+
+At the end of the audit, the Auditor-General will report on the Government financial statements and his observations on internal controls and areas where due regard is not given by the entities audited.  This report is submitted to the President, who shall then present it to Parliament.
 
 Click [here](https://sso.agc.gov.sg/Act/AA1966){:target="_blank"} to read the Audit Act.
