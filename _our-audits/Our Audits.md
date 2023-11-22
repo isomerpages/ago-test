@@ -47,8 +47,8 @@ description: ""
 	}
 </style>
 
-![](/images/banner_our_audit.png)
-*AGO auditors verifying recently purchased horticultural stocks.*
+![](/images/istockphoto_1391921122_1024x1024_800x400.jpg)
+*Photo caption here to explain process or work being done.*
 
 #### **AGO carries out the following audits:**
 <br>
