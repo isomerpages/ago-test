@@ -4,7 +4,7 @@ permalink: /our-audits/audit-quality-code-of-ethnics/
 variant: markdown
 description: ""
 ---
-![](/images/banner_standards_methodology.png)
+![](/images/istockphoto_1677286035_1024x1024_400H_.jpg)
 
 > #### **AGO implements a Quality Assurance Framework (QAF) to ensure quality in our audits.** 
 
