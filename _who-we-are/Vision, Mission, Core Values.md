@@ -4,7 +4,6 @@ permalink: /who-we-are/vision-mission-core-values/
 description: ""
 variant: markdown
 ---
-
 <style>
 .page_highlight {
 		font-size: 1.375rem;
@@ -22,8 +21,14 @@ variant: markdown
 ### **Our Vision**
 <p class="page_highlight">To be a respected national audit institution – Professional, Independent, Effective.</p>
 
+![](/images/AGO_SportsSG_800x400.jpg)
+*AGO officer performing an audit with a SportSG officer* 
+
 ### **Our Mission** 
 <p class="page_highlight">To audit and report to the President and Parliament on the proper accounting and use of public resources so as to enhance public accountability and help strengthen the financial governance of the public service.</p>
+
+![Sentosa maintenance](/images/Review_of_Mainternance_Works_Carried_Out_at_Sentosa_Development_Corp_2_800x400.jpg)
+*AGO officer reviews he maintenance work at Sentosa.* 
 
 ### **Our Core Values**
 
