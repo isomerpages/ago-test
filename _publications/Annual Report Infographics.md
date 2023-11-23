@@ -4,7 +4,7 @@ permalink: /publications/annual-report-infographics/
 variant: markdown
 description: ""
 ---
-![](/images/officers-reading-ar.jpg)
+![Generic charts](/images/istockphoto_1313321487_1024x1024_800x400.jpg)
 
 
 | Title | Type | Download |
