@@ -20,11 +20,10 @@ sections:
         - title: Career Opportunities
           description: ""
           url: /careers/career-opportunities/
-      variant: floating
-      backgroundColor: gray
+      variant: image
+      backgroundColor: white
       alignment: left
       size: md
-      title: PROFESSIONAL, INDEPENDNT, EFFECTIVE
   - infopic:
       title: Audit Quality & Code of Ethics
       id: infopic
