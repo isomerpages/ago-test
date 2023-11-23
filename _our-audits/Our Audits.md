@@ -29,6 +29,7 @@ description: ""
 
 	.text {
 		flex: 1;
+	font-size: 18px;
 	}
 	
 	@media only screen and (max-width: 600px) {
