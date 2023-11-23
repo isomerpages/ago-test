@@ -4,7 +4,7 @@ permalink: /publications/annual-report-infographics/
 variant: markdown
 description: ""
 ---
-![Generic charts](/images/istockphoto_1313321487_1024x1024_800x400.jpg)
+![infographics](/images/istockphoto_1480239160_1024x1024_800x400.jpg)
 
 
 | Title | Type | Download |
