@@ -21,7 +21,7 @@ sections:
           description: ""
           url: /careers/career-opportunities/
       variant: floating
-      backgroundColor: black
+      backgroundColor: gray
       alignment: left
       size: md
       title: PROFESSIONAL, INDEPENDNT, EFFECTIVE
