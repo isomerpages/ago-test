@@ -22,4 +22,4 @@ AGO encourages and provides sponsorship for officers to attain relevant professi
 
 AGO also support our officers in maintaining their professional membership with the professional bodies for the professional accreditation and certifications under the Sponsorship Scheme, where officers can claim up to a certain amount for each accreditation or certification per calendar year.  
 
-**For more information, please visit [http://www.ago.gov.sg/ago-academy](https://www.ago.gov.sg/ago-academy){:target="_blank"}**
+**For more information, please visit [http://www.ago.gov.sg/ago-academy](https://www.ago.gov.sg/ago-academy)**
