@@ -46,7 +46,6 @@ description: ""
 		}
 	}
 </style>
-
 ![](/images/istockphoto_1391921122_1024x1024_800x400.jpg)
 *Photo caption here to explain process or work being done.*
 
