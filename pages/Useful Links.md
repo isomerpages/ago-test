@@ -24,6 +24,7 @@ description: ""
 			line-height: 1.2;
 			color: #003366;
 			width: 35%;
+		margin-top: 1rem;
 		}
 
 		.text {
