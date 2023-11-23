@@ -13,6 +13,18 @@ variant: markdown
 		border-left: 2px solid #6b4370;
 		padding: 0 0 0 2rem;
 	}
+
+  .title {
+		font-size: 1.5rem;
+    font-weight: bold;
+    line-height: 1;
+    color: #003366;
+		margin-top: 0.5rem
+  }
+	
+	.content ol > li, .content ul > li {
+		margin-top: 0;
+}
 </style>
 
 ![](/images/banner_vision.png)
@@ -29,15 +41,7 @@ variant: markdown
 
 ### **Our Core Values**
 
-<style>
-  .title {
-font-size: 1.5rem;
-    font-weight: bold;
-    line-height: 1;
-    color: #003366;
-  }
 
-</style>
 <div class="is-multiline padding--bottom--lg padding--top--lg">
 	<div class="row">
 		<div class="col is-one-third title">Independence</div>
