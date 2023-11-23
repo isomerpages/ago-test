@@ -140,6 +140,6 @@ Applicants for the undergraduate scholarships are welcome to apply prior to purs
         </tbody>
     </table>
 
-##### Click [here](https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships){:target="_blank"} to find out more information on PSC Scholarship (Public Finance).
+##### **Click [here](https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships) to find out more information on PSC Scholarship (Public Finance).**
 
-##### **Apply for these scholarships** [here](https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships?q=apply){:target="_blank"}!
+##### **Apply for these scholarships** [here](https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships?q=apply)
