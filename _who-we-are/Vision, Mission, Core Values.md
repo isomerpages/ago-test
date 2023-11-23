@@ -31,7 +31,7 @@ variant: markdown
 
 <style>
   .title {
-font-size: 1.2rem;
+font-size: 1.5rem;
     font-weight: bold;
     line-height: 1;
     color: #003366;
