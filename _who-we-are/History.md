@@ -8,7 +8,7 @@ variant: markdown
 <table>
   <thead>
     <tr>
-      <th style="font-weight: bold; color: #036; font-size: 1.2rem;">Year &amp; Event</th>
+      <th style="font-weight: bold; color: #036; font-size: 1.2rem; width: 35%">Year &amp; Event</th>
       <th style="font-weight: bold; color: #036; font-size: 1.2rem;">Historical Description</th>
     </tr>
   </thead>
