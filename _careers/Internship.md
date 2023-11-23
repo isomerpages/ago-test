@@ -75,4 +75,4 @@ Under this 8-10 week programme, interns will be attached to an audit team and wi
 
 For Summer and Winter Internship Programmes, kindly check this page in February and September respectively to register for the next internship run.
 
-##### Interested students may submit your application via [Careers@Gov](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html){:target="_blank"} by selecting 'Auditor-General's Office' under 'Agency'! You may also send your resume to AGO_HROD@ago.gov.sg.
+##### Interested students may submit your application via [Careers@Gov](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html) by selecting 'Auditor-General's Office' under 'Agency'! You may also send your resume to AGO_HROD@ago.gov.sg.
