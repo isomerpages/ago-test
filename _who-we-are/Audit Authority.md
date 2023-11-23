@@ -28,4 +28,4 @@ The Auditor-General shall in his audit, ascertain whether reasonable steps have 
 
 At the end of the audit, the Auditor-General will report on the Government financial statements and his observations on internal controls and areas where due regard is not given by the entities audited.  This report is submitted to the President, who shall then present it to Parliament.
 
-Click [here](https://sso.agc.gov.sg/Act/AA1966){:target="_blank"} to read the Audit Act.
+Click [here](https://sso.agc.gov.sg/Act/AA1966) to read the Audit Act.
