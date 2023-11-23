@@ -4,7 +4,7 @@ permalink: /publications/other-publications/
 variant: markdown
 description: ""
 ---
-![](/images/officers-reading-ar.jpg)
+![Library](/images/istockphoto_1442238908_1024x1024_800x400.jpg)
 
 | Description | Type | Download | 
 | -------- | -------- | -------- |
