@@ -19,7 +19,7 @@ variant: markdown
     font-weight: bold;
     line-height: 1;
     color: #003366;
-		margin-top: 0.5rem;
+		margin-top: 1rem;
   }
 	
 	.content ol > li, .content ul > li {
