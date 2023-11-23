@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Awards
 ---
-### Hear from our Awardees
 ![](/images/steven_choy.png)
 *Mr Choy Hong Yeen Steven, Deputy Director (Recipient of the 2021 NDA Commendation Medal)*
 
