@@ -9,7 +9,7 @@ third_nav_title: Why Join Us?
 
 > #### **We work hard and play hard.** 
 
-Our Social and Healthy Lifestyle Committees are dedicated to providing and arranging an array benefits for AGoians!!
+Our Social and Healthy Lifestyle Committees are dedicated to providing and arranging an array benefits for AGOians!!
 
 *   Attractive Remuneration Package which includes Performance Bonus, Market Adjustment Component and Retention Bonus for eligible officers
 *   Medical/Dental Coverage
