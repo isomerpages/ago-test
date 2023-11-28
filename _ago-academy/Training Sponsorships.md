@@ -4,7 +4,7 @@ permalink: /ago-academy/training-sponsorships/
 variant: markdown
 description: ""
 ---
-![](/images/banner_training_sponsorships.png)
+![Training sponsorship](/images/istockphoto_1423350818_1024x1024_800x400.jpg)
 
 > #### **AGO Academy encourages and offers sponsorship for officers to attain relevant professional certifications.** 
 
