@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Why Join Us?
 ---
-![Staff_recreation](/images/FB_IMG_1675151572724_800x400.jpg)
+![Staff benefits](/images/istockphoto_1202606681_1024x1024_800x400.jpg)
 
 > #### **We work hard and play hard.** 
 
