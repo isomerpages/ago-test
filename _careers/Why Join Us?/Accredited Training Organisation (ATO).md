@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Why Join Us?
 ---
-![](/images/Academy_Banner.jpg)
+![ATO](/images/istockphoto_1254127323_1024x1024_800x400.jpg)
 
 > #### **AGO is an Accredited Training Organisation (ATO) for the attainment of Chartered Accountant (Singapore).** 
 
