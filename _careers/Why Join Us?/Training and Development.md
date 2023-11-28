@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Why Join Us?
 ---
-![](/images/training_and_development_002.jpg)
+![](/images/istockphoto_1331350008_1024x1024_800x400.jpg)
 > #### **AGO Academy is our professional training arm  responsible for the strategy and development for our officers.**
 
 Our officers are given opportunities to upgrade their skills and knowledge through formal and informal learning activities such as:
