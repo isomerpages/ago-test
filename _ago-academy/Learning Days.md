@@ -4,7 +4,7 @@ permalink: /ago-academy/learning-days/
 variant: markdown
 description: ""
 ---
-![Learning_Days](/images/istockphoto_1331350008_1024x1024_800x400.jpg)
+![](/images/Office%20shoot/lowres2Z0A7157_800x400.jpg)
 
 > #### **AGO Academy builds a learning culture by creating platforms for knowledge sharing.** 
 
