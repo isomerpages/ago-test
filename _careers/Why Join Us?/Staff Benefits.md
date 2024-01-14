@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Why Join Us?
 ---
-![Staff benefits](/images/istockphoto_1202606681_1024x1024_800x400.jpg)
+![](/images/Office%20shoot/lowres2Z0A6999_800x400.jpg)
 > #### **We work hard and play hard.** 
 
 Our Social and Healthy Lifestyle Committees are dedicated to providing and arranging an array benefits for AGOians!!
