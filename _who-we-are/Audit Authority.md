@@ -4,8 +4,8 @@ permalink: /who-we-are/audit-authority/
 variant: markdown
 description: ""
 ---
-![Audit authority](/images/banner_audit_authority.png)
-*Photo caption describing scene*
+![](/images/Sentosa%20Shoot/lowres2Z0A7581_800x400.jpg)
+*AGO site inspection of Sentosa monorail maintenance depot.*
 
 > #### **AGO’s audit mandate is provided for in legislation. The key legislation that govern AGO’s work are the Constitution of the Republic of Singapore and the Audit Act.**
 
@@ -21,8 +21,8 @@ The Auditor-General shall in his audit, ascertain whether reasonable steps have 
 * Ensure that payments have been made with proper authority and supported by sufficient proof of payment; and
 * Ensure that the provisions of law relating to moneys or stores have been complied with.
 
-![Sentosa_Solar_Panel_Inspection](/images/Sentosa_solar_Panels_800x400.jpg)
-*AGO site inspection of a solar panel installation at Sentosa.*
+![](/images/Sentosa%20Shoot/lowres2Z0A7531_800x400.jpg)
+*AGO site inspection of Sentosa monorail maintenance depot.*
 
 > #### **The Audit Act also provides for the Auditor-General to bring to the notice of the Ministry of Finance any serious irregularities that have occurred in the accounting or custody of public moneys or public stores.** 
 
