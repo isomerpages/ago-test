@@ -4,7 +4,7 @@ permalink: /publications/annual-reports/
 variant: markdown
 description: ""
 ---
-![](/images/officers-reading-ar.jpg)
+![](/images/Office%20shoot/lowres2Z0A6906_800x400.jpg)
 
 > #####  **The Report of the Auditor-General for the Financial Year 2022/23 was presented to President on 4 July 2023 and tabled in Parliament on 18 July 2023.**
 
