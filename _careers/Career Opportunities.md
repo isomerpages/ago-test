@@ -4,7 +4,7 @@ permalink: /careers/career-opportunities/
 variant: markdown
 description: ""
 ---
-![](/images/banner_career_opportunities.png)
+![](/images/Office%20shoot/lowres2Z0A7208_800x400.jpg)
 
 > #### **AGO invites dynamic, driven individuals with an analytical, enquiring mind and good interpersonal skills to join us.**
 
