@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 ![](/images/Stadium%20Shoot/lowres2Z0A7434_800x400.jpg)
-*Photo caption here to explain process or work being done.*
+*Equipment audit for SportsSG*
 
 <style>
 	.audit {
