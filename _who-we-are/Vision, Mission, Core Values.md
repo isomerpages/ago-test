@@ -36,8 +36,8 @@ variant: markdown
 ### **Our Mission** 
 <p class="page_highlight">To audit and report to the President and Parliament on the proper accounting and use of public resources so as to enhance public accountability and help strengthen the financial governance of the public service.</p>
 
-![](/images/Sentosa%20Shoot/lowres2Z0A7527_800x400.jpg)
-*AGO site audit of the Sentosa monorail maintenance depot.* 
+![](/images/Stadium%20Shoot/lowres2Z0A7487_800x400.jpg)
+*AGO site audit for SportSG.* 
 
 ### **Our Core Values**
 
