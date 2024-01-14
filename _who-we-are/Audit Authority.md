@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 ![](/images/Sentosa%20Shoot/lowres2Z0A7581_800x400.jpg)
-*AGO site inspection of Sentosa monorail maintenance depot.*
+*AGO site audit of the Sentosa monorail maintenance depot.*
 
 > #### **AGO’s audit mandate is provided for in legislation. The key legislation that govern AGO’s work are the Constitution of the Republic of Singapore and the Audit Act.**
 
@@ -22,7 +22,7 @@ The Auditor-General shall in his audit, ascertain whether reasonable steps have 
 * Ensure that the provisions of law relating to moneys or stores have been complied with.
 
 ![](/images/Sentosa%20Shoot/lowres2Z0A7531_800x400.jpg)
-*AGO site inspection of Sentosa monorail maintenance depot.*
+*AGO site audit of the Sentosa monorail maintenance depot.*
 
 > #### **The Audit Act also provides for the Auditor-General to bring to the notice of the Ministry of Finance any serious irregularities that have occurred in the accounting or custody of public moneys or public stores.** 
 
