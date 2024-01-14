@@ -4,7 +4,7 @@ permalink: /our-audits/
 variant: markdown
 description: ""
 ---
-![](/images/istockphoto_1391921122_1024x1024_800x400.jpg)
+![](/images/Stadium%20Shoot/lowres2Z0A7434_800x400.jpg)
 *Photo caption here to explain process or work being done.*
 
 <style>
