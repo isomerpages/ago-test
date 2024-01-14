@@ -41,6 +41,8 @@ description: ""
 	}
 </style>
 
+![](/images/Office%20shoot/lowres2Z0A7257_800x400.jpg)
+
 <p class="page_highlight"><b>The AGO Internship Programme provides undergraduates pursuing a Degree in Accountancy to acquire the knowledge and skills, and experience the AGO culture and work environment.</b></p>
  <div class="testimonial">
 		<div class="testimonial-image">
