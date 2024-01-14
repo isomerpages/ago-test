@@ -4,7 +4,7 @@ permalink: /overview/
 description: ""
 variant: markdown
 ---
-![](/images/banner_overview.png)
+![](/images/Office%20shoot/lowres2Z0A7055_800x400.jpg)
 
 > #### **AGO is an independent organ of state and the national auditor. We play an important role in enhancing public accountability, in the management and use, of public funds and resources, through our audits.** 
 
