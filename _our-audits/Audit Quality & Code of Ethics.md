@@ -12,8 +12,9 @@ The QAF comprises systems, structures, policies and procedures that are designed
 
 AGO is also subject to audits, for example, IT security audits by the Government Technology Agency, fixed asset audits by the Accountant-General's Department, and audits on our records management by the National Archives. AGO also engages a commercial auditor annually to audit its financial statements.
 
-![AGO at Sentosa](/images/Sentosa_solar_Panels_800x400.jpg)
-*AGO officer reviewing a solar panel installation at Sentosa.*
+
+![](/images/Sentosa%20Shoot/lowres2Z0A7604_800x400.jpg)
+*AGO officer auditing structural installations at Sentosa Winds of Time attraction.*
 
 > #### **In developing its Code of Ethics, AGO took into consideration the International Organisation of Supreme Audit Institutions (INTOSAI)'s Code of Ethics and relevant ethical requirements in the ACRA Code of Professional Conduct and Ethics for Public Accountants and Accounting Entities.**  
 
