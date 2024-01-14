@@ -4,7 +4,7 @@ permalink: /ago-academy/seminars-workshops/
 variant: markdown
 description: ""
 ---
-![](/images/banner_foundation.png)
+![](/images/Office%20shoot/lowres2Z0A7195_800x400.jpg)
 
 > ##### **AGO Academy organises seminars and workshops for our officers to help develop competencies in professional knowledge, personal effectiveness and leadership.** 
 
