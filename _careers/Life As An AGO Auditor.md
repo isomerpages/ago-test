@@ -80,8 +80,8 @@ right: 20px;
 		line-height: 1.5;
 	}
 
- </style>
-
+</style>
+![](/images/Stadium%20Shoot/lowres2Z0A7417_800x400.jpg)
   <div class="accordion">
    <input id="section1" class="accordion-item" type="checkbox">
    <label for="section1" class="accordion-label">
