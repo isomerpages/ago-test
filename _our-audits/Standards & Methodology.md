@@ -4,7 +4,7 @@ permalink: /our-audits/standards-methodology/
 variant: markdown
 description: ""
 ---
-![](/images/istockphoto_1188856983_1024x1024_800x400.jpg)
+![](/images/Office%20shoot/lowres2Z0A7265_800x400.jpg)
 
 > #### **All audits are conducted in accordance with the framework and guidelines stipulated within the respective AGO audit manuals.** 
 
