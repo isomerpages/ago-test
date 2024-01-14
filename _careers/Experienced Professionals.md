@@ -4,7 +4,8 @@ permalink: /careers/experienced-professionals/
 variant: markdown
 description: ""
 ---
-![](/images/banner_experienced_professionals.png)
+
+![](/images/Office%20shoot/lowres2Z0A6970_800x400.jpg)
 
 > #### **AGO is looking for experienced professionals to join our dynamic team of senior auditors.** 
 
