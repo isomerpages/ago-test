@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Why Join Us?
 ---
-![](/images/banner_why_join_us.png)
+![](/images/Office%20shoot/lowres2Z0A7029_800x400.jpg)
 
 > #### **Every officer is important to AGO. We grow and develop our officers to their fullest potential.**
 
