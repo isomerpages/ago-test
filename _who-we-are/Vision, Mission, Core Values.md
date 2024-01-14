@@ -27,7 +27,7 @@ variant: markdown
 }
 </style>
 
-![](/images/banner_vision.png)
+![](/images/Office%20shoot/lowres2Z0A7089_800x400.jpg)
 
 	
 ### **Our Vision**
