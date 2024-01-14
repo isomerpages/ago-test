@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Office shoot/lowres2Z0A7319.jpg
+      background: /images/Office shoot/lowres2Z0A7319_1348Wx526.jpg
       url: /overview/
       key_highlights:
         - title: Who We Are
