@@ -2,7 +2,6 @@ collections:
   faq:
     output: true
     order:
-      - Test.md
       - General.md
       - Audit.md
       - Reports.md
