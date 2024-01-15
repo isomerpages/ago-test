@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Office shoot/lowres2Z0A7319_1348Wx526.jpg
+      background: /images/Office shoot/lowres2Z0A7319_2802x740.jpg
       url: /overview/
       key_highlights:
         - title: Who We Are
@@ -20,7 +20,7 @@ sections:
         - title: Career Opportunities
           description: ""
           url: /careers/career-opportunities/
-      variant: center
+      variant: image
       backgroundColor: white
       alignment: left
       size: md
