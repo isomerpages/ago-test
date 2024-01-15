@@ -2,5 +2,6 @@ collections:
   faq:
     output: true
     order:
+      - Reports.md
       - Audit.md
       - General.md
