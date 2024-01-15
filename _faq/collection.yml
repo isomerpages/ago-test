@@ -2,6 +2,7 @@ collections:
   faq:
     output: true
     order:
+      - Providing Information on Suspected Financial Irregularities.md
       - Reports.md
       - Audit.md
       - General.md
