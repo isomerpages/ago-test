@@ -20,7 +20,7 @@ sections:
         - title: Career Opportunities
           description: ""
           url: /careers/career-opportunities/
-      variant: image
+      variant: center
       backgroundColor: white
       alignment: left
       size: md
