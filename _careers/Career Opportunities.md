@@ -11,8 +11,8 @@ description: ""
 <blockquote>
     <h4><strong>AGO invites dynamic, driven individuals with an analytical, enquiring mind and good interpersonal skills to join us.</strong></h4>
 </blockquote>
-<p>If you are looking for a career that is rewarding and&nbsp;fulfilling
-    and would like to contribute towards enhancing&nbsp;public accountability,
+<p>If you are looking for a career that is rewarding and fulfilling,
+    and would like to contribute towards enhancing public accountability,
     join our team of audit professionals now.</p>
 <p>View <a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html" rel="noopener noreferrer nofollow" target="_blank">current vacancies</a> by
     clicking the link appended and selecting 'Auditor-General's Office' under
