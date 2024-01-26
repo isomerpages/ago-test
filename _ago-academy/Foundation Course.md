@@ -9,6 +9,7 @@ description: ""
     <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/foundation_course.png">
 </div>
 <p></p>
+<p></p>
 <p>The modules taught include:</p>
 <ul data-tight="true" class="tight">
     <li>
