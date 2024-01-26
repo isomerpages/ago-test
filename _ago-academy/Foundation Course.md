@@ -4,10 +4,10 @@ permalink: /ago-academy/foundation-course/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-    <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Additional New Images/_new_Foundation_Course.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+    <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/foundation_course.png">
+</div>
 <blockquote>
     <h5><strong>AGO Academy conducts Foundation Course for new AGO officers on an annual basis.</strong></h5>
 </blockquote>
