@@ -9,9 +9,7 @@ description: ""
     <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/foundation_course.png">
 </div>
 <p></p>
-<blockquote>
-    <p><strong>AGO Academy conducts Foundation Course for new AGO officers on an annual basis.</strong>
-    </p>
+<blockquote><strong>AGO Academy conducts Foundation Course for new AGO officers on an annual basis.</strong>
 </blockquote>
 <p>The modules taught include:</p>
 <ul data-tight="true" class="tight">
