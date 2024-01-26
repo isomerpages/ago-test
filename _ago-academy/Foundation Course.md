@@ -9,8 +9,10 @@ description: ""
     <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/foundation_course.png">
 </div>
 <p></p>
-<p><strong>AGO Academy conducts Foundation Course for new AGO officers on an annual basis.</strong>
-</p>
+<blockquote>
+    <p><strong>AGO Academy conducts Foundation Course for new AGO officers on an annual basis.</strong>
+    </p>
+</blockquote>
 <p>The modules taught include:</p>
 <ul data-tight="true" class="tight">
     <li>
@@ -50,7 +52,10 @@ description: ""
         <p>Use of Excel for Auditing</p>
     </li>
 </ul>
-<p>AGO Academy extends invitations to other public agencies to participate
-    in selected Foundation Course modules. This is aligned to AGO's mission
-    of enhancing public accountability and helping to strengthen the financial
-    governance of the public sector.</p>
+<blockquote>
+    <p>AGO Academy extends invitations to other public agencies to participate
+        in selected Foundation Course modules. This is aligned to AGO's mission
+        of enhancing public accountability and helping to strengthen the financial
+        governance of the public sector.</p>
+</blockquote>
+<p></p>
