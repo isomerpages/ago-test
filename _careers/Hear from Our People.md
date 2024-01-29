@@ -57,15 +57,12 @@ width: 30%;
       </div>
       <div class="testimonial-content">
         <p>
-          “As a final-year accountancy undergraduate in Nanyang Technological
-          University, I was looking out for a career which was different from
-          the conventional route to join one of the Big Four accounting firms.
-          The audit findings flagged by AGO auditors piqued my interest and
-          the role of a government auditor appeared to be a meaningful role in
-          which my skills and training could be put to impactful use for a
-          wider public purpose.”
+         AGO has provided me with many opportunities, as I have had the opportunity to go through two internal postings within AGO and two external secondments outside of AGO. In 2022, I was on a 6-month attachment at a private audit firm, where I got to experience working in the private sector and understand their work culture and audit practices. I also had hands-on experience on their analytical tools and audit platform which I believe is relevant even in the public sector due to the rampant move towards more digitalization. My current 2-year secondment stint at MOF has been an eye-opening experience thus far, which has exposed me to the whole-of-government budgetary framework and handling of policy-related work. Based on my experience thus far, AGO presents #onecareermanyopportunites. It has been a very fulfilling journey and reaffirms to me why I chose AGO in the first place.
         </p>
-        <strong>Sim Sze Xiong, Deputy Director</strong>
+        <strong>ONG JIA QI</strong>
+				<p>Assistant Director (AGO Scholar)<br>
+				Bachelor of Business Administration (Accountancy), NUS, 2018<br>
+				CIA</p>
       </div>
     </div>
     <div class="testimonial">
@@ -74,16 +71,13 @@ width: 30%;
       </div>
       <div class="testimonial-content">
         <p>
-          “My work in AGO has been both challenging and fulfilling. In AGO, I
-          have been exposed to both external auditing and policy work. I was
-          also part of the team that helped to implement the Quality Assurance
-          Framework in AGO. The patient coaching, guidance and encouragement
-          that I received from my bosses and colleagues have also helped me to
-          grow. Seeing my colleagues’ dedication and commitment to serving the
-          nation has inspired and motivated me to emulate their
-          professionalism as national auditors.”
+          As a member of the Digital Innovation Office (DIO) at AGO, our team focuses on data analytics and automation, streamlining audit processes and introducing innovative dimensions to audits. I was given the opportunity to pursue a full-time Master of IT in Business (Analytics) from SMU in 2020, and this equipped me to introduce advanced techniques like machine learning and graph analytics into our audit tests. The progress in data science and automation have transformed our audit approaches. I am excited about how these initiatives can enhance AGO’s role as the national auditor._
         </p>
-        <strong>Sabrina Fok, Deputy Director</strong>
+        <strong>KHOO WEN YONG</strong>
+				<p>Senior Assistant Director<br>
+Bachelor of Accountancy, NTU, 2012<br>
+Master’s of Information Technology in Business, SMU, 2021<br>
+					CA Singapore, CIA, CDMP</p>
       </div>
     </div>
   </div>
@@ -94,14 +88,13 @@ width: 30%;
       </div>
       <div class="testimonial-content">
         <p>
-          “The opportunity to audit government ministries and agencies which
-          are key establishments in Singapore allows me, being a Singaporean,
-          to do something for my nation using what I have been trained in.
-          Today, auditing takes on a new meaning and purpose for me. It is no
-          longer business as usual but unusual business – auditing with a
-          mission: to see that public funds are well spent and accounted for.”
+I was given the opportunity pursue a Master’s in Public Administration programme with the Lee Kuan Yew School of Public Policy.&nbsp; The academic work and interactions with participants from various agencies and countries was an eye-opener for me and helped me further appreciate the public sector and policies beyond what I learnt from audit work.&nbsp; I also work with experienced public accountants from the public and private sectors as a member of ACRA’s Practice Monitoring Sub Committee. Such engagements promote audit quality and enhance my understanding of auditing standards and procedures. The learning journey at AGO never ends and I look forward to the next bound ahead.
         </p>
-        <strong>Chen Sze Leng, Audit Director</strong>
+        <strong>CHRISTOPHER TANG CHUAN LEE</strong>
+				<p>Acting Group Director<br>
+Bachelor of Accountancy, NTU, 2007<br>
+Master’s in Public Administration, NUS, 2022<br>
+					CA Singapore, CFE</p>
       </div>
     </div>
     <div class="testimonial">
@@ -110,16 +103,12 @@ width: 30%;
       </div>
       <div class="testimonial-content">
         <p>
-          “Although bonded, I was given a choice of government agency to serve
-          in. I was impressed by the friendliness and professionalism of AGO
-          officers in their work during my internship. The AGO is supportive
-          of staff upgrading. It sponsors officers to take examinations
-          leading to professional certifications such as chartered financial
-          analyst (CFA), certified internal auditor and certified information
-          system auditor.”
+In AGO, there is a strong learning culture with emphasis given to the learning and development of officers at all levels. Those with longer years of service continue to upskill themselves professionally. As I have always been interested in fraud prevention and detection, I took up the Certified Fraud Examiner qualification which is recognised globally. Through the programme, I gained knowledge on areas such as complex financial transactions, investigative techniques and design of effective anti-fraud controls. The exam fees were sponsored fully by AGO.
         </p>
         <strong>Mabel Watt, Assistant Auditor-General</strong>
-        <br>
+				<p>Assistant Auditor-General<br>
+Bachelor of Accountancy, NTU, 1999<br>
+					CA Singapore, CIA, CFA, CFE</p>
         <br>
         <i>Mabel Watt shared her view of her career with AGO in Balancing Act,
           an editorial write-up in Straits Times Careers in the Public
