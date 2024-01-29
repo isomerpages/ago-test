@@ -5,21 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Training and Development
 ---
-![](/images/Office%20shoot/lowres2Z0A7135_800x400.jpg)
-> #### **AGO Academy is our professional training arm  responsible for the strategy and development for our officers.**
-
-Our officers are given opportunities to upgrade their skills and knowledge through formal and informal learning activities such as:
-
-*   Induction programme
-*   Foundation Training for Auditors
-*   Local and Overseas Conferences
-*   E-learning
-*   Communities of Practice
-
-> #### **AGO Auditors can also tap on training opportunities provided by AGO’s overseas counterparts and seminars/conferences organised by the International Organisation of Supreme Audit Institution (INTOSAI) and other regional associations of Supreme Audit Institutions of which AGO is a member.**
-
-AGO encourages and provides sponsorship for officers to attain relevant professional certifications such as Chartered Accountant (Singapore), Chartered Financial Analyst (CFA), Certified Internal Auditor (CIA), and Certified Information Systems Auditor (CISA). AGO is an Accredited Training Organisation for the Chartered Accountants of Singapore.
-
-AGO also support our officers in maintaining their professional membership with the professional bodies for the professional accreditation and certifications under the Sponsorship Scheme, where officers can claim up to a certain amount for each accreditation or certification per calendar year.  
-
-**For more information, please visit [http://www.ago.gov.sg/ago-academy](https://www.ago.gov.sg/ago-academy)**
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office shoot/2Z0A6959_800x400.jpg">
+</div>
+<p></p>
+<blockquote>
+<h4><strong>Our people are our key asset. We grow and develop our officers to their fullest potential.</strong></h4>
+</blockquote>
+<p>In AGO, we provide opportunities for our officers to advance professionally
+through continuous learning, training and knowledge-sharing. We also offer
+structured development programmes which comprise a comprehensive foundation
+course for auditors, as well as opportunities to attend workshops and seminars.</p>
