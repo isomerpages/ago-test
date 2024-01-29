@@ -27,8 +27,8 @@ run.</p>
 </p>
 <p><strong>AGO Auditing Service Scholar, Miss Vanessa Lee, NUS</strong>
 </p>
-<p><em>Undergraduate and AGO Scholar</em>
-<br><em>Bachelor of Accountancy, SMU</em>
+<p><em>Undergraduate and AGO Scholar</em> 
+<br><em>Bachelor of Accountancy, SMU</em> 
 <br><em>(Internship Period: 5 June to 11 August 2023)</em>
 </p>
 <hr>
@@ -42,11 +42,11 @@ run.</p>
 <p><strong>Raynold Lim Tze Pin, NTU</strong>
 </p>
 <p><em>Double Degree in Accountancy and Business, </em>
-<br><em>NTU, 2022</em>
+<br><em>NTU, 2022</em> 
 <br><em>(Internship Period: 1 June to 6 August 2021)</em>
 </p>
 <hr>
-<h5>Interested students may submit your application via Careers@Gov by following the step-by-step guide below. You may also send your resume to <a href="mailto:AGO_HROD@ago.gov.sg" rel="noopener noreferrer nofollow" target="_blank">AGO_HROD@ago.gov.sg</a>. </h5>
+<h5>Interested students may submit your application via Careers@Gov by following the step-by-step guide below. You may also send your resume to <a href="mailto:AGO_HROD@ago.gov.sg" rel="noopener noreferrer nofollow" target="_blank">AGO_HROD@ago.gov.sg</a>.</h5>
 <p>Step 1: Go to <a href="https://www.careers.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.careers.gov.sg</a>
 </p>
 <p>Step 2: Click on ‘Find A Job/Internship’ from the dropdown ribbon on the
@@ -55,4 +55,3 @@ right.</p>
 by ‘Agency’.</p>
 <p>Step 4: Check on ‘Auditor-General’s Office’ to view the available job/internship
 opportunities.</p>
-<p></p>
