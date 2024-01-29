@@ -8,19 +8,20 @@ third_nav_title: Awards
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/_New_Fei_lin_800x500.jpg">
 </div>
-<p><em>Fei Lin (Recipient of the 2021 NDA Commendation Medal)</em>
+<p>Teng Fei Lin, Deputy Director
+<br><em>(Recipient of the 2021 NDA Commendation Medal)</em>
 </p>
 <blockquote>
-<p>Fei Lin's write up to be inserted here.</p>
+<p>The Commendation Medal was awarded to Fei Lin in recognition of her commendable
+performance and devotion to her duties.</p>
 </blockquote>
-<p>The Commendation Medal was awarded to Steven in recognition of his commendable
-performance and devotion to his duties.</p>
-<p>Let’s hear from him on his thoughts on receiving the NDA below.</p>
-<p><strong>What does receiving the award mean for you?</strong>
+<p></p>
+<p>Let’s hear from her on her thoughts on receiving the NDA.</p>
+<p><strong>What does receiving the award mean for you?</strong> 
 <br>I am honoured to be awarded with the National Day Commendation Medal.&nbsp;
 It serves as a form of recognition for my contributions to the organisation
 over the years.</p>
-<p><strong>What is your most memorable contribution to the public service?</strong>
+<p><strong>What is your most memorable contribution to the public service?</strong> 
 <br>I have spent a large part of my career with AGO auditing GIC. Over the
 years, the team put our heads together and worked on many initiatives to
 automate or streamline the audit processes. Some examples are automating
@@ -32,7 +33,7 @@ audit process and an improvement on the quality of the audit over the years
 are extremely satisfying and certainly what I see as a key part of my contribution
 to the public service. A big thank you to all who have contributed to the
 GIC audit team throughout this memorable journey.</p>
-<p><strong>Being a recipient of the award, how would you inspire others?</strong>
+<p><strong>Being a recipient of the award, how would you inspire others?</strong> 
 <br>Do your best and your contributions, no matter how small will be noticed.</p>
 <hr>
 <div class="isomer-image-wrapper">
@@ -49,18 +50,18 @@ of National Development and Ministry of Finance.</p>
 of her contributions to the audit work of AGO.</p>
 </blockquote>
 <p>Let’s hear from her on her thoughts on receiving the NDA below.</p>
-<p><strong>What were your thoughts when you heard that you would be receiving this award?</strong>
+<p><strong>What were your thoughts when you heard that you would be receiving this award?</strong> 
 <br>My first thought is to thank Team AGO - without everyone’s support the
 award would not have been possible. I am also happy and honoured as the
 award is a form of recognition of the important work we do at AGO.</p>
-<p><strong>What do you enjoy about working in AGO? What keeps you motivated at work?</strong>
+<p><strong>What do you enjoy about working in AGO? What keeps you motivated at work?</strong> 
 <br>In the course of our audit, we get to see and understand the processes
 involved in the wide variety of work performed by different Government
 agencies. This keeps the job interesting as there is always something new
 we learn in every audit assignment. This, coupled with the meaningful work
 AGO does in enhancing public accountability and helping to strengthen financial
 governance, has kept me motivated all these years.</p>
-<p><strong>What advice would you give the newly joined officers?</strong>
+<p><strong>What advice would you give the newly joined officers?</strong> 
 <br>I think my advice would apply to all officers – firstly, the importance
 of taking ownership for one’s work and not pushing the responsibility to
 someone else when things did not work out. To me taking ownership for any
