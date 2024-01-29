@@ -33,7 +33,6 @@ run.</p>
 </p>
 <hr>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/_New_Raynold_Intern_800x400.jpg">
 </div>
@@ -46,6 +45,7 @@ run.</p>
 <br><em>(Internship Period: 1 June to 6 August 2021)</em>
 </p>
 <hr>
+<p></p>
 <h5>Interested students may submit your application via Careers@Gov by following the step-by-step guide below. You may also send your resume to <a href="mailto:AGO_HROD@ago.gov.sg" rel="noopener noreferrer nofollow" target="_blank">AGO_HROD@ago.gov.sg</a>.</h5>
 <p>Step 1: Go to <a href="https://www.careers.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.careers.gov.sg</a>
 </p>
