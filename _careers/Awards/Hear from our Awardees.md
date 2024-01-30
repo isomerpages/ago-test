@@ -9,7 +9,7 @@ third_nav_title: Awards
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/fei_lin_800x400.jpg">
 </div>
 <p>Teng Fei Lin, Deputy Director
-<br><em>(Recipient of the 2021 NDA Commendation Medal)</em>
+<br><em>(Recipient of the 2021 National Day Award (NDA) Commendation Medal)</em>
 </p>
 <blockquote>
 <p><strong>The Commendation Medal was awarded to Fei Lin in recognition of her commendable performance and devotion to her duties.</strong>
