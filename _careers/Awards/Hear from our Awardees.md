@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Awards
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/_New_Fei_lin_800x500.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/fei_lin_800x400.jpg">
 </div>
 <p>Teng Fei Lin, Deputy Director
 <br><em>(Recipient of the 2021 NDA Commendation Medal)</em>
