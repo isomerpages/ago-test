@@ -108,7 +108,7 @@ Master’s of Information Technology in Business, SMU, 2021<br>
         <strong>ONG JIA QI</strong><br>
 				Assistant Director (AGO Scholar)<br>
 				Bachelor of Business Administration (Accountancy), NUS, 2018<br>
-				CIA
+				CA (Singapore), CIA
       </div>
     </div>
     
