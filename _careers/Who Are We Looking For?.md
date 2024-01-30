@@ -4,7 +4,6 @@ permalink: /careers/who-are-we-looking-for/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office shoot/lowres2Z0A6999_800x400.jpg">
 </div>
