@@ -12,8 +12,8 @@ third_nav_title: Awards
 <br><em>(Recipient of the 2021 NDA Commendation Medal)</em>
 </p>
 <blockquote>
-<p>The Commendation Medal was awarded to Fei Lin in recognition of her commendable
-performance and devotion to her duties.</p>
+<p><strong>The Commendation Medal was awarded to Fei Lin in recognition of her commendable performance and devotion to her duties.</strong>
+</p>
 </blockquote>
 <p></p>
 <p>Let’s hear from her on her thoughts on receiving the NDA.</p>
