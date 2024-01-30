@@ -53,7 +53,7 @@ width: 30%;
 <div class="testimonial-container">
     <div class="testimonial">
       <div class="testimonial-image">
-        <img src="/images/Hear_from_our_people/christopher_tang.png" alt="Photo">
+        <img src="/images/Hear_from_our_people/christopher_tang.jpg" alt="Photo">
       </div>
       <div class="testimonial-content">
         <p>
