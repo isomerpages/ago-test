@@ -9,7 +9,7 @@ description: ""
 </div>
 <p></p>
 <blockquote>
-<h4><strong>AGO Academy encourages and offers sponsorship for officers to attain relevant professional certifications such as Chartered Accountant of Singapore (CA Singapore), Financial Forensic Professional (FFP), Chartered Financial Analyst (CFA), Certified Internal Auditor (CIA) and Certified Information Systems Auditor (CISA)1.</strong></h4>
+<h4><strong>AGO Academy encourages and offers sponsorship for officers to attain relevant professional certifications such as Chartered Accountant of Singapore (CA Singapore), Financial Forensic Professional (FFP), Chartered Financial Analyst (CFA), Certified Internal Auditor (CIA) and Certified Information Systems Auditor (CISA).</strong></h4>
 </blockquote>
 <p>This ensures that our officers possess the necessary qualifications for
 their work. AGO also awards scholarships to AGO officers for Masters programmes
