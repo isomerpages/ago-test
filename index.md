@@ -44,17 +44,6 @@ sections:
       url: /ago-academy/academy/
       alt: Upskilling with AGO Academy
       image: /images/Home_page_illo_V4.jpg
-  - infopic:
-      title: Memorandum of Understanding Between AGO and ISCA
-      id: infopic
-      description: >-
-        On 12 July 2023, Auditor-General, 
-
-        Ms Goh Soon Poh and Institute of Singapore Chartered Accountants (ISCA) President, Mr Teo Ser Luck signed
-      button: Read More
-      url: /mou
-      image: /images/home_mou.png
-      alt: MOU Between AGO and ISCA
   - resources:
       title: LATEST NEWS & EVENTS
       id: resources
