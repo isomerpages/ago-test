@@ -4,7 +4,6 @@ permalink: /ago-academy/learning-days/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/_New_Learning_Days_800x400.jpg">
 </div>
