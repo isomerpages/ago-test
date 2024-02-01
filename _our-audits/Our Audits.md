@@ -9,7 +9,7 @@ description: ""
 </div>
 <p><em>Equipment audit for SportsSG</em>
 </p>
-<h4><strong>AGO carries out the following audits:</strong></h4>
+<h4><strong>AGO carries out the following audits1:</strong></h4>
 <p>
 <br>
 </p>
