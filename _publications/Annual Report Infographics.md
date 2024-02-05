@@ -4,12 +4,70 @@ permalink: /publications/annual-report-infographics/
 variant: tiptap
 description: ""
 ---
-![infographics](/images/istockphoto_1480239160_1024x1024_800x400.jpg)
-
-
-| Title | Type | Download |
-| -------- | -------- | -------- |
-| Infographics for FY2022/23    | PDF/308KB    | [Download](/files/AR%20Infographics/arfy2022-23%20infographics.pdf) |
-| Infographics for FY2021/22    | PDF/292KB    | [Download](/files/AR%20Infographics/ar-fy-21-22-infographic.pdf)  |
-| Infographics for FY2020/21    | PDF/1027KB    | [Download](/files/AR%20Infographics/ARInfogr2021.pdf)  |
-| Infographics for FY2019/20    | PDF/284KB    | [Download](/files/AR%20Infographics/infographic-ar-fy1920---7-sep-2020.pdf)  |
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="infographics" src="/images/istockphoto_1480239160_1024x1024_800x400.jpg">
+</div>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Type</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Download</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Infographics for FY2022/23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PDF/308KB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/AR Infographics/infographic_ar_fy2022_23.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Infographics for FY2021/22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PDF/292KB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/AR Infographics/infographic_ar_fy2021_22.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Infographics for FY2020/21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PDF/1027KB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/AR Infographics/infographic_ar_fy2020_21.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Infographics for FY2019/20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PDF/284KB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/AR Infographics/infographic_ar_fy2019_20.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
