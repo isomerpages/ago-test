@@ -54,15 +54,15 @@ description: ""
 <div class="audit">
 	<div class="audit-row">
 		<div class="title">FINANCIAL STATEMENTS AUDIT</div>
-		<div class="text">Which involves the checking of accounts with the objective of giving an audit opinion on the annual financial statements prepared by the entity;</div>
+		<div class="text">Involves the checking of accounts with the objective of giving an audit opinion on the annual financial statements prepared by the entity;</div>
 		</div>
 	<div class="audit-row">
 		<div class="title">SELECTIVE AUDIT</div>
-		<div class="text">Which involves the checking of selected activities and operations, carried out in relation to the accounts, for financial irregularity, and to ascertain whether there has been excess, extravagance or gross inefficiency leading to waste, and whether measures to prevent them are in place. Such an audit is not intended to render an opinion on the financial statements or draw any conclusion on the overall performance of the audited entity;</div>
+		<div class="text">Involves the checking of selected activities and operations, carried out in relation to the accounts, for financial irregularity, and to ascertain whether there has been excess, extravagance or gross inefficiency leading to waste, and whether measures to prevent them are in place. Such an audit is not intended to render an opinion on the financial statements or draw any conclusion on the overall performance of the audited entity;</div>
 	</div>
 	<div class="audit-row">
 		<div class="title">THEMATIC AUDIT</div>
-		<div class="text">Which is an in-depth examination of a selected area and may involve more than one public sector entity. The in-depth examination enables AGO to report on good practices in financial governance and controls that it may come across in the course of the audit, in addition to lapses.
+		<div class="text">An in-depth examination of a selected area and may involve more than one public sector entity. The in-depth examination enables AGO to report on good practices in financial governance and controls that it may come across in the course of the audit, in addition to lapses.
 		</div>
 	</div>
 </div>
