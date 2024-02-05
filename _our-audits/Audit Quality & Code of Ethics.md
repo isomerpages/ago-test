@@ -6,7 +6,7 @@ description: ""
 ---
 ![](/images/Office%20shoot/lowres2Z0A6945_800x400.jpg)
 
-> #### **AGO implements a Quality Assurance Framework (QAF) to ensure quality in our audits.** 
+> #### **AGO has implemented a Quality Assurance Framework (QAF) to ensure quality in our audits.** 
 
 The QAF comprises systems, structures, policies and procedures that are designed to provide reasonable assurance that the audits done by AGO meet recognised professional standards. The QAF also includes the AGO Code of Conduct and Ethics, which all AGO auditors must abide by. 
 
