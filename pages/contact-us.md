@@ -18,7 +18,7 @@ contacts:
   - content:
       - phone: +65 6435 2662
       - email: ago_email@ago.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - other: ""
     title: General Enquiries & Feedback
 feedback: ""
 ---
