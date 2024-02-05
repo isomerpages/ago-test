@@ -6,14 +6,14 @@ agency_name: Agency Name
 locations:
   - address:
       - "55 Newton Road  #08-02/03"
-      - " Revenue House"
+      - Revenue House
       - Singapore 307987
     operating_hours:
       - days: Mon - Sat
         time: 8.30am - 12.00pm
         description: Closed on Weekends and Public Holidays
     maps_link: ""
-    title: Main Office
+    title: AGO Headquarters
 contacts:
   - content:
       - phone: +65 6435 2662
