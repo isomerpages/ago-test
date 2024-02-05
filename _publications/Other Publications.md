@@ -36,7 +36,7 @@ ministries and statutory boards are held answerable for the management
 and use of public resources.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PDF, <a href="/files/Other%20Publications/WhatIsPAcc.pdf" rel="noopener noreferrer nofollow" target="_blank">684KB</a>
+<p>PDF, <a href="/files/Other Publications/WhatIsPAcc.pdf" rel="noopener noreferrer nofollow" target="_blank">684KB</a>
 </p>
 </td>
 </tr>
@@ -49,7 +49,7 @@ and use of public resources.</p>
 <p>This brochure provides an overview on thematic audits performed by AGO.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PDF, <a href="/files/Other%20Publications/TABrochure.pdf" rel="noopener noreferrer nofollow" target="_blank">239KB</a>
+<p>PDF, <a href="/files/Other Publications/TABrochure.pdf" rel="noopener noreferrer nofollow" target="_blank">239KB</a>
 </p>
 </td>
 </tr>
@@ -62,7 +62,7 @@ and use of public resources.</p>
 <p>This brochure provides an overview on Financial Statements auditing.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PDF, <a href="/files/Other%20Publications/FSBrochure.pdf" rel="noopener noreferrer nofollow" target="_blank">245KB</a>
+<p>PDF, <a href="/files/Other Publications/FSBrochure.pdf" rel="noopener noreferrer nofollow" target="_blank">245KB</a>
 </p>
 </td>
 </tr>
@@ -75,7 +75,7 @@ and use of public resources.</p>
 <p>This brochure provides an overview on selective audits performed by AGO.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PDF, <a href="/files/Other%20Publications/SABrochure.pdf" rel="noopener noreferrer nofollow" target="_blank">264KB</a>
+<p>PDF, <a href="/files/Other Publications/SABrochure.pdf" rel="noopener noreferrer nofollow" target="_blank">264KB</a>
 </p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ and use of public resources.</p>
 <p>This brochure provides an overview on Information Technology (IT) auditing.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PDF, <a href="/files/Other%20Publications/ITauditBrochure.pdf" rel="noopener noreferrer nofollow" target="_blank">530KB</a>
+<p>PDF, <a href="/files/Other Publications/ITauditBrochure.pdf" rel="noopener noreferrer nofollow" target="_blank">530KB</a>
 </p>
 </td>
 </tr>
