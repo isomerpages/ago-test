@@ -12,7 +12,7 @@ locations:
       - days: Mon - Sat
         time: 8.30am - 12.00pm
         description: Closed on Weekends and Public Holidays
-    maps_link: ""
+    maps_link: https://www.onemap.gov.sg/?lat=1.31966682211664&lng=103.842105076401
     title: AGO Headquarters
 contacts:
   - content:
