@@ -80,10 +80,11 @@ major such as Business, Finance and Data Analytics may be considered.</p>
 </ul>
 <p><strong>Career, Training Opportunities &amp; Job Rotation</strong>
 </p>
-<p>Upon graduation, the scholars will embark on a rewarding career in public
-sector auditing. Comprehensive training designed to develop individuals
-in maximising their potential will be provided. In addition, job rotation
-will be provided to allow exposure to different aspects of audit.</p>
+<p>AGO scholars will undergo internship with AGO during the period of study.
+Upon graduation, scholars will embark on a rewarding career in public sector
+auditing. Comprehensive training designed to develop individuals in maximising
+their potential will be provided. In addition, job rotation will be provided
+to allow exposure to different aspects of audit.</p>
 <p><strong>Student Exchange Programme</strong>
 </p>
 <p>We encourage our scholars to develop a broad perspective by participating
