@@ -130,7 +130,17 @@ of their undergraduate degree (referred to as ‘mid-term applicants’).</p>
 <li>
 <p>International Baccalaureate; or</p>
 </li>
+<li>
+<p>NUS High School Diploma; or</p>
+</li>
+<li>
+<p>Polytechnic Diploma with merit; or</p>
+</li>
+<li>
+<p>Other high school diploma or equivalent.</p>
+</li>
 </ul>
+<p></p>
 <p>You may apply prior to receiving your final examination results. A provisional
 scholarship offer may be made if you are found suitable, subject to confirmation
 upon release of final results.</p>
@@ -142,6 +152,19 @@ upon release of final results.</p>
 </li>
 <li>
 <p>International Baccalaureate; or</p>
+</li>
+<li>
+<p>NUS High School Diploma; or</p>
+</li>
+<li>
+<p>Polytechnic Diploma with merit; or</p>
+</li>
+<li>
+<p>Other high school diploma or equivalent; and</p>
+</li>
+<li>
+<p>At least one semester of university results.</p>
+<p></p>
 </li>
 </ul>
 <p>Application should be made before the final year of your undergraduate
