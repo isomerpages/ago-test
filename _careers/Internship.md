@@ -12,12 +12,18 @@ description: ""
 <h4><strong>AGO invites dynamic, driven individuals with an analytical, enquiring mind and good interpersonal skills to join us.</strong></h4>
 </blockquote>
 <p></p>
-<p>Under this 8-10 week programme, interns will be attached to an audit team
-and will get to work in a variety of challenging and interesting projects
+<p>The AGO Internship Programme provides undergraduates pursuing a Degree
+in Accountancy with the opportunity to acquire knowledge and skills in
+public sector auditing and experience the AGO culture and work environment.
+Under this 8-10 week programme, interns will be attached to an audit team
+and will&nbsp;get to work in a variety of challenging and interesting projects
 and present their learning experience to the AGO Senior Management.</p>
 <p>For Summer and Winter Internship Programmes, kindly check this page in
 February and September respectively to register for the next internship
 run.</p>
+<p>Interested&nbsp;students&nbsp;may submit your application via <a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html" rel="noopener noreferrer nofollow" target="_blank"><u>Careers@Gov</u></a> by
+selecting ‘Auditor-General’s Office’ under ‘Agency’! You may also send
+your resume to <a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html" rel="noopener noreferrer nofollow" target="_blank">AGO_HROD@ago.gov.sg</a>.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
