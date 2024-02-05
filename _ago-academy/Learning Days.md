@@ -9,7 +9,7 @@ description: ""
 </div>
 <p></p>
 <blockquote>
-<h4><strong>Inline with building a learning culture, AGO Academy creates platforms for sharing of knowledge.</strong></h4>
+<h4><strong>In line with building a learning culture, AGO Academy creates platforms for sharing of knowledge.</strong></h4>
 </blockquote>
 <p>Speakers from both public and private sectors are invited to share on
 topics relevant to our work - e.g. developments in the public sector, WOG
