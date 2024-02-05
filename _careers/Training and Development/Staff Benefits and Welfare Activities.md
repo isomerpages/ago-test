@@ -8,10 +8,6 @@ third_nav_title: Training and Development
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office shoot/2Z0A6959_800x400.jpg">
 </div>
-<p></p>
-<blockquote>
-<h4><strong>We work hard and play hard.</strong></h4>
-</blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p>Competitive Remuneration Package comprising Performance Bonus, Skills-based
