@@ -5,8 +5,8 @@ permalink: /contact-us/
 agency_name: Auditor-General's Office
 locations:
   - address:
-      - "55 Newton Road  #08-02/03"
-      - Revenue House
+      - 55 Newton Road
+      - "#08-02/03 Revenue House"
       - Singapore 307987
     operating_hours:
       - days: Mon - Sat
