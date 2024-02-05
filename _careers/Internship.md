@@ -21,9 +21,16 @@ and present their learning experience to the AGO Senior Management.</p>
 <p>For Summer and Winter Internship Programmes, kindly check this page in
 February and September respectively to register for the next internship
 run.</p>
-<p>Interested&nbsp;students&nbsp;may submit your application via <a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html" rel="noopener noreferrer nofollow" target="_blank"><u>Careers@Gov</u></a> by
-selecting ‘Auditor-General’s Office’ under ‘Agency’! You may also send
-your resume to <a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html" rel="noopener noreferrer nofollow" target="_blank">AGO_HROD@ago.gov.sg</a>.</p>
+<p>Interested students may submit your application via Careers@Gov by following
+the step-by-step guide below. You may also send your resume to <a href="mailto:AGO_HROD@ago.gov.sg" rel="noopener noreferrer nofollow" target="_blank">AGO_HROD@ago.gov.sg</a>.</p>
+<p>Step 1: Go to <a href="https://www.careers.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.careers.gov.sg</a>
+</p>
+<p>Step 2: Click on ‘Find A Job/Internship’ from the dropdown ribbon on the
+right.</p>
+<p>Step 3: Click on the ‘downward pointing arrow’ below the search bar, followed
+by ‘Agency’.</p>
+<p>Step 4: Check on ‘Auditor-General’s Office’ to view the available job/internship
+opportunities.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -50,14 +57,4 @@ your resume to <a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCF
 <br><em>NTU, 2022</em> 
 <br><em>(Internship Period: 1 June to 6 August 2021)</em>
 </p>
-<hr>
 <p></p>
-<h5>Interested students may submit your application via Careers@Gov by following the step-by-step guide below. You may also send your resume to <a href="mailto:AGO_HROD@ago.gov.sg" rel="noopener noreferrer nofollow" target="_blank">AGO_HROD@ago.gov.sg</a>.</h5>
-<p>Step 1: Go to <a href="https://www.careers.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.careers.gov.sg</a>
-</p>
-<p>Step 2: Click on ‘Find A Job/Internship’ from the dropdown ribbon on the
-right.</p>
-<p>Step 3: Click on the ‘downward pointing arrow’ below the search bar, followed
-by ‘Agency’.</p>
-<p>Step 4: Check on ‘Auditor-General’s Office’ to view the available job/internship
-opportunities.</p>
