@@ -11,10 +11,10 @@ links:
         url: /who-we-are/senior-management
       - title: Organisational Structure
         url: /who-we-are/organisation-structure
-      - title: Our History
-        url: /who-we-are/history
       - title: Audit Authority
         url: /who-we-are/audit-authority
+      - title: Our History
+        url: /who-we-are/history
   - title: Our Audits
     url: /our-audits
     sublinks:
