@@ -7,6 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office%20shoot/lowres2Z0A7055_800x400.jpg">
 </div>
+<p></p>
 <blockquote>
 <h4><strong>AGO is an independent organ of state and the national auditor. We play an important role in enhancing public accountability in the management and use of public funds and resources through our audits.</strong></h4>
 </blockquote>
