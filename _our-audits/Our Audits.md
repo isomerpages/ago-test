@@ -52,7 +52,7 @@ description: ""
 *Equipment audit for SportsSG*
 
 #### **AGO carries out the following audits:**
-
+<br>
 <div class="audit">
 	<div class="audit-row">
 		<div class="title">FINANCIAL STATEMENTS AUDIT</div>
