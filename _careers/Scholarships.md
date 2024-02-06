@@ -4,6 +4,73 @@ permalink: /careers/scholarships/
 variant: markdown
 description: ""
 ---
+<style>
+
+.page_highlight {
+
+font-size: 1.375rem;
+
+color:#036;
+
+margin-top:0;
+
+background: none;
+
+border-left: 2px solid #6b4370;
+
+padding: 0 0 0 2rem;
+
+}
+
+  
+  
+
+.scholarship-table {
+
+width: 100%;
+
+border-collapse: collapse;
+
+background: #fff;
+
+}
+
+  
+
+.scholarship-table th,
+
+.scholarship-table td {
+
+padding: 10px;
+
+border: 1px solid #eaeaea;
+
+border-width: 1px !important;
+
+vertical-align: top;
+
+}
+
+  
+
+.scholarship-table th {
+
+width: 50%;
+
+font-weight: bold;
+
+background: #00457c;
+
+color: #ffffff !important;
+
+text-transform: uppercase;
+
+text-align: left;
+
+}
+
+</style>
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner_scholarship.png">
 </div>
