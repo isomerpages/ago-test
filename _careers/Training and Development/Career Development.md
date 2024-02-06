@@ -16,3 +16,7 @@ third_nav_title: Training and Development
 through continuous learning, training and knowledge-sharing. We also offer
 structured development programmes which comprise a comprehensive foundation
 course for auditors, as well as opportunities to attend workshops and seminars.</p>
+<p>Auditors are rotated to do different audits such as Financial Statements
+audits and selective audits of different agencies. They may also be deployed
+to the Specialist Hubs in AGO such as the IT Audit Department and Digital
+Innovation Office.</p>
