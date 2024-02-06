@@ -47,9 +47,11 @@ description: ""
 		}
 	}
 </style>
-#### **AGO carries out the following audits:**
-<br>
 
+![](/images/Stadium%20Shoot/lowres2Z0A7368_800x400.jpg)
+*Equipment audit for SportsSG*
+
+#### **AGO carries out the following audits:**
 
 <div class="audit">
 	<div class="audit-row">
