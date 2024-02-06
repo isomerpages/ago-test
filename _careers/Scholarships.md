@@ -156,12 +156,14 @@ Additional allowances will be covered in accordance with our scholarship
 policy.</p>
 <p><strong>Value of Award</strong>
 </p>
-<p>The scholarship will cover tuition and other compulsory fees, maintenance
-allowance, hostel allowance and pre-studies allowance.</p>
-<p><strong>Duration of Bond</strong>
-</p>
-<p>AGO scholars are required to serve a four-year bond.</p>
-<h5><a href="https://www.scholarschoice.com.sg/experience/ago-auditing-service-scholarship-strengthen-financial-governance/" rel="noopener noreferrer nofollow" target="_blank">Click here</a> to find out what it is like to be an AGO Scholar!</h5>
+The scholarship will cover tuition and other compulsory fees, maintenance allowance, hostel allowance and pre-studies allowance.
+
+**Duration of Bond**
+
+AGO scholars are required to serve a four-year bond.
+
+##### [Click here](https://www.scholarschoice.com.sg/experience/ago-auditing-service-scholarship-strengthen-financial-governance/) ** to find out what it is like to be an AGO Scholar!
+
 <h3><strong>Public Service Commission Scholarship (Public Finance)</strong></h3>
 <p>The PSC Scholarship (Public Finance) aims to develop individuals trained
 in Accountancy for finance leadership positions in the Public Service.
