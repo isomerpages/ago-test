@@ -33,22 +33,18 @@ citizenship.</p>
 Co-Curricular Activities (CCA).</p>
 </li>
 </ul>
-<table>
+<table class="scholarship-table">
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>UNDERGRADUATE SCHOLARSHIP</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>MID-TERM SCHOLARSHIP</p>
-</th>
+<th>UNDERGRADUATE SCHOLARSHIP</th>
+<th>MID-TERM SCHOLARSHIP</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td>
 <p>Good GCE “A” level results (with a minimum of 10 academic units), International
 Baccalaureate (IB), Polytechnic Diploma (with Merit), or equivalent.</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>Open to outstanding undergraduates currently pursuing an Accountancy degree
 at the local universities listed below and have completed at least one
 semester of undergraduate studies. Applicants should be on track for at
@@ -111,18 +107,14 @@ subject to meeting the emplacement criteria.</p>
 <p>Applicants for the undergraduate scholarships are welcome to apply prior
 to pursuing their undergraduate degree or up until the penultimate year
 of their undergraduate degree (referred to as ‘mid-term applicants’).</p>
-<table>
+<table class="scholarship-table">
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>PSC UNDERGRADUATE SCHOLARSHIPS</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>PSC UNDERGRADUATE SCHOLARSHIPS (MID-TERM)</p>
-</th>
+<th>PSC UNDERGRADUATE SCHOLARSHIPS</th>
+<th>PSC UNDERGRADUATE SCHOLARSHIPS (MID-TERM)</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td>
 <ul data-tight="true" class="tight">
 <li>
 <p>GCE A-levels; or</p>
@@ -145,7 +137,7 @@ of their undergraduate degree (referred to as ‘mid-term applicants’).</p>
 scholarship offer may be made if you are found suitable, subject to confirmation
 upon release of final results.</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <ul data-tight="true" class="tight">
 <li>
 <p>GCE A-levels; or</p>
