@@ -21,9 +21,10 @@ and present their learning experience to the AGO Senior Management.</p>
 <p>For Summer and Winter Internship Programmes, kindly check this page in
 February and September respectively to register for the next internship
 run.</p>
-<p>Interested students may submit your application via Careers@Gov by following
-the step-by-step guide below. You may also send your resume to <a href="mailto:AGO_HROD@ago.gov.sg" rel="noopener noreferrer nofollow" target="_blank">AGO_HROD@ago.gov.sg</a>.</p>
-<p>Step 1: Go to <a href="https://www.careers.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.careers.gov.sg</a>
+<p>Interested students may submit your application via <a href="Careers@Gov" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov</a> by
+following the step-by-step guide below. You may also send your resume to
+<a href="mailto:AGO_HROD@ago.gov.sg" rel="noopener noreferrer nofollow" target="_blank">AGO_HROD@ago.gov.sg</a>.</p>
+<p>Step 1: Go to <a href="https://www.careers.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.careers.gov.sg</a> 
 <br>Step 2: Click on ‘Find A Job/Internship’ from the dropdown ribbon on the
 right.
 <br>Step 3: Click on the ‘downward pointing arrow’ below the search bar, followed
