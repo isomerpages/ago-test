@@ -25,6 +25,7 @@ by INTOSAI.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office%20shoot/lowres2Z0A7265_800x400.jpg">
 </div>
+<p></p>
 <blockquote>
 <h4><strong>AGO carries out regular reviews of its audit methodology to reflect changes in relevant auditing standards, and to address findings from AGO’s internal inspections carried out under its Quality Assurance Framework.</strong></h4>
 </blockquote>
