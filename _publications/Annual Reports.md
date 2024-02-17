@@ -8,9 +8,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office%20shoot/lowres2Z0A6906_800x400.jpg">
 </div>
 <h4></h4>
-<blockquote>
-<h4><strong>The Report of the Auditor-General for the Financial Year 2022/23 was presented to President on 4 July 2023 and tabled in Parliament on 18 July 2023.</strong></h4>
-</blockquote>
+<h4><strong>The Report of the Auditor-General is typically presented in early July each year and subsequently tabled in Parliament later</strong></h4>
 <p>Click to download the latest <a href="/files/ARs/ar_fy2022_23.pdf" rel="noopener noreferrer nofollow" target="_blank">Report</a>.</p>
 <table>
 <tbody>
