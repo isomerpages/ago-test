@@ -14,7 +14,7 @@ sections:
         - title: Who We Are
           description: ""
           url: /overview
-        - title: Annual Report 22/23
+        - title: Annual Report
           description: ""
           url: /publications/annual-reports/
         - title: Career Opportunities
@@ -31,7 +31,7 @@ sections:
         To ensure quality in our audits, 
         AGO has implemented a Quality 
         Assurance Framework (QAF)
-      button: READ MORE ON OUR PROCESSES
+      button: READ MORE ON OUR PROCESS
       alt: Audit Quality & Code of Ethics
       url: /our-audits/audit-quality-code-of-ethnics/
       image: /images/Office shoot/2Z0A6945.jpg
@@ -40,7 +40,7 @@ sections:
       id: infopic
       description: AGO Academy is the professional training arm of the
         Auditor-General’s Office (AGO)
-      button: FIND OUT MORE ABOUT AGO ACADEMY
+      button: FIND OUT MORE
       url: /ago-academy/academy/
       alt: Upskilling with AGO Academy
       image: /images/Home_page_illo_V4.jpg
