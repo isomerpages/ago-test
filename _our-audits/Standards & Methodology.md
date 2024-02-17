@@ -7,7 +7,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stadium Shoot/lowres2Z0A7417_800x400.jpg">
 </div>
-<p><em>AGO equipment audit for SportSG.</em>
+<p><em>Audit site visit</em>
 </p>
 <blockquote>
 <h4><strong>All audits are conducted in accordance with the framework and guidelines stipulated within the respective AGO audit manuals.</strong></h4>
