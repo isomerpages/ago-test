@@ -42,13 +42,11 @@ GIC audit team throughout this memorable journey.</p>
 <p><em>Mdm Chua Pheck Kiang Rina, Deputy Auditor-General (DAG) [Recipient of the 2019 NDA Public Administration Medal (Silver)]</em>
 </p>
 <blockquote>
-<p>Being an auditor and serving the nation for 29 years, Rina started out
-as an Audit Officer. She was rotated to various audit groups and was involved
-in the audits of GIC, Ministry of National Development and Ministry of
-Finance.</p>
+<p><strong>Being an auditor and serving the nation for 29 years, Rina started out as an Audit Officer. She was rotated to various audit groups and was involved in the audits of GIC, Ministry of National Development and Ministry of Finance.</strong>
+</p>
 <p></p>
-<p>The Public Administration Medal (Silver) was awarded to Rina in recognition
-of her contributions to the audit work of AGO.</p>
+<p><strong>The Public Administration Medal (Silver) was awarded to Rina in recognition of her contributions to the audit work of AGO.</strong>
+</p>
 </blockquote>
 <p>Let’s hear from her on her thoughts on receiving the NDA below.</p>
 <p><strong>What were your thoughts when you heard that you would be receiving this award?</strong> 
