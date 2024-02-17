@@ -49,7 +49,7 @@ description: ""
 </style>
 
 ![](/images/Stadium%20Shoot/lowres2Z0A7368_800x400.jpg)
-*Equipment audit for SportsSG*
+*Audit site visit*
 
 #### **AGO carries out the following audits:**
 
