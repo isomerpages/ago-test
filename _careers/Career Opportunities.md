@@ -9,7 +9,7 @@ description: ""
 </div>
 <p></p>
 <blockquote>
-    <h4><strong>AGO invites dynamic, driven individuals with an analytical, enquiring mind and good interpersonal skills to join us.</strong></h4>
+    <h4><strong>AGO invites dynamic, driven individuals with an analytical, inquiring mind and good interpersonal skills to join us.</strong></h4>
 </blockquote>
 <p>If you are looking for a career that is rewarding and fulfilling,
     and would like to contribute towards enhancing public accountability,
