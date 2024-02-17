@@ -8,7 +8,9 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office%20shoot/lowres2Z0A6906_800x400.jpg">
 </div>
 <h4></h4>
+<blockquote>
 <h4><strong>The Report of the Auditor-General is typically presented in early July each year and subsequently tabled in Parliament later</strong></h4>
+</blockquote>
 <p>Click to download the latest <a href="/files/ARs/ar_fy2022_23.pdf" rel="noopener noreferrer nofollow" target="_blank">Report</a>.</p>
 <table>
 <tbody>
