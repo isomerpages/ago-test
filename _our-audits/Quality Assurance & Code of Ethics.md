@@ -14,7 +14,7 @@ AGO is also subject to audits, for example, IT security audits by the Government
 
 
 ![](/images/Sentosa%20Shoot/lowres2Z0A7604_800x400.jpg)
-*AGO officer auditing structural installations at Sentosa Winds of Time attraction.*
+*Audit site visit*
 
 > #### **In developing its Code of Ethics, AGO took into consideration the International Organisation of Supreme Audit Institutions (INTOSAI)'s Code of Ethics and relevant ethical requirements in the ACRA Code of Professional Conduct and Ethics for Public Accountants and Accounting Entities.**  
 
