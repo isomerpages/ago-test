@@ -15,17 +15,17 @@ with Minister’s consent.</p>
 on non-Government entities under the Minister's direction.</p>
 <p><strong>2. What kind of audits does AGO carry out?</strong>
 </p>
-<p><strong>Financial Statement Audit</strong>
+<p><strong>Financial Statement Audit</strong> 
 <br>Involves the checking of accounts with the objective of giving an audit
 opinion on the annual financial statements prepared by the entity;</p>
-<p><strong>Selective Audit</strong>
+<p><strong>Selective Audit</strong> 
 <br>Involves the checking of selected activities and operations, carried out
 in relation to the accounts, for financial irregularity, and to ascertain
 whether there has been excess, extravagance or gross inefficiency leading
 to waste, and whether measures to prevent them are in place. Such an audit
 is not intended to render an opinion on the financial statements or draw
 any conclusion on the overall performance of the audited entity;</p>
-<p><strong>Thematic Audit</strong>
+<p><strong>Thematic Audit</strong> 
 <br>An in-depth examination of a selected area and may involve more than one
 public sector entity. The in-depth examination enables AGO to report on
 good practices in financial governance and controls that it may come across
@@ -55,18 +55,16 @@ and conducts selective audits of the other statutory boards in rotation.</p>
 <p><strong>5. How does AGO select statutory boards to be audited?</strong>
 </p>
 <p>AGO considers factors such as materiality of public funds managed by the
-statutory boards and the number of years the statutory boards have not
-been audited by AGO.</p>
+statutory boards.</p>
 <p><strong>6. What is the frequency of audit of statutory boards?</strong>
 </p>
 <p>AGO aims to audit the larger statutory boards at least once every five
-years and other statutory boards at least once every seven years.</p>
+to seven years.</p>
 <p><strong>7. What is the role of AGO in relation to commercial auditors who are appointed to audit statutory boards?</strong>
 </p>
-<p>The law requires the Minister to consult the Auditor-General when he appoints
-an auditor to conduct the annual audit of the financial statements of a
-statutory board. The Auditor-General will give his advice on the choice
-of auditor based on certain qualifying criteria.</p>
+<p>The law requires the accounts of most statutory boards to be audited either
+by the Auditor-General or another auditor appointed by the Minister responsible
+in consultation with the Auditor-General.</p>
 <p><strong>8. If a statutory board complies with the Singapore Financial Reporting Standards or any standard that is prescribed by law, does that mean that its financial statements prepared based on those standards will be deemed by AGO to show a true and fair view of its financial position and results?</strong>
 </p>
 <p>Compliance with legislated financial reporting standards per se does not
