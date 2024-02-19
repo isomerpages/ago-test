@@ -43,9 +43,10 @@ GIC audit team throughout this memorable journey.</p>
 <br><em>Recipient of the 2019 NDA Public Administration Medal (Silver)</em>
 </p>
 <blockquote>
-<h4><strong>Being an auditor and serving the nation for 29 years, Rina started out as an Audit Officer. She was rotated to various audit groups and was involved in the audits of GIC, Ministry of National Development and Ministry of Finance.</strong></h4>
-<h4></h4>
-<h4><strong>The Public Administration Medal (Silver) was awarded to Rina in recognition of her contributions to the audit work of AGO.</strong></h4>
+<p><strong>Being an auditor and serving the nation for 29 years, Rina started out as an Audit Officer. She was rotated to various audit groups and was involved in the audits of GIC, Ministry of National Development and Ministry of Finance.</strong>
+</p>
+<p><strong>The Public Administration Medal (Silver) was awarded to Rina in recognition of her contributions to the audit work of AGO.</strong>
+</p>
 </blockquote>
 <p></p>
 <p>Let’s hear from her on her thoughts on receiving the NDA below.</p>
