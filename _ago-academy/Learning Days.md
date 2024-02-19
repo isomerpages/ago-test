@@ -7,6 +7,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office shoot/lowres2Z0A7347_800x400.jpg">
 </div>
+<p></p>
 <blockquote>
 <h4><strong>In line with building a learning culture, AGO Academy creates platforms for sharing of knowledge.</strong></h4>
 </blockquote>
