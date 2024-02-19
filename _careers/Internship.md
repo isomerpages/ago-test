@@ -4,13 +4,17 @@ permalink: /careers/internship/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office%20shoot/lowres2Z0A7257_800x400.jpg">
-</div>
-<p></p>
 <blockquote>
 <h4><strong>AGO invites dynamic, driven individuals with an analytical, enquiring mind and good interpersonal skills to join us.</strong></h4>
 </blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office shoot/lowres2Z0A7257_800x400.jpg">
+</div>
+<p><em>"My time at AGO has been transformative, offering valuable public sector insights alongside my academic pursuits. AGO has provided me with a robust support system and readily accessible resources, enabling me to acquire skills and knowledge that will undoubtedly shape my future career."</em>
+</p>
+<p><strong>Aloysius Goh, Accountancy undergraduate, NTU</strong>
+</p>
 <p></p>
 <p>The AGO Internship Programme provides undergraduates pursuing a Degree
 in Accountancy with the opportunity to acquire knowledge and skills in
