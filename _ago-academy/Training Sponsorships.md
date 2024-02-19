@@ -8,6 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office shoot/lowres2z0a7127_800x400.jpg">
 </div>
+<p></p>
 <blockquote>
 <h4><strong>AGO Academy encourages and offers sponsorship for officers to attain relevant professional certifications such as Chartered Accountant of Singapore (CA Singapore), Financial Forensic Professional (FFP), Chartered Financial Analyst (CFA), Certified Internal Auditor (CIA) and Certified Information Systems Auditor (CISA).</strong></h4>
 </blockquote>
