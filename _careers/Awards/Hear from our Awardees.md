@@ -9,11 +9,11 @@ third_nav_title: Awards
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/fei_lin_800x400.jpg">
 </div>
 <p>Teng Fei Lin, Deputy Director
-<br><em>(Recipient of the 2021 National Day Award (NDA) Commendation Medal)</em>
+<br><em>Recipient of the 2021 National Day Award (NDA) Commendation Medal</em>
 </p>
 <blockquote>
-<p><strong>The Commendation Medal was awarded to Fei Lin in recognition of her commendable performance and devotion to her duties.</strong>
-</p>
+<p></p>
+<h4><strong>The Commendation Medal was awarded to Fei Lin in recognition of her commendable performance and devotion to her duties.</strong></h4>
 </blockquote>
 <p></p>
 <p>Let’s hear from her on her thoughts on receiving the NDA.</p>
@@ -39,15 +39,15 @@ GIC audit team throughout this memorable journey.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office shoot/Rina_800x400.jpg">
 </div>
-<p><em>Mdm Chua Pheck Kiang Rina, Deputy Auditor-General (DAG) [Recipient of the 2019 NDA Public Administration Medal (Silver)]</em>
+<p><em>Mdm Chua Pheck Kiang Rina, Deputy Auditor-General (DAG) </em>
+<br><em>Recipient of the 2019 NDA Public Administration Medal (Silver)</em>
 </p>
 <blockquote>
-<p><strong>Being an auditor and serving the nation for 29 years, Rina started out as an Audit Officer. She was rotated to various audit groups and was involved in the audits of GIC, Ministry of National Development and Ministry of Finance.</strong>
-</p>
-<p></p>
-<p><strong>The Public Administration Medal (Silver) was awarded to Rina in recognition of her contributions to the audit work of AGO.</strong>
-</p>
+<h4><strong>Being an auditor and serving the nation for 29 years, Rina started out as an Audit Officer. She was rotated to various audit groups and was involved in the audits of GIC, Ministry of National Development and Ministry of Finance.</strong></h4>
+<h4></h4>
+<h4><strong>The Public Administration Medal (Silver) was awarded to Rina in recognition of her contributions to the audit work of AGO.</strong></h4>
 </blockquote>
+<p></p>
 <p>Let’s hear from her on her thoughts on receiving the NDA below.</p>
 <p><strong>What were your thoughts when you heard that you would be receiving this award?</strong> 
 <br>My first thought is to thank Team AGO - without everyone’s support the
