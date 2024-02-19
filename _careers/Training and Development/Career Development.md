@@ -8,6 +8,7 @@ third_nav_title: Training and Development
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office shoot/lowres2Z0A7029_800x400.jpg">
 </div>
+<p></p>
 <blockquote>
 <h4><strong>Our people are our key asset. We grow and develop our officers to their fullest potential.</strong></h4>
 </blockquote>
