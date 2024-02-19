@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/_New_Training_Sponsorship_800x400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office shoot/lowres2Z0A7127.jpg">
 </div>
-<p></p>
 <blockquote>
 <h4><strong>AGO Academy encourages and offers sponsorship for officers to attain relevant professional certifications such as Chartered Accountant of Singapore (CA Singapore), Financial Forensic Professional (FFP), Chartered Financial Analyst (CFA), Certified Internal Auditor (CIA) and Certified Information Systems Auditor (CISA).</strong></h4>
 </blockquote>
