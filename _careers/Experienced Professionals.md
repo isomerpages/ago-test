@@ -7,6 +7,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office%20shoot/lowres2Z0A6970_800x400.jpg">
 </div>
+<p></p>
 <blockquote>
 <h4><strong>Apart from fresh graduates, AGO is also looking for experienced professionals to join our dynamic team of senior auditors.</strong></h4>
 </blockquote>
