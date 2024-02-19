@@ -9,8 +9,13 @@ variant: tiptap
 <tr></tr>
 </tbody>
 </table>
+<table>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/istockphoto_508068002_1024x1024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office shoot/whoweare_history.png">
 </div>
 <table>
 <tbody>
