@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office%20shoot/lowres2Z0A7055_800x400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/AGOEntrance.jpg">
 </div>
 <p></p>
 <blockquote>
