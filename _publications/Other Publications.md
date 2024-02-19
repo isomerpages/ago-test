@@ -12,6 +12,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/Publications.jpg">
 </div>
+<p></p>
 <table>
 <tbody>
 <tr>
