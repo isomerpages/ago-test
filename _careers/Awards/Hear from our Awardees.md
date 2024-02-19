@@ -44,6 +44,7 @@ GIC audit team throughout this memorable journey.</p>
 </p>
 <blockquote>
 <p><strong>Being an auditor and serving the nation for 29 years, Rina started out as an Audit Officer. She was rotated to various audit groups and was involved in the audits of GIC, Ministry of National Development and Ministry of Finance.</strong>
+<br>
 </p>
 <p><strong>The Public Administration Medal (Silver) was awarded to Rina in recognition of her contributions to the audit work of AGO.</strong>
 </p>
