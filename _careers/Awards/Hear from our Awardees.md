@@ -37,7 +37,7 @@ GIC audit team throughout this memorable journey.</p>
 <br>Do your best and your contributions, no matter how small will be noticed.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/rina_chua.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office shoot/Rina_800x400.jpg">
 </div>
 <p><em>Mdm Chua Pheck Kiang Rina, Deputy Auditor-General (DAG) [Recipient of the 2019 NDA Public Administration Medal (Silver)]</em>
 </p>
