@@ -22,7 +22,7 @@ officers</p>
 Parent-Care Leave</p>
 </li>
 <li>
-<p>Annual Health-Screening</p>
+<p>Annual Health Screening</p>
 </li>
 </ul>
 <p>In AGO, we work hard and play hard! The various Committees (e.g., Social
