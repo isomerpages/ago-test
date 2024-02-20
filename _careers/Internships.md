@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<h4><strong>AGO invites dynamic, driven individuals with an analytical, enquiring mind and good interpersonal skills to join us.</strong></h4>
+<h4><strong>AGO invites dynamic undergraduates to participate in an AGO internship or work-study programme.</strong></h4>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -15,7 +15,9 @@ description: ""
 </p>
 <p><strong>Aloysius Goh, Accountancy undergraduate, NTU</strong>
 </p>
-<p></p>
+<hr>
+<p><strong>AGO INTERNSHIP PROGRAMME</strong>
+</p>
 <p>The AGO Internship Programme provides undergraduates pursuing a Degree
 in Accountancy with the opportunity to acquire knowledge and skills in
 public sector auditing and experience the AGO culture and work environment.
@@ -35,6 +37,15 @@ right.
 by ‘Agency’.
 <br>Step 4: Check on ‘Auditor-General’s Office’ to view the available job/internship
 opportunities.</p>
+<hr>
+<p><strong>AGO WORK-STUDY PROGRAMME</strong>
+</p>
+<p>The AGO Work-Study Programme was introduced in 2023. It provides undergraduates
+flexible work stint(s) while pursuing their undergraduate studies. This
+is a good way for students to prepare for the working world. Students under
+the Programme will be attached to an audit group and will perform audits
+under the supervision of an audit Project Lead. Students will work at AGO
+for at least 3 days a week and for a period of at least 3 months.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
