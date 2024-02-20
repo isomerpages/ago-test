@@ -31,7 +31,7 @@ sections:
         To ensure quality in our audits, 
         AGO has implemented a Quality 
         Assurance Framework (QAF)
-      button: READ MORE ON OUR PROCESS
+      button: READ MORE
       alt: Audit Quality & Code of Ethics
       url: /our-audits/audit-quality-code-of-ethnics/
       image: /images/Office shoot/2Z0A6945.jpg
