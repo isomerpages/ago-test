@@ -8,7 +8,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
+<p>![](/images/News<em>Events</em>Photos/2023/2023_GAO_IAFP_1.jpg)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/2023/2023_GAO_IAFP_1.jpg">
+</div>
 <p><em>2023 IAFP Fellows at GAO Headquarters in Washington, D.C.</em>
 </p>
 <p>Senior Assistant Director Adrian Soh participated in the United States
@@ -25,6 +28,8 @@ exchange.</p>
 <p>Besides classroom sessions and projects, Adrian also attended public sector
 conferences, visited the World Bank and participated in learning journeys.
 There was a rich cultural exchange with colleagues from GAO and the fellows.</p>
-<p>![](/images/News%20&amp;%20Events%20Photos/2023/2023_GAO_IAFP_3.jpg)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/2023/2023_GAO_IAFP_3.jpg">
+</div>
 <p><em>U.S. Comptroller General, Mr Gene Dodaro, chatting with IAFP participants at the end of the program</em>
 </p>
