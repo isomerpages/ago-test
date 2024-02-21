@@ -21,4 +21,4 @@ During the meeting, the incumbent ASEANSAI Vice Chair for the term 2021 to 2023,
 
 
 ![](/images/News_Events_Photos/2023/7thaseansai_7.jpg)
-*As the chairperson of the Rules and Procedures Committee for 2024 to 2025, AG updated the meeting on the Committee’s work plan *
+*As the chairperson of the Rules and Procedures Committee for 2024 to 2025, AG updated the meeting on the Committee’s work plan*
