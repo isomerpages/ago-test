@@ -18,5 +18,4 @@ transformation efforts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/2023/SAISaudiVisit_1.jpg">
 </div>
-<p><em>AAG Mabel Watt hosted the visit by Mr Hazem Saad Al Qethami, Executive Deputy for Planning and Development of SAI Saudi Arabia</em>
-</p>
+<em>AAG Mabel Watt hosted the visit by Mr Hazem Saad Al Qethami, Executive Deputy for Planning and Development of SAI Saudi Arabia</em>
