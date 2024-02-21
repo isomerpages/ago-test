@@ -13,5 +13,5 @@ Meeting participants discussed ASEANSAI matters, including proposed amendments t
 
 The meeting also concurred with the re-appointment of SAI Singapore as Chair of the ASEANSAI Rules & Procedures Committee.
 
-![](/images/News%20&%20Events%20Photos/2023/aseansai_som2023.jpg)
+![](/images/News_Events_Photos/2023/aseansai_som2023.jpg)
 *AAG Mabel Watt leading the discussion on the proposed amendments to the ASEANSAI rules and procedures*
