@@ -12,5 +12,4 @@ On 9 October 2023, His Excellency Humaid Obaid Abushibs, President of SAI United
 Auditor-General Goh Soon Poh warmly welcomed the delegation and broadly shared on AGO’s role and work. This was followed by a presentation on AGO’s training programmes by an AGO official. Throughout the meeting, there was an engaging exchange of views on the work and areas of priority for the two SAIs.
 
 ![](/images/News_Events_Photos/2023/sai_uae_9_oct_23_1.jpg)
-
 *Group photo of UAE delegates with AGO representatives*
