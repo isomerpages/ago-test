@@ -14,5 +14,4 @@ The visit was hosted by Assistant Auditor-General Mabel Watt. During the visit, 
 AGO and TCU had engaging discussions on the various topics that were presented. Minister Vital do Rego Filho also met with Auditor-General Goh Soon Poh in the afternoon.
 
 ![](/images/News_Events_Photos/2023/2023brazilvisit_1.jpg)
-
 *Group photo of the TCU delegates with AGO representatives*
