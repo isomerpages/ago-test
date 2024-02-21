@@ -8,7 +8,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>![](/images/News<em>Events</em>Photos/2023/2023_GAO_IAFP_1.jpg)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/2023/2023_GAO_IAFP_1.jpg">
 </div>
