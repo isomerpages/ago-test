@@ -17,5 +17,3 @@ In addition to participating for the Data Challenge, shortlisted students were g
 
 
 The final round of the Data Challenge was held on 14 October 2023 where the teams applied the skills acquired during the Tableau Workshop to their presentations, and presented it to a panel of judges. The Data Challenge concluded with a prize presentation ceremony and a chit chat session where students spoke with the Auditor-General and AGO officers to gain a better understanding of AGO and its work.
-
-![](/images/News_Events_Photos/2023/mingling_photo.jpg)
