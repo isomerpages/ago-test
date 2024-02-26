@@ -16,4 +16,4 @@ The programme began with Deputy Auditor-General Rina Chua giving a warm welcome 
 
 In turn, SAV officials also shared on SAV's experience in the same areas.
 
-The Vietnamese DAG also met with Auditor-General Ms Goh Soon Poh during the visit.
+This was followed by a lunch hosted by Auditor-General Goh Soon Poh for the Vietnamese delegation.
