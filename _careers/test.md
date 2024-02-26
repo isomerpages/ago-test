@@ -16,6 +16,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/test.jpg">
+</div>
 <p>I was given the opportunity pursue a Master’s in Public Administration
 programme with the Lee Kuan Yew School of Public Policy.&nbsp; The academic
 work and interactions with participants from various agencies and countries
@@ -35,7 +38,6 @@ ahead.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/test.jpg">
 </div>
@@ -57,6 +59,9 @@ exam fees were sponsored fully by AGO.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/test.jpg">
+</div>
 <p>As a member of the Digital Innovation Office (DIO) at AGO, our team focuses
 on data analytics and automation, streamlining audit processes and introducing
 innovative dimensions to audits. I was given the opportunity to pursue
@@ -74,6 +79,9 @@ how these initiatives can enhance AGO’s role as the national auditor.
 <br>CA Singapore, CIA, CDMP</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/test.jpg">
+</div>
 <p>AGO has provided me with many opportunities, as I have had the opportunity
 to go through two internal postings within AGO and two external secondments
 outside of AGO. In 2022, I was on a 6-month attachment at a private audit
