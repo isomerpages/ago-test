@@ -6,6 +6,41 @@ description: ""
 third_nav_title: Awards
 ---
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office shoot/Rina_800x400.jpg">
+</div>
+<p><em>Mdm Chua Pheck Kiang Rina, Deputy Auditor-General (DAG) </em>
+<br><em>Recipient of the 2019 NDA Public Administration Medal (Silver)</em>
+</p>
+<p></p>
+<blockquote>
+<h4><strong>Being an auditor and serving the nation for 29 years, Rina started out as an Audit Officer. She was rotated to various audit groups and was involved in the audits of GIC, Ministry of National Development and Ministry of Finance.</strong></h4>
+<p></p>
+<h4><strong>The Public Administration Medal (Silver) was awarded to Rina in recognition of her contributions to the audit work of AGO.</strong></h4>
+</blockquote>
+<h4></h4>
+<p>Let’s hear from her on her thoughts on receiving the NDA below.</p>
+<p><strong>What were your thoughts when you heard that you would be receiving this award?</strong> 
+<br>My first thought is to thank Team AGO - without everyone’s support the
+award would not have been possible. I am also happy and honoured as the
+award is a form of recognition of the important work we do at AGO.</p>
+<p><strong>What do you enjoy about working in AGO? What keeps you motivated at work?</strong> 
+<br>In the course of our audit, we get to see and understand the processes
+involved in the wide variety of work performed by different Government
+agencies. This keeps the job interesting as there is always something new
+we learn in every audit assignment. This, coupled with the meaningful work
+AGO does in enhancing public accountability and helping to strengthen financial
+governance, has kept me motivated all these years.</p>
+<p><strong>What advice would you give the newly joined officers?</strong> 
+<br>I think my advice would apply to all officers – firstly, the importance
+of taking ownership for one’s work and not pushing the responsibility to
+someone else when things did not work out. To me taking ownership for any
+problems or issues would spur one to find a solution to the problem or
+issue. Secondly, the importance of keeping an open mind and constantly
+looking at ways to improve the way things are being done. And finally,
+it is fine to make mistakes but more importantly one must own up to and
+learn from the mistakes.</p>
+<hr>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/fei_lin_800x400.jpg">
 </div>
 <p>Teng Fei Lin, Deputy Director
@@ -35,38 +70,3 @@ to the public service. A big thank you to all who have contributed to the
 GIC audit team throughout this memorable journey.</p>
 <p><strong>Being a recipient of the award, how would you inspire others?</strong> 
 <br>Do your best and your contributions, no matter how small will be noticed.</p>
-<hr>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office shoot/Rina_800x400.jpg">
-</div>
-<p><em>Mdm Chua Pheck Kiang Rina, Deputy Auditor-General (DAG) </em>
-<br><em>Recipient of the 2019 NDA Public Administration Medal (Silver)</em>
-</p>
-<p></p>
-<blockquote>
-<h4><strong>Being an auditor and serving the nation for 29 years, Rina started out as an Audit Officer. She was rotated to various audit groups and was involved in the audits of GIC, Ministry of National Development and Ministry of Finance. </strong></h4>
-<p></p>
-<h4><strong>The Public Administration Medal (Silver) was awarded to Rina in recognition of her contributions to the audit work of AGO.</strong></h4>
-</blockquote>
-<h4></h4>
-<p>Let’s hear from her on her thoughts on receiving the NDA below.</p>
-<p><strong>What were your thoughts when you heard that you would be receiving this award?</strong> 
-<br>My first thought is to thank Team AGO - without everyone’s support the
-award would not have been possible. I am also happy and honoured as the
-award is a form of recognition of the important work we do at AGO.</p>
-<p><strong>What do you enjoy about working in AGO? What keeps you motivated at work?</strong> 
-<br>In the course of our audit, we get to see and understand the processes
-involved in the wide variety of work performed by different Government
-agencies. This keeps the job interesting as there is always something new
-we learn in every audit assignment. This, coupled with the meaningful work
-AGO does in enhancing public accountability and helping to strengthen financial
-governance, has kept me motivated all these years.</p>
-<p><strong>What advice would you give the newly joined officers?</strong> 
-<br>I think my advice would apply to all officers – firstly, the importance
-of taking ownership for one’s work and not pushing the responsibility to
-someone else when things did not work out. To me taking ownership for any
-problems or issues would spur one to find a solution to the problem or
-issue. Secondly, the importance of keeping an open mind and constantly
-looking at ways to improve the way things are being done. And finally,
-it is fine to make mistakes but more importantly one must own up to and
-learn from the mistakes.</p>
