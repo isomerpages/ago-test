@@ -9,9 +9,7 @@ description: ""
 </div>
 <p><em>Audit site visit</em>
 </p>
-<p>#### <strong>AGO carries out the following audits:</strong>
-</p>
-<p></p>
+<h4><strong>AGO carries out the following audits:</strong></h4>
 <table>
 <tbody>
 <tr>
