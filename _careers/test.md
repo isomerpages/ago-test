@@ -27,7 +27,7 @@ audit quality and enhance my understanding of auditing standards and procedures.
 The learning journey at AGO never ends and I look forward to the next bound
 ahead.</p>
 <p>
-<br><strong>CHRISTOPHER TANG CHUAN LEE</strong>
+<br><strong>CHRISTOPHER TANG CHUAN LEE</strong> 
 <br>Acting Group Director
 <br>Bachelor of Accountancy, NTU, 2007
 <br>Master’s in Public Administration, NUS, 2022
@@ -35,7 +35,6 @@ ahead.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hear_from_our_people/mabel_watt.png">
 </div>
@@ -49,7 +48,7 @@ investigative techniques and design of effective anti-fraud controls. The
 exam fees were sponsored fully by AGO.
 <br>
 </p>
-<p><strong>MABEL WATT PUI YEE</strong>
+<p><strong>MABEL WATT PUI YEE</strong> 
 <br>Assistant Auditor-General
 <br>Bachelor of Accountancy, NTU, 1999
 <br>CA Singapore, CIA, CFA, CFE</p>
@@ -57,7 +56,21 @@ exam fees were sponsored fully by AGO.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>As a member of the Digital Innovation Office (DIO) at AGO, our team focuses
+on data analytics and automation, streamlining audit processes and introducing
+innovative dimensions to audits. I was given the opportunity to pursue
+a full-time Master of IT in Business (Analytics) from SMU in 2020, and
+this equipped me to introduce advanced techniques like machine learning
+and graph analytics into our audit tests. The progress in data science
+and automation have transformed our audit approaches. I am excited about
+how these initiatives can enhance AGO’s role as the national auditor.
+<br>
+</p>
+<p><strong>KHOO WEN YONG</strong>
+<br>Senior Assistant Director
+<br>Bachelor of Accountancy, NTU, 2012
+<br>Master’s of Information Technology in Business, SMU, 2021
+<br>CA Singapore, CIA, CDMP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AGO has provided me with many opportunities, as I have had the opportunity
@@ -72,7 +85,7 @@ thus far, which has exposed me to the whole-of-government budgetary framework
 and handling of policy-related work. Based on my experience thus far, AGO
 presents #onecareermanyopportunites. It has been a very fulfilling journey
 and reaffirms to me why I chose AGO in the first place.</p>
-<p><strong>ONG JIA QI</strong>
+<p><strong>ONG JIA QI</strong> 
 <br>Assistant Director (AGO Scholar)
 <br>Bachelor of Business Administration (Accountancy), NUS, 2018
 <br>CA (Singapore), CIA</p>
