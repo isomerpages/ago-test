@@ -14,7 +14,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong>FINANCIAL STATEMENTS AUDIT</strong></h4>
+<h4><strong>FINANCIAL</strong><br><strong>STATEMENTS AUDIT</strong></h4>
 </th>
 <td rowspan="1" colspan="1">
 <p>Involves the checking of accounts with the objective of giving an audit
