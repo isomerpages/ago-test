@@ -8,14 +8,6 @@ description: ""
 <h4><strong>AGO invites dynamic undergraduates to participate in an AGO internship or work-study programme.</strong></h4>
 </blockquote>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office shoot/lowres2Z0A7257_800x400.jpg">
-</div>
-<p><em>"My time at AGO has been transformative, offering valuable public sector insights alongside my academic pursuits. AGO has provided me with a robust support system and readily accessible resources, enabling me to acquire skills and knowledge that will undoubtedly shape my future career."</em>
-</p>
-<p><strong>Aloysius Goh, Accountancy undergraduate, NTU</strong>
-</p>
-<hr>
 <p><strong>AGO INTERNSHIP PROGRAMME</strong>
 </p>
 <p>The AGO Internship Programme provides undergraduates pursuing a Degree
@@ -37,16 +29,6 @@ right.
 by ‘Agency’.
 <br>Step 4: Check on ‘Auditor-General’s Office’ to view the available job/internship
 opportunities.</p>
-<hr>
-<p><strong>AGO WORK-STUDY PROGRAMME</strong>
-</p>
-<p>The AGO Work-Study Programme was introduced in 2023. It provides undergraduates
-flexible work stint(s) while pursuing their undergraduate studies. This
-is a good way for students to prepare for the working world. Students under
-the Programme will be attached to an audit group and will perform audits
-under the supervision of an audit Project Lead. Students will work at AGO
-for at least 3 days a week and for a period of at least 3 months.</p>
-<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/_new_Internship_800x400.jpeg">
@@ -60,7 +42,6 @@ for at least 3 days a week and for a period of at least 3 months.</p>
 <br><em>(Internship Period: 5 June to 11 August 2023)</em>
 </p>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/_New_Raynold_Intern_800x400.jpg">
 </div>
@@ -71,5 +52,22 @@ for at least 3 days a week and for a period of at least 3 months.</p>
 <p><em>Double Degree in Accountancy and Business, </em>
 <br><em>NTU, 2022</em> 
 <br><em>(Internship Period: 1 June to 6 August 2021)</em>
+</p>
+<p></p>
+<p><strong>AGO WORK-STUDY PROGRAMME</strong>
+</p>
+<p>The AGO Work-Study Programme was introduced in 2023. It provides undergraduates
+flexible work stint(s) while pursuing their undergraduate studies. This
+is a good way for students to prepare for the working world. Students under
+the Programme will be attached to an audit group and will perform audits
+under the supervision of an audit Project Lead. Students will work at AGO
+for at least 3 days a week and for a period of at least 3 months.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office shoot/lowres2Z0A7257_800x400.jpg">
+</div>
+<p><em>"My time at AGO has been transformative, offering valuable public sector insights alongside my academic pursuits. AGO has provided me with a robust support system and readily accessible resources, enabling me to acquire skills and knowledge that will undoubtedly shape my future career."</em>
+</p>
+<p><strong>Aloysius Goh, Accountancy undergraduate, NTU</strong>
 </p>
 <p></p>
