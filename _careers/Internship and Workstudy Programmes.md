@@ -30,8 +30,9 @@ by ‘Agency’.
 <br>Step 4: Check on ‘Auditor-General’s Office’ to view the available job/internship
 opportunities.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/_new_Internship_800x400.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vanessa_presentation_photo.jpg">
 </div>
 <p><em>"Interning at AGO had been a very fruitful learning experience where I was given many opportunities to have hands-on experience in auditing a government fund. I was also exposed to various data toolsets such as Tableau which allowed me to analyze and present a huge amount of data into comprehensive charts to give greater insights."</em>
 </p>
