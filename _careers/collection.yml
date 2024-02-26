@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - test.md
       - Career Opportunities.md
       - Experienced Professionals.md
       - Training and Development/.keep
