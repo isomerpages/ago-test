@@ -43,8 +43,9 @@ opportunities.</p>
 <br><em>(Internship Period: 5 June to 11 August 2023)</em>
 </p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/_New_Raynold_Intern_800x400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/raynold_photo_2.jpg">
 </div>
 <p><em>"This internship journey has definitely been a memorable and fulfilling one. I’m immensely thankful to all the AGO officers who have guided and supported me along the way, for being so approachable and generous in terms of sharing their knowledge and skills with me."</em>
 </p>
