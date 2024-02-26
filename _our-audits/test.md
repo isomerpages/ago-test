@@ -21,10 +21,6 @@ description: ""
 opinion on the annual financial statements prepared by the entity;</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <h4><strong>SELECTIVE AUDIT</strong></h4>
@@ -38,10 +34,6 @@ is not intended to render an opinion on the financial statements or draw
 any conclusion on the overall performance of the audited entity;</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <h4><strong>THEMATIC AUDIT</strong></h4>
