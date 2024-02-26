@@ -48,4 +48,17 @@ in the course of the audit, in addition to lapses.</p>
 </tbody>
 </table>
 <h4></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4><strong>FINANCIAL STATEMENTS AUDIT</strong></h4>
+</th>
+<td rowspan="1" colspan="1">
+<p>Involves the checking of accounts with the objective of giving an audit
+opinion on the annual financial statements prepared by the entity;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
