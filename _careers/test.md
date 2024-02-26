@@ -35,8 +35,9 @@ ahead.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hear_from_our_people/mabel_watt.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/test.jpg">
 </div>
 <p>In AGO, there is a strong learning culture with emphasis given to the
 learning and development of officers at all levels. Those with longer years
@@ -66,7 +67,7 @@ and automation have transformed our audit approaches. I am excited about
 how these initiatives can enhance AGO’s role as the national auditor.
 <br>
 </p>
-<p><strong>KHOO WEN YONG</strong>
+<p><strong>KHOO WEN YONG</strong> 
 <br>Senior Assistant Director
 <br>Bachelor of Accountancy, NTU, 2012
 <br>Master’s of Information Technology in Business, SMU, 2021
