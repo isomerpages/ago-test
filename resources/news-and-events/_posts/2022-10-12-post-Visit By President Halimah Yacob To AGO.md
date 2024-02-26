@@ -29,9 +29,6 @@ Madam President also interacted with our newly confirmed AGO officers.
 ![](/images/Visitors/President6.jpg)
  *Madam President in a group photograph with senior management and the newly confirmed officers.* 
 
-![](/images/Visitors/President7.jpg)
-
 ![](/images/Visitors/President8.jpg)
 
-![](/images/Visitors/President9.jpg)
 *Madam President encouraged our newly confirmed auditors to carry out their roles with conviction and purpose.*
