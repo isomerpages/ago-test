@@ -18,10 +18,10 @@ description: ""
 <th rowspan="1" colspan="1">
 <h4><strong>FINANCIAL STATEMENTS AUDIT</strong></h4>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Involves the checking of accounts with the objective of giving an audit
 opinion on the annual financial statements prepared by the entity;</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
