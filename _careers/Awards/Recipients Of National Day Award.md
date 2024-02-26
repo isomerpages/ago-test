@@ -147,5 +147,5 @@ third_nav_title: Awards
 </tr>
 </tbody>
 </table>
-<p><strong>For more information on the National Day Awards, please visit the Prime Minister's Office's website <a href="https://www.pmo.gov.sg/National-Day-Awards" rel="noopener noreferrer nofollow" target="_blank">here</a>{:target="_blank"} .</strong>
+<p><strong>For more information on the National Day Awards, please visit the Prime Minister's Office's website <a href="https://www.pmo.gov.sg/National-Day-Awards" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
