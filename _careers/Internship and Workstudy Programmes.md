@@ -55,7 +55,7 @@ opportunities.</p>
 <br><em>NTU, 2022</em> 
 <br><em>(Internship Period: 1 June to 6 August 2021)</em>
 </p>
-<p></p>
+<hr>
 <p><strong>AGO WORK-STUDY PROGRAMME</strong>
 </p>
 <p>The AGO Work-Study Programme was introduced in 2023. It provides undergraduates
@@ -70,6 +70,9 @@ for at least 3 days a week and for a period of at least 3 months.</p>
 </div>
 <p><em>"My time at AGO has been transformative, offering valuable public sector insights alongside my academic pursuits. AGO has provided me with a robust support system and readily accessible resources, enabling me to acquire skills and knowledge that will undoubtedly shape my future career."</em>
 </p>
-<p><strong>Aloysius Goh, Accountancy undergraduate, NTU</strong>
+<p><strong>Aloysius Goh</strong>
 </p>
+<p>Undergraduate
+<br>Bachelor of Accountancy, NTU
+<br>(Work-Study Programme Period: 4 September to 24 November 2023)</p>
 <p></p>
