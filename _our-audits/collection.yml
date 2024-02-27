@@ -2,7 +2,6 @@ collections:
   our-audits:
     output: true
     order:
-      - test.md
       - Our Audits.md
       - Standards & Methodology.md
       - Audit Quality & Code of Ethics.md
