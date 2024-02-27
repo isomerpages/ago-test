@@ -1,0 +1,60 @@
+title: Auditor-General's Office
+url: https://www.ago.gov.sg
+favicon: /images/logofavicon.png
+colors:
+  primary-color: "#003366"
+  secondary-color: "#003366"
+  media-colors:
+    - title: media-color-one
+      color: "#8d99ae"
+    - title: media-color-two
+      color: "#5795de"
+    - title: media-color-three
+      color: "#00726b"
+    - title: media-color-four
+      color: "#9b8579"
+    - title: media-color-five
+      color: "#0a3668"
+description: Auditor-General's Office of Singapore - An Isomer site of the
+  Singapore Government
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d2klzchk43fxny.amplifyapp.com
+prod: https://master.d2klzchk43fxny.amplifyapp.com
+facebook-pixel: ""
+shareicon: /images/logofavicon.png
+is_government: true
+google_analytics_ga4: ""
+linkedin-insights: ""
+resources_name: resources

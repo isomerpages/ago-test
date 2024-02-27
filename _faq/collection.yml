@@ -1,0 +1,8 @@
+collections:
+  faq:
+    output: true
+    order:
+      - General.md
+      - Audit.md
+      - Reports.md
+      - Providing Information on Suspected Financial Irregularities.md

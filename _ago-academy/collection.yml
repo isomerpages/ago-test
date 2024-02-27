@@ -1,0 +1,9 @@
+collections:
+  ago-academy:
+    output: true
+    order:
+      - AGO Academy.md
+      - Foundation Course.md
+      - Seminars and Workshops.md
+      - Learning Days.md
+      - Training Sponsorships.md

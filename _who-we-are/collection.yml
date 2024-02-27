@@ -1,0 +1,10 @@
+collections:
+  who-we-are:
+    output: true
+    order:
+      - Overview.md
+      - Vision, Mission, Core Values.md
+      - Senior Management.md
+      - Organisation Structure.md
+      - Audit Authority.md
+      - History.md
