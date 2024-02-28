@@ -41,7 +41,7 @@ it is fine to make mistakes but more importantly one must own up to and
 learn from the mistakes.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/fei_lin_800x400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Careers/fei_lin_800x400.jpg">
 </div>
 <p>Teng Fei Lin, Deputy Director
 <br><em>Recipient of the 2021 National Day Award (NDA) Commendation Medal</em>
