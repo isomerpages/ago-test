@@ -75,4 +75,3 @@ for at least 3 days a week and for a period of at least 3 months.</p>
 <p>Undergraduate
 <br>Bachelor of Accountancy, NTU
 <br>(Work-Study Programme Period: 4 September to 24 November 2023)</p>
-<p></p>
