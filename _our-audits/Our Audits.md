@@ -48,7 +48,7 @@ description: ""
 	}
 </style>
 
-![](/images/Stadium%20Shoot/lowres2Z0A7368_800x400.jpg)
+![](/images/Our_Audits/lowres2Z0A7368_800x400.jpg)
 *Audit site visit*
 
 #### **AGO carries out the following audits:**
