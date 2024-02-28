@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office%20shoot/lowres2Z0A6906_800x400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Publications/lowres2Z0A6906_800x400.jpg">
 </div>
-<h4></h4>
+<p></p>
 <blockquote>
 <h4><strong>The Report of the Auditor-General is typically presented in early July each year and subsequently tabled in Parliament later</strong></h4>
 </blockquote>
