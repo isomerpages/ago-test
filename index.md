@@ -34,7 +34,7 @@ sections:
       button: READ MORE
       alt: Audit Quality & Code of Ethics
       url: /our-audits/audit-quality-code-of-ethnics/
-      image: /images/Office shoot/2Z0A6945.jpg
+      image: /images/Home/2Z0A6945.jpg
   - infopic:
       title: Upskilling with AGO Academy
       id: infopic
