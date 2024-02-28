@@ -24,7 +24,7 @@ Institutions (INTOSAI), the relevant audit manuals (eg the Selective Audit
 Manual) also takes into consideration the standards and guidelines set
 by INTOSAI.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office%20shoot/lowres2Z0A7265_800x400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_Audits/lowres2Z0A7265_800x400.jpg">
 </div>
 <p></p>
 <blockquote>
