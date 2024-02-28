@@ -5,13 +5,13 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/AGOEntrance.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Who_we_are/AGOEntrance.jpg">
 </div>
 <p></p>
 <blockquote>
 <h4><strong>AGO is an independent organ of state and the national auditor. We play an important role in enhancing public accountability in the management and use of public funds and resources through our audits.</strong></h4>
-</blockquote>
 <p>Our independence allows us to carry out our audits without fear or favour.</p>
+</blockquote>
 <p>We audit:</p>
 <ul data-tight="true" class="tight">
 <li>
