@@ -32,7 +32,7 @@ opportunities.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vanessa_presentation_photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Careers/vanessa_lee.jpg">
 </div>
 <p><em>"Interning at AGO had been a very fruitful learning experience where I was given many opportunities to have hands-on experience in auditing a government fund. I was also exposed to various data toolsets such as Tableau which allowed me to analyze and present a huge amount of data into comprehensive charts to give greater insights."</em>
 </p>
@@ -45,7 +45,7 @@ opportunities.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/raynold_photo_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Careers/raynold_lim.jpg">
 </div>
 <p><em>"This internship journey has definitely been a memorable and fulfilling one. I’m immensely thankful to all the AGO officers who have guided and supported me along the way, for being so approachable and generous in terms of sharing their knowledge and skills with me."</em>
 </p>
