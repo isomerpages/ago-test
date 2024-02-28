@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Training and Development
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office shoot/lowres2Z0A7319_800x400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Careers/lowres2Z0A7319_800x400.jpg">
 </div>
 <p></p>
 <blockquote>
