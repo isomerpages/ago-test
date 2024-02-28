@@ -43,8 +43,9 @@ by sufficient proof of payment; and</p>
 complied with.</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Audit site visit" src="/images/Sentosa%20Shoot/lowres2Z0A7531_800x400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Who_we_are/lowres2Z0A7531_800x400.jpg">
 </div>
 <p><em>Audit site visit</em>
 </p>
