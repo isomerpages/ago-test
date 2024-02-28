@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Who We Are
           description: ""
-          url: /overview
+          url: /who-we-are/overview
         - title: Annual Report
           description: ""
           url: /publications/annual-reports/
