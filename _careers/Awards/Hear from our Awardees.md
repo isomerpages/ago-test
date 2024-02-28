@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Awards
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office shoot/Rina_800x400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Careers/Rina_800x400.jpg">
 </div>
 <p><em>Mdm Chua Pheck Kiang Rina, Deputy Auditor-General (DAG) </em>
 <br><em>Recipient of the 2019 NDA Public Administration Medal (Silver)</em>
