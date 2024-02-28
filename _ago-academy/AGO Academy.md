@@ -4,7 +4,6 @@ permalink: /ago-academy/academy/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGO_Academy/lowres2Z0A7109_800x400.jpg">
 </div>
