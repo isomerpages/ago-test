@@ -10,7 +10,8 @@ variant: tiptap
 <p></p>
 <blockquote>
 <h4><strong>AGO is an independent organ of state and the national auditor. We play an important role in enhancing public accountability in the management and use of public funds and resources through our audits.</strong></h4>
-<p>Our independence allows us to carry out our audits without fear or favour.</p>
+<p></p>
+<h4><strong>Our independence allows us to carry out our audits without fear or favour.</strong></h4>
 </blockquote>
 <p>We audit:</p>
 <ul data-tight="true" class="tight">
