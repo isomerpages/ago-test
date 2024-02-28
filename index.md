@@ -43,7 +43,7 @@ sections:
       button: FIND OUT MORE
       url: /ago-academy/academy/
       alt: Upskilling with AGO Academy
-      image: /images/Home_page_illo_V4.jpg
+      image: /images/Home/Home_page_illo_V4.jpg
   - resources:
       title: LATEST NEWS & EVENTS
       id: resources
