@@ -4,9 +4,8 @@ permalink: /ago-academy/foundation-course/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/foundation_course.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGO_Academy/foundation_course.png">
 </div>
 <p></p>
 <blockquote>
