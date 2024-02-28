@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Office shoot/home.jpg
+      background: /images/Home/home.jpg
       url: /overview/
       key_highlights:
         - title: Who We Are
