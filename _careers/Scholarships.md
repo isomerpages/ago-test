@@ -22,8 +22,6 @@ padding: 0 0 0 2rem;
 
 }
 
-  
-  
 
 .scholarship-table {
 
@@ -72,7 +70,7 @@ text-align: left;
 </style>
 
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner_scholarship.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Careers/banner_scholarship.png">
 </div>
 <h3><strong>AGO Auditing Service Scholarship</strong></h3>
 <p><strong>As the nation’s auditor, AGO believes in nurturing outstanding and talented individuals who desire to serve Singapore and are interested in pursuing a fulfilling career in public sector auditing.</strong>
