@@ -4,13 +4,8 @@ permalink: /publications/other-publications/
 variant: tiptap
 description: ""
 ---
-<table>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Additional New Images/Publications.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Publications/Publications.jpg">
 </div>
 <p></p>
 <table>
