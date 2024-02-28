@@ -36,7 +36,6 @@ variant: markdown
 <p class="page_highlight">To audit and report to the President and Parliament on the proper accounting and use of public resources so as to enhance public accountability and help strengthen the financial governance of the public service.</p>
 
 ![](/images/Who_we_are/lowres2Z0A7487_800x400.jpg)
-![](/images/Who_we_are/lowres2Z0A7487_800x400.jpg)
 *Audit site visit* 
 
 ### **Our Core Values**
