@@ -27,8 +27,7 @@ variant: markdown
 }
 </style>
 
-![](/images/Office%20shoot/lowres2Z0A7089_800x400.jpg)
-
+![](/images/Who_we_are/lowres2Z0A7089_800x400.jpg)
 	
 ### **Our Vision**
 <p class="page_highlight">To be a respected national audit institution – Professional, Independent, Effective.</p>
@@ -36,11 +35,11 @@ variant: markdown
 ### **Our Mission** 
 <p class="page_highlight">To audit and report to the President and Parliament on the proper accounting and use of public resources so as to enhance public accountability and help strengthen the financial governance of the public service.</p>
 
-![](/images/Stadium%20Shoot/lowres2Z0A7487_800x400.jpg)
+![](/images/Who_we_are/lowres2Z0A7487_800x400.jpg)
+![](/images/Who_we_are/lowres2Z0A7487_800x400.jpg)
 *Audit site visit* 
 
 ### **Our Core Values**
-
 
 <div class="is-multiline padding--bottom--lg padding--top--lg">
 	<div class="row">
