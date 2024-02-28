@@ -66,7 +66,7 @@ under the supervision of an audit Project Lead. Students will work at AGO
 for at least 3 days a week and for a period of at least 3 months.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office shoot/lowres2Z0A7257_800x400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Careers/aloysius_goh.jpg">
 </div>
 <p><em>"My time at AGO has been transformative, offering valuable public sector insights alongside my academic pursuits. AGO has provided me with a robust support system and readily accessible resources, enabling me to acquire skills and knowledge that will undoubtedly shape my future career."</em>
 </p>
