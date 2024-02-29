@@ -49,3 +49,50 @@ in the course of the audit, in addition to lapses.</p>
 </table>
 <p></p>
 <p></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hear_from_our_people/christopher_tang.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hear_from_our_people/christopher_tang.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I was given the opportunity to pursue a Master’s in Public Administration
+programme with the Lee Kuan Yew School of Public Policy.&nbsp; The academic
+work and interactions with participants from various agencies and countries
+was an eye-opener for me and helped me further appreciate the public sector
+and policies beyond what I learnt from audit work.&nbsp; I also work with
+experienced public accountants from the public and private sectors as a
+member of ACRA’s Practice Monitoring Sub Committee. Such engagements promote
+audit quality and enhance my understanding of auditing standards and procedures.
+The learning journey at AGO never ends and I look forward to the next bound
+ahead.</p>
+<p><strong><br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In AGO, there is a strong learning culture with emphasis given to the
+learning and development of officers at all levels. Those with longer years
+of service continue to upskill themselves professionally. As I have always
+been interested in fraud prevention and detection, I took up the Certified
+Fraud Examiner qualification which is recognised globally. Through the
+programme, I gained knowledge on areas such as complex financial transactions,
+investigative techniques and design of effective anti-fraud controls. The
+exam fees were sponsored fully by AGO.</p>
+<p><strong><br></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
