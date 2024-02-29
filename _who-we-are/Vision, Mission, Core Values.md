@@ -88,6 +88,8 @@ standards</p>
 <li>
 <p>We strive to be the best in what we do</p>
 </li>
+</ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>We continually look for ways to improve the way we do our work</p>
 </li>
