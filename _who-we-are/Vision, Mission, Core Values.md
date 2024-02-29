@@ -32,11 +32,12 @@ help strengthen the financial governance of the public service.</p>
 <h4><strong>Independence</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>We carry out our audits without fear or favour</p>
 </li>
+</ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>We conduct ourselves at all times in a manner consistent with our independence</p>
 </li>
@@ -65,11 +66,12 @@ standards</p>
 <h4><strong>Integrity</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>We strive to uphold the public trust in our work</p>
 </li>
+</ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>We carry out our work with the highest standard of fairness and objectivity</p>
 </li>
