@@ -95,4 +95,80 @@ exam fees were sponsored fully by AGO.</p>
 </tr>
 </tbody>
 </table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Independence</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>We carry out our audits without fear or favour</p>
+</li>
+<li>
+<p>We conduct ourselves at all times in a manner consistent with our independence</p>
+</li>
+</ul>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Professionalism</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>We strive for the highest standards of professional conduct</p>
+</li>
+<li>
+<p>We benchmark our work to recognised international and professional auditing
+standards</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Integrity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>We strive to uphold the public trust in our work</p>
+</li>
+<li>
+<p>We carry out our work with the highest standard of fairness and objectivity</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Excellence</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>We strive to be the best in what we do</p>
+</li>
+<li>
+<p>We continually look for ways to improve the way we do our work</p>
+</li>
+<li>
+<p>We bring out the best in our people</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
