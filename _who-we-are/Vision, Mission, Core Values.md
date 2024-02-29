@@ -9,12 +9,16 @@ variant: tiptap
 </div>
 <h3><strong>Our Vision</strong></h3>
 <blockquote>
-<h4>To be a respected national audit institution – Professional, Independent, Effective.</h4>
+<p>To be a respected national audit institution – Professional, Independent,
+Effective.</p>
 </blockquote>
 <h3><strong>Our Mission</strong></h3>
 <blockquote>
-<h4>To audit and report to the President and Parliament on the proper accounting and use of public resources so as to enhance public accountability and help strengthen the financial governance of the public service.</h4>
+<p>To audit and report to the President and Parliament on the proper accounting
+and use of public resources so as to enhance public accountability and
+help strengthen the financial governance of the public service.</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Who_we_are/lowres2Z0A7487_800x400.jpg">
 </div>
