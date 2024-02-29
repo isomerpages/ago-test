@@ -10,6 +10,7 @@ description: ""
 <p><em>Audit site visit</em>
 </p>
 <h4><strong>AGO carries out the following audits:</strong></h4>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -47,4 +48,5 @@ in the course of the audit, in addition to lapses.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
