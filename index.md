@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home/2Z0A6957_1920x720_72dpi.jpg
+      background: /images/Home/2Z0A6957_795x380_72dpi.jpg
       url: /overview/
       key_highlights:
         - title: Who We Are
